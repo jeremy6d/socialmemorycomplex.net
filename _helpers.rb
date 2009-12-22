@@ -20,4 +20,8 @@ module Helpers
     label = [h(post.title), "&#8594;"].join(" ")
     link_to label, post.url
   end
+  
+  def published_date(time)
+    time.strftime("Published on %A, %B %d, %Y")
+  end
 end
