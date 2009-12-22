@@ -4,11 +4,10 @@ lsi:         false
 server_port: 4000
 pygments:    false
 markdown:    maruku
-permalink:   date
+permalink: /:year/:month/:title.html
 paginate:    15
 site_title:  Social Memory Complex
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_dir:    images/latex
-  png_url:    /images/latex
+sass: true
+haml: true
+post_defaults:
+  layout: post
