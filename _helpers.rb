@@ -10,4 +10,14 @@ module Helpers
        "</li>"].join
     end.join("\n")
   end
+  
+  def previous_link(post)
+    label = ["&#8592;", h(post.title)].join(" ")
+    link_to label, post.url
+  end
+  
+  def next_link(post)
+    label = [h(post.title), "&#8594;"].join(" ")
+    link_to label, post.url
+  end
 end

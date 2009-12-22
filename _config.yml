@@ -4,7 +4,7 @@ lsi:         false
 server_port: 4000
 pygments:    false
 markdown:    maruku
-permalink: /:year/:month/:title.html
+permalink:   pretty
 paginate:    15
 site_title:  Social Memory Complex
 sass: true

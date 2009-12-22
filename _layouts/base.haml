@@ -3,15 +3,28 @@
   %head
     %title 
       =[page.title, "Social Memory Complex"].uniq.join(" | ")
-    %link{:href => "smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
+    %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
   %body
     .page
       %h1
-        =page.title
+        %a{:href => "#{page.respond_to?(:url) ? page.url : ''}"}
+          =page.title
         #subtitle
           =page.subtitle if page.respond_to? :subtitle
       =content
       #footer
+        - if page.respond_to?(:bottom_nav)
+          %ul#navigation
+            - if target = page.next
+              %li
+                =previous_link(target)
+            %li
+              %a{:href=>"/"}
+                Home
+            - if target = page.previous
+              %li
+                =next_link(target)
+        %br
         %a{:rel=>"license", :href=>"http://creativecommons.org/licenses/by-nc-sa/3.0/"}
           %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png"}
         %span#text{"xmlns:dc"=>"http://purl.org/dc/elements/1.1/", :href=>"http://purl.org/dc/dcmitype/Text", :property=>"dc:title", :rel=>"dc:type"}
