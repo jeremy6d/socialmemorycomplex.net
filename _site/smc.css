@@ -1,0 +1,19 @@
+body { background: black; color: lightgrey; }
+
+.page { font-family: helvetica, arial sans-serif; font-size: 14pt; margin: 1em 16%; text-align: center; }
+.page a { color: lightgrey; text-decoration: underline; }
+.page a:hover { color: white; }
+.page h1 { font-size: 4em; }
+.page h1 #subtitle { padding: .5em 0 0 0; font-size: .25em; font-style: italic; }
+.page ul#navigation { list-style-type: none; margin: 0; }
+.page ul#navigation li { display: inline; text-align: justify; padding: 0 5em; }
+.page ul#navigation li a { color: lightgrey; text-decoration: none; }
+.page ul#navigation li a:hover { color: white; text-decoration: underline; }
+.page h2 { font-size: 2em; }
+.page h3 { font-size: 1.5em; }
+.page #footer { text-align: center; font-size: .8em; padding-top: 10%; margin: 0 28%; }
+
+.content { padding: 0 7%; text-align: left; }
+.content .meta { font-style: italic; font-size: .75em; text-align: right; }
+.content .column { width: 30%; padding: 0 1.5%; float: left; }
+.content .column h2 { text-align: center; font-size: 1.5em; }
