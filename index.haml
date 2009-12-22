@@ -1,0 +1,13 @@
+---
+layout: full_nav
+title: Social Memory Complex
+subtitle: A political economy of the soul
+---
+-for post in site.posts
+  .post{:id => "post-#{post.slug}"}
+    %h2.post-title
+      =post.title
+    =post.content
+    .meta
+      ="Published on #{post.date}"
+      ="Tags: #{post.tags}" unless post.tags.empty?

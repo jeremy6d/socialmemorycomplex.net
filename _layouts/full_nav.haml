@@ -1,0 +1,7 @@
+---
+layout: base
+---
+%ul#navigation
+  =render_nav({"Home" => "/", "About" => "/about.html", "Archives" => "/archives.html", "Links" => "/links.html"}, page.title.split(" ")[0])
+.content
+  =content
