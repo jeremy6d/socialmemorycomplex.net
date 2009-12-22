@@ -1,7 +1,0 @@
----
-layout: page
-title: Testing
-tags: test
----
-
-Just trying out the Jekyll system. Still not sure how I'm going to upload images or what.
