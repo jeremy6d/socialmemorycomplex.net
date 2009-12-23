@@ -5,7 +5,7 @@ body
 .page
   font-family: helvetica, arial sans-serif
   font-size: 14pt
-  margin: 1em 16%
+  margin: 1% 16%
   text-align: center
   p
     img
@@ -17,10 +17,13 @@ body
     color: white
   h1
     font-size: 4em
+    margin: .25em 0
     a
       text-decoration: none
+      text-shadow: darkgrey 2px 2px 2px
     a:hover
       color: white
+      text-shadow: lightgrey 2px 2px 2px
     #subtitle
       padding: .5em 0 0 0
       font-size: .25em
@@ -31,8 +34,8 @@ body
     font-size: .8em
     li
       display: inline
-      text-align: justify
-      padding: 0 5em
+      text-align: center
+      padding: 0 2em
       a 
         color: lightgrey
         text-decoration: none
@@ -46,17 +49,26 @@ body
     a:hover 
       color: white
   h3
-    font-size: 1.5em
+    font-size: 1.25em
   #footer
     text-align: center
     font-size: .8em
     padding-top: 10%
-    margin: 0 28%
+    margin: 0
+    a
+      color: lightgrey
+      text-decoration: none
+    a:hover
+      color: white
 
 .content
   clear: both
   padding: 0 7%
   text-align: left
+  blockquote
+    border-left: 3px solid lightgrey
+    padding-left: 2em
+    margin: 0
   .meta
     font-style: italic
     font-size: .75em
@@ -67,4 +79,3 @@ body
     float: left
     h2
       text-align: center
-      font-size: 1.5em  
