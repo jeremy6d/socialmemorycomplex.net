@@ -2,6 +2,7 @@
 layout: post
 title: Public-Private Co-dependence
 published: true
+tags: corporatism, left-libertarian
 ---
 Everybody and their mother has invoked the old Mussolini quote ([regardless of its accuracy](http://en.wikiquote.org/wiki/Talk:Benito_Mussolini)) about renaming fascism to "corporatism". It always surprises me how many different political conclusions this point is used to augment. For some, it means private business is bad because it takes advantage of a vulnerable democratic political process. For others, it means firms are enlisted into the agendas of big bad politicians, restraining the so-called "free market" competition that benefits us all. 
 
@@ -22,4 +23,4 @@ At its root, government is one aspect of a system of collusion designed to privi
 
 The radicals of the 19th century saw the state as larger than just the government. The state was composed of all those who benefited from the status quo. Government, business, academia, and other institutions work to stabilize this status quo as the basis of their privilege. So when Mussolini talks about a merger between corporate and state power, he is not talking about fusing business to government - *that alliance already exists*, and most people back then knew it, too.
 
-Mussolini was talking about bringing all aspects of society under a smaller group of technocratic, autocratic managers. The full power of society could only be leveraged by total submission of the individual. Today, that's hardly necessary; the system has become so suffocating that its a trivial matter to convince most people to give up and become a cog in the machine. And we're not going to reach those cogs as long as we talk in terms of the machine's operating manual. The state is more subtle than that.
+Mussolini was talking about bringing all aspects of society under a smaller group of technocratic, autocratic managers. The full power of society could only be leveraged by total submission of the individual. Today, that's hardly necessary; the system has become so suffocating that its a trivial matter to convince most people to give up and become a cog in the machine. And we're not going to reach those cogs as long as we talk in terms of the machine's operating manual. The state is more subtle than the conservative "government vs. business" paradigm.
