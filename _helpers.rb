@@ -24,4 +24,11 @@ module Helpers
   def published_date(time)
     time.strftime("Published on %A, %B %d, %Y")
   end
+  
+  def header(page)
+    permalink = page.respond_to?(:url) ? page.url : ''
+    title = page.title
+    subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page.subtitle}</div>"  if page.respond_to? :subtitle
+    "<a href='#{permalink}'>#{title}</a>#{subtitle}"
+  end
 end

@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Social Memory Complex</title>
+ <link href="http://socialmemorycomplex.net/atom.xml" rel="self"/>
+ <link href="http://socialmemorycomplex.net/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://socialmemorycomplex.net/</id>
+ <author>
+   <name>Jeremy Weiland</name>
+   <email>jeremy@6thdensity.net</email>
+ </author>
+ 
+ {% for post in site.posts limit: 15 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://socialmemorycomplex.net{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://socialmemorycomplex.net{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

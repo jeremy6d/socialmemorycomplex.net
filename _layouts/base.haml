@@ -4,13 +4,12 @@
     %title 
       =[page.title, "Social Memory Complex"].uniq.join(" | ")
     %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
+    %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
+    %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
   %body
     .page
       %h1
-        %a{:href => "#{page.respond_to?(:url) ? page.url : ''}"}
-          =page.title
-        #subtitle
-          =page.subtitle if page.respond_to? :subtitle
+        =header(page)
       =content
       #footer
         - if page.respond_to?(:bottom_nav)

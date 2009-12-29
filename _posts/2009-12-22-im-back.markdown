@@ -6,6 +6,8 @@ tags: personal
 
 It's been a long, long time. I went to Amsterdam. I reconnected with my host family, with whom I'd had no contact for 13 years. I revolutionized my productivity strategy. I delved into new areas of [ruby](http://ruby-lang.org). And more, I'm sure, which is hard to remember because I didn't freaking *write it down*.
 
+<!-- more -->
+
 Why have I been gone so long? The biggest reason is spiritual; much of the infighting among the [Alliance](http://all-left.net) left me feeling like I had been working with self-critical neo-maoists who were more interested in purifying the party than critically thinking about freeing the actually existing people. Disengaging from the ideology was essential to rediscovering those ideas for which I'm willing to fight.
 
 A huge, giant part of it was technical problems related to WordPress which I've still not figured out. It took $38/month in virtual hardware to run my sites. Much of this was related to leftlibertarian.org (still down). In an attempt to pare down the resources I required to run what I thought were, in the end, rather simple operations, I moved to [nginx](http://nginx.org) to escape Apache's well known memory issues. This ended up being more complicated than I expected, the result being I'm still down.
