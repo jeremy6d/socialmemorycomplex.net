@@ -13,3 +13,5 @@ subtitle: A political economy of the soul
       =published_date(post.date)
       %br
       ="Tags: #{post.tags}" unless post.tags.empty?
+      %br
+      =link_to "Comments", "#{post.url}#disqus_thread"
