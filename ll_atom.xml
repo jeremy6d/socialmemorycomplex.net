@@ -4,22 +4,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Social Memory Complex: Political Content</title>
- <link href="http://socialmemorycomplex.net/political_atom.xml" rel="self"/>
+ <title>Social Memory Complex: Left Libertarian Content</title>
+ <link href="http://socialmemorycomplex.net/ll_atom.xml" rel="self"/>
  <link href="http://socialmemorycomplex.net/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://socialmemorycomplex.net/</id>
  <author>
    <name>Jeremy Weiland</name>
-   <email>jeremy@6thdensity.net</email<name />
+   <email>jeremy@6thdensity.net</email>
  </author>
- 
- {% for post in site.tags.politics limit: 15 %}
+ {% for post in site.categories.leftlibertarian limit: 15 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://socialmemorycomplex.net{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://socialmemorycomplex.net{{ post.id }}</id>
+   <dc:creator>Jeremy Weiland</dc:creator>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

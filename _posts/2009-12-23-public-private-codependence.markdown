@@ -3,6 +3,7 @@ layout: post
 title: Public-Private Co-dependence
 published: true
 tags: corporatism, left-libertarian, politics
+category: leftlibertarian
 ---
 Everybody and their mother has invoked the old Mussolini quote ([regardless of its accuracy](http://en.wikiquote.org/wiki/Talk:Benito_Mussolini)) about renaming fascism to "corporatism". It always surprises me how many different political conclusions this point is used to augment. For some, it means private business is bad because it takes advantage of a vulnerable democratic political process. For others, it means firms are enlisted into the agendas of big bad politicians, restraining the so-called "free market" competition that benefits us all. 
 
