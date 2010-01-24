@@ -22,7 +22,7 @@ module Helpers
   end
   
   def published_date(time)
-    time.strftime("Published on %A, %B %d, %Y")
+    time.strftime("Written by Jeremy Weiland on %A, %B %d, %Y")
   end
   
   def header(page)
