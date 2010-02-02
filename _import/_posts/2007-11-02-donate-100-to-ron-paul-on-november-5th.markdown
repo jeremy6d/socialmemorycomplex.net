@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 820
+title: Donate $100 to Ron Paul on November 5th
+wordpress_url: http://blog.6thdensity.net/?p=820
+layout: post
+---
+<p>I'm officially posting in support of <a href="http://thisnovember5th.com">thisnovember5th.com</a>, a site dedicated to raising $10 million in one day for the Paul campaign.</p><p align=center><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/sHe2alylFgo&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/sHe2alylFgo&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p><p>I'm not normally down with political contributions.  However, the interesting thing about the Paul campaign is the spontaneous following he's generated out of those independents to which libertarians are always trying to appeal.  This could be the start of something big - if not a libertarian presidency, then certainly a new and powerful popular libertarian movement. </p><p>Paul has constantly stressed that his message is more important than his personal political future.  In that spirit I would urge you to pledge $100 to Ron Paul on November 5th - perhaps not so much to elect Paul as to provide tangible support for this new grassroots political consciousness that is emerging out of nowhere in this country.  It would be absolutely unprecendented to raise $10 million in one day for a libertarian political agenda, and I want to be part of that.</p>

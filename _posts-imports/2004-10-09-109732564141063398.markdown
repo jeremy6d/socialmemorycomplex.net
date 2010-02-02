@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 272
+title: "109732564141063398"
+wordpress_url: http://blog.6thdensity.net/?p=272
+layout: post
+---
+I'm at work on a Saturday.  Somebody shoot me.

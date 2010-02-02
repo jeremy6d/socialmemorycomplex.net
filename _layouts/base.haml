@@ -3,6 +3,7 @@
   %head
     %title 
       =[page.title, "Social Memory Complex"].uniq.join(" | ")
+    %meta{:name => 'description', :content => get_description(page) }
     %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
     %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
     %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
@@ -14,13 +15,13 @@
       #footer
         - if page.respond_to?(:bottom_nav)
           %ul#navigation
-            - if target = page.next
+            - if target = page.previous
               %li
                 =previous_link(target)
             %li
               %a{:href=>"/"}
                 Home
-            - if target = page.previous
+            - if target = page.next
               %li
                 =next_link(target)
         %br{:clear=>"all"}

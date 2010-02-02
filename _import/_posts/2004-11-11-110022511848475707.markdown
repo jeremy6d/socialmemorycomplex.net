@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 303
+title: "110022511848475707"
+wordpress_url: http://blog.6thdensity.net/?p=303
+layout: post
+---
+Hey, everybody likes comics - especially ones about <a href="http://www.reason.com/0411/bagge.shtml">honest Republicans</a>.
+
+Damn, Reason kinda sounds cool now.  I used to think it was some objectivist rag.

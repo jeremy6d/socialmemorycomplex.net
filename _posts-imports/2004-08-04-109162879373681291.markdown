@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 254
+title: "109162879373681291"
+wordpress_url: http://blog.6thdensity.net/?p=254
+layout: post
+---
+It kind of bothers me that I'm getting so interested in this Software Design course I'm taking at work.  I'm finding it harder and harder to ignore the fact that I'm a big fat nerd.

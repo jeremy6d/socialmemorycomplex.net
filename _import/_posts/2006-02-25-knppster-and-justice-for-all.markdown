@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 404
+title: Fiscal presumption of guilt?
+wordpress_url: http://blog.6thdensity.net/?p=404
+layout: post
+---
+<a href="http://knappster.blogspot.com/">Thomas Knapp</a> has great commentary on <a href="http://knappster.blogspot.com/2006/02/and-justice-for-all.html">the legal situation for defendants in New Orleans</a>, who are waiting in jail for long periods while the system catches up.  He made an especially interesting point that I wanted to highlight:<blockquote><P>In every criminal prosecution, there is a prosecutorial team and a defense team. If both teams are tax-financed, then they should receive equal amounts of tax money to pay for their operations.</p><p>In other words, the public defenders' budget should be the same as the prosecutor's budget, perhaps with a rebate-to-the-treasury requirement for each criminal defense that the public defenders don't handle. A public defender should be paid as much as a prosecutor. A public defender should have just as much money to investigate, test evidence, etc., as the prosecutor opposite.</p></blockquote>That makes a hell of a lot of sense.  I've always been uncomfortable with the idea of paying somebody for the sole purpose of putting people in jail.</p>

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 924
+title: The Wire in the real world
+wordpress_url: http://blog.6thdensity.net/?p=924
+layout: post
+---
+<p><img src='http://blog.6thdensity.net/wp-content/uploads/2008/03/249px-thewire32.jpg' alt='249px-thewire32.jpg' />Not exactly Lester Freamon and Jimmy McNulty, <a href="http://thedailywtf.com/Articles/Youll-Need-to-Come-Downtown.aspx">are they</a>?</p>
+<p>Speaking of which, <a href="http://www.hbo.com/thewire/">The Wire</a> is, hands down, the best drama on television - ever.  I hope to write more about the series now that it has ended.  In the meantime, if you've never seen it, start at the beginning. It makes the counterinstitutionalist case better than I could ever hope to.</p>

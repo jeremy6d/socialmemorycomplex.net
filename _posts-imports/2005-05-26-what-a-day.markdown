@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 62
+title: What a day
+wordpress_url: http://blog.6thdensity.net/?p=62
+layout: post
+---
+<p>Bitch, recognize my hipsterness.  Today at lunch I was chowing down on a steak sandwich, organic beer, and surfing the internet in a suit and tie.  I am the new millenium!!!</p><p>Heh, actually I have a good excuse.  I had two job interviews today in Richmond - one at a manufacturing plant and one at a hip, crazy cool consulting firm.  Both are programming oriented, and both went well and sounded like <b>great</b> opportunities.  But... I'm loathe to trust my appraisal of interviews since I've had so little success with past interviews.  Anyway, now I'm sipping a frappacino and blogging.  All I need is some horn-rimmed glasses and I will be teh hip.</p>

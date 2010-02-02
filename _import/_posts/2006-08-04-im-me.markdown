@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 491
+title: IM me
+wordpress_url: http://blog.6thdensity.net/?p=491
+layout: post
+---
+I added a little chat client in the sidebar.  Feel free to ping me if you want.

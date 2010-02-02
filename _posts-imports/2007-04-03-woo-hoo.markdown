@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 671
+title: WOO HOO!!!
+wordpress_url: http://blog.6thdensity.net/?p=671
+layout: post
+---
+My little brother is out of the military in less than a month and will soon be back in Virginia!
+
+This is the best news I've had in a while.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 840
+title: Works on Thirtysomethings Every Time
+wordpress_url: http://blog.6thdensity.net/?p=840
+layout: post
+---
+<p>Berkeley Breathed vomits all over my OH!-so-carefully-thought-out political agenda again.  Why do the papers publish him if he's just gonna embarass us all?</p><p align=center><img src='http://blog.6thdensity.net/wp-content/uploads/2007/12/opus_republicans.gif' alt='opus_republicans.gif' /></p><p>Jeez, is it to late to go back to being a Ron Paul skeptic?  Or did I just board the middle aged borgeouis dumb-dumb train at a pathetically early age?</p><p>Ah, the self-doubt and worry of being a lone subversive...</p>

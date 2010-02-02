@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 874
+title: How the Rich Get Richer
+wordpress_url: http://blog.6thdensity.net/?p=874
+layout: post
+---
+<p>Left libertarians should make sure as many people as possible hear this <a href="http://www.npr.org/templates/story/story.php?storyId=17808622">interview on Fresh Air</a>.  This is the most eloquent explanation of how corporations use government to make money rather than competing in the market.<blockquote><p> Investigative reporter David Cay Johnston explores in his new book how in recent years, government subsidies and new regulations have quietly funneled money from the poor and the middle class to the rich and politically connected.</p><p>Cay Johnston covers tax policy for The New York Times, where he won a Pulitzer Prize for his reporting on that beat. His previous book, <u>Perfectly Legal: The Covert Campaign to Rig Our Tax System to Benefit the Super Rich — and Cheat Everybody Else</u>, was a best seller.</p><p>The new book, which expands the inquiry beyond tax policy into a whole range of regulatory machinery, is titled <u><a href="http://www.amazon.com/Free-Lunch-Wealthiest-Themselves-Government/dp/1591841917">Free Lunch: How the Wealthiest Americans Enrich Themselves at Government Expense (and Stick You With the Bill)</a></u>.</p></blockquote>The story about George Bush's wealth being almost solely due to special government connections is priceless, but the take-home is that Bush is one of many, many wealthy individuals who do this.</p>

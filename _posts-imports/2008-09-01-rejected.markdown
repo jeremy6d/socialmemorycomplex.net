@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 1051
+title: Rejected
+wordpress_url: http://blog.6thdensity.net/?p=1051
+layout: post
+---
+<p>This post was rejected at <a href="http://divinecosmos.com">DivineCosmos.com</a> on the grounds that it was denigrating towards the quoted participant:</p><blockquote><blockquote><p>If we don't have a good leader how do we get to 2012 easily?</p></blockquote><p>Do you really think that we need a leader to get to fourth density?</p><p>That's the saddest thing I've heard in a long time.</p></blockquote><p>You gotta love moderation by intuition.</p>

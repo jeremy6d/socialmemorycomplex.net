@@ -1,0 +1,78 @@
+--- 
+wordpress_id: 1347
+title: Reprocessing attachment_fu images with RMagick
+wordpress_url: http://blog.6thdensity.net/?p=1347
+layout: post
+---
+<p><a href="http://github.com/technoweenie/attachment_fu/tree/master">Attachment_fu</a> is the shit, no doubt.  But sometimes you want to do more than upload, resize, and thumbnail.  Designers often have a specific vision that dictates a more complex workflow for incoming images.  For these tasks, it may be necessary to reprocess the saved images - something you don't necessarily need to hack attachment_fu to accomplish.</p><p>For example, my latest Rails project included a gallery page with a pretty standard layout: a series of thumbnails and an area to display the full size version of the selected thumbnail.  However, the static mockup delivered by the designer had thumbnails that were black and white with a blueish tint, only turning color when you moused over them.  On top of that, the thumbnails were often made from a manually defined cropping of the image.  This meant that in addition to an administrative backend to allow uploading and management, I needed to provide a tool for selecting an area within the image for a custom thumbnail, not to mention figuring out where and how to do the tinting.</p><p><!--more-->So here's how I approached it:  I created two STI models deriving from a common GalleryImage model, all of which are related to the GalleryItem that encapsulates the item name, description, etc:</p>
+<pre lang="rails">class GalleryItem < ActiveRecord::Base
+  belongs_to :full_image, :class_name => 'GalleryMainImage', 
+                          :foreign_key => 'full_image_id', 
+                          :dependent => :destroy
+                          
+  belongs_to :custom_thumbnail, 
+                    :class_name => 'GalleryThumbnail',
+                    :dependent => :destroy
+end
+
+class GalleryImage < ActiveRecord::Base
+end
+
+class GalleryMainImage < GalleryImage
+  has_one :gallery_item, :dependent => :destroy
+  has_attachment :content_type => :image, 
+                 :storage => :file_system, 
+                 :max_size => 50.megabytes,
+                 :resize_to => '457>',
+                 :thumbnails => { :default_thumbnail => '68x68!',
+                                  :gray_thumbnail => '68x68!' },
+                 :path_prefix => 'public/gallery',
+                 :thumbnail_class => "GalleryThumbnail"
+                 
+  validates_as_attachment
+end
+
+class GalleryThumbnail < GalleryImage
+  has_one :gallery_item, :dependent => :destroy
+  has_attachment :content_type => :image, 
+                 :storage => :file_system, 
+                 :max_size => 1.megabyte,
+                 :resize_to => '68x68',
+                 :thumbnails => { :gray_thumbnail => '68x68' },
+                 :path_prefix => 'public/gallery'
+                 
+  validates_as_attachment
+end</pre><p>So, the important takeaways here are the following:<ul><li>All thumbnails would be of class "GalleryThumbnail".</li><li>An item has one GalleryMainImage with it's own attachment_fu-generated thumbnails.  These thumbnails are the "uncropped" thumbnails.</li><li>An item can have two more custom cropped thumbnails associated with it - a color one and a gray one.</li></ul>Is it clunky the way attachment_fu generates thumbnails given how we're setting this up (why does GalleryThumbnail have thumbnails?)?  Yes.  But note especially that the specific settings in the "has_attachment" line (such as resizing and thumbnail generation) are only applied to a <em>full</em> attachment model.  Therefore, only the objects associated with "item.full_image" and "item.custom_thumbnail" go through the full swath of attachment_fu processing.  In other words, just because a full image generates thumbnails of class GalleryThumbnail does not mean each of those GalleryThumbnail objects gets their own thumbnails - obviously, that would be stupid.  It's better to not think about the generated images attachment_fu delivers as "thumbnails" so much as different versions of the attachment.</p>
+<p>The next step is doing the grayscaling.  I determined the path forward on this first by consulting the designer who delivered the mockup.  He went back into Photoshop and gave me an idea of what filters and processes were applied to the thumbnails he had created.  Basically, he created a grayscaled version of the thumbnail and then applied a gradient map that mapped black to a shade of blue.  It gave it a very interesting effect:</p><div align=center><img src="http://blog.6thdensity.net/wp-content/uploads/2009/02/141744150_e76e7e0aed_default_thumbnail.jpg" alt="141744150_e76e7e0aed_default_thumbnail" title="Original color thumbnail" width="68" height="68" style="margin: 1em;" /><img src="http://blog.6thdensity.net/wp-content/uploads/2009/02/bandw.jpg" alt="bandw" title="Grayscaled copy" width="68" height="68" style="margin: 1em;" /><img src="http://blog.6thdensity.net/wp-content/uploads/2009/02/141744150_e76e7e0aed_gray_thumbnail.jpg" alt="141744150_e76e7e0aed_gray_thumbnail" title="Using level_colors to gradient map black to blue" width="68" height="68" style="margin: 1em;" /></div><p>It took a lot of digging, but I was able to find two RMagick methods that could reproduce this effect: <a href="http://www.imagemagick.org/RMagick/doc/image3.html#quantize">quantize</a> and <a href="http://www.imagemagick.org/RMagick/doc/image2.html#level_colors">level_colors</a>.  Now it was just a matter of finding out how to integrate them into the thumbnailing process. I was surprised that simple callbacks basically did the trick.  I put a method in the base class for the images:</p>
+<pre lang="rails">class PortfolioImage < ActiveRecord::Base
+protected
+  def update_gray_thumbnail!  
+    return unless thumbnail.blank? # only perform this on a custom thumbnail or an original image
+    
+    # the code below looks dumb, but I think the trick is that RMagick
+    # can only perform one operation per file load.  I don't get it.
+    thumb = thumbnails.find_by_thumbnail("gray_thumbnail")
+    Magick::Image.read(thumb.full_filename).first.quantize(256,Magick::GRAYColorspace).write(thumb.full_filename)
+    Magick::Image.read(thumb.full_filename).first.level_colors("#201000", "#f7f7f7", false).write(thumb.full_filename)
+  end
+end</pre>
+<p>Remember: in our modeling, everything is a GalleryImage.  What makes a given GalleryImage a thumbnail according to attachment_fu is that it has a non-nil response to the "thumbnail" message (if this were our gray_thumbnail, it would return "gray_thumbnail" in response to the "thumbnail" message).  So by proceeding only if thumbnail returns a blank response, we guarantee that we work with a main attachment like a MainImage or custom thumbnail, and that we don't work on any of their associated images.</p><p>So look at how we generate thumbnails for a GalleryThumbnail and GalleryMainImage: there's a default_thumbnail and a gray_thumbnail.  If you're using attachment_fu with ":storage => :file_system", then you have physical files in the project that you can modify to your heart's content.  The above method changes the actual file associated with the "gray_thumbnail", which is initially saved as a color thumbnail.  So if you put a hook in your GalleryMainImage and GalleryThumbnail models to make this alteration on saving the model, you should be money:</p><pre lang="rails">after_save :update_gray_thumbnail!</pre><p>Attachment_fu regenerates thumbnails on every model save, so it's important we reapply the RMagick processing each time.</p><p>So what about the custom cropping?  Well, you'll need a controller that can generate a new GalleryThumbnail to be associated with the GalleryItem.  All I'll say on that count is that you should look at some javascript cropping utilities; I'm using jquery so I used <a href="http://odyniec.net/projects/imgareaselect/">imgAreaSelect</a>.  Following <a href="http://www.webmotionuk.co.uk/php-jquery-image-upload-and-crop-v11/">this example</a> I was able to create a tool letting the user drag a box over with previewing of the resulting thumbnail, passing the coordinates for cropping to the controller via a form submission.  Then it was just a matter of cropping the image, which once again is merely a matter of manipulating the actual full-size image file saved in the public directory after the fact:</p> 
+<pre lang="rails"> def create
+    item = GalleryItem.find(params[:portfolio_item_id])
+    crop = item.full_image.crop(params[:x1], params[:y1], params[:w], params[:h])
+    thumb = GalleryThumbnail.new
+    thumb.uploaded_data = crop
+    thumb.save    
+    item.portfolio_thumbnail = thumb
+    if item.save
+      flash[:notice] = "Cropped custom thumbnail saved."
+      redirect_to admin_gallery_item_path(item)
+    else
+      flash[:error] = "Error resizing"
+      render :action => 'new'
+    end</pre><p>I have a "crop" method on GalleryMainImage defined thusly:</p><pre lang="rails">def crop(x, y, width,height)
+    blob = StringIO.new(Magick::Image.read(full_filename).first.crop(x.to_i, y.to_i, width.to_i, height.to_i).to_blob)
+    {'tempfile' => blob,
+     'content_type' => "image/#{filename.split('.').last}",
+     'filename' => "custom_#{filename}"}
+  end</pre><p>The use of StringIO and returning a hash is just tricks to get attachment_fu to accept our cropped image as a parameter for "uploaded_data=".  And once the cropped image is passed into "uploaded_data=" and object is saved, the thumbnail will be generated using the cropped image - and grayscaled appropriately!</p><p>That's pretty much it - I know this is really complicated, but I hope it helps somebody out there.  Feel free to ask questions, and be advised that I may revisit this article to word things differently.</p>

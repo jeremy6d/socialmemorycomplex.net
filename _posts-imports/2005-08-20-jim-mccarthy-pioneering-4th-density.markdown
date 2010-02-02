@@ -1,0 +1,83 @@
+--- 
+wordpress_id: 108
+title: "Jim McCarthy: Pioneering 4th Density"
+wordpress_url: http://blog.6thdensity.net/?p=108
+layout: post
+---
+<p><div align=center><img src="pics/conference_11.jpg"/></div></p>
+<p>
+<ul>
+	<li>Breakdown of history of densities
+      	<ul>
+		<li>1st density
+		<ul>
+			<li>Chaos of the elements</li>
+			<li>Fire and wind taught earth and water</li>
+		</ul>
+		</li>
+		<li>2nd density: animal life, pack consciousness</li>
+		<li>3rd density
+		<ul>	<li>shortest: 75,000 yrs long (3 25k cycles)</li>
+			<li>purpose: to choose polarity (positive / negative)</li>
+			<li>51% of actions / intentions need to be service to others as oppose to service to self</li>
+			<li>conscious choice is not required - demonstration is all that is neccessary</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Hallmarks of the end of 3rd density
+	<ul>	<li>Wanderers (indigo children, starseeds)
+		<ul>	<li>from higher densities</li>
+			<li>from other planets</li>
+			<li>here to lighten vibrations</li>
+		</ul></li>
+		<li>Short term increase in negatively oriented entities and social complexes</li>	
+		<li>Harvest will likey be small despite best efforts of the Confederation
+		<ul>	<li>Less than planet is capable of handling</li>
+			<li>Most entities on Earth will need to find another 3rd density planet</li>
+		</ul></li>
+	</ul></li>
+	<li>Hallmarks of 4th density
+	<ul>	<li>Communication by thought, not words
+		<ul>	<li>No possibility for deceit, less for misunderstanding</li>
+			<li>Motives are laid plain</li>
+			<li>Disharmony in self and without is impossible</li><li>
+			</li><li>True collectives are possible</li>
+		</ul></li>
+		<li>4D entities must be hidden from 3D entities to conserve possibility for 3D choice</li>
+		<li>Light body instead of chemical body</li>
+		<li>Service to others is perceived as the prime motivations</li>
+		<li>Physical construction will be accomplished through mental effort and discipline</li>
+		<li>Started around the time of Hiroshima/Nagasaki</li>
+		<li>100-700 year transition into 4D</li>
+	</ul></li>
+	<li>How do we get to 4th density?
+	<ul>	<li>We have chosen a particular path to attain 4D through practice, consciousness, experience, empathy, etc.</li>
+		<li>Lingo was searching for how to activate whole brain - achieving brain self control
+		<ul>	<li>Saw horror and futility of war and decided to move humanity forward through consciousness research</li>
+			<li>Center consciousness in frontal lobes where abstract thought takes place
+			<ul>	<li>Studied how primitive man thought and acted</li>
+				<li>Sought optimal brain state for humans</li>
+			</ul></li>
+			<li>Invented a process to train his mind
+			<ul>	<li>Paying attention to dreams, journaling</li>
+				<li>Seeing patterns that were preincarnatively programmed</li>
+				<li>pinpoint early pains</li>
+				<li><u>Neurodramas</u>: closing "circuit" of past emotionally traumatic memories to get flow of thought further forward in brain
+				<ul>	<li>Helps you achieve this emotional and intellectual understanding of frustration</li>
+					<li>Understanding releases the need for attention</li>
+					<li>Circuits in mind can be "closed" instead of being locked</li>
+				</ul></li>
+			</ul><ul></ul></li>
+			<li>Meditation
+			<ul>	<li>focused state without distractions</li>
+				<li>contact with higher consciousnesses more apparent and readily observable</li>
+				<li>higher self contact more efficient</li>
+			</ul></li>
+			<li>Open chakras to achieve efficient and free energetic flow</li>
+			<li><b>(Ritual) <u>Magic</u>: being able to effect changes in consciousness at will</b> or access higher self</li>
+		</ul></li>
+	</ul></li>
+</ul>
+</p>
+<p><div align=center><img src="pics/conference_9.jpg"/><br />Gary asking a question of Jim, Tiffani listening intently</div></p>

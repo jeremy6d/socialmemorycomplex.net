@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 903
+title: It's 11:00 pm; do you know where your model methods are?
+wordpress_url: http://blog.6thdensity.net/?p=903
+layout: post
+---
+<p>So the other day I was implementing what I considered a simple Rails association helper to make my life easier:<blockquote><pre lang="ruby">has_many :unapproved_posts,
+              :class_name => "Post",
+              :finder_sql => "SELECT posts.* from  posts " + 
+                             "INNER JOIN users ON  posts.user_id = users.id " + 
+                             "INNER JOIN groups ON users.group_id = groups.id " + 
+                             'WHERE (groups.id = #{id}) and ' +
+                             '(posts.approved is NULL)'</pre></blockquote>Yeah, it's a little clunky, but I needed a quick fix.</p><p>Perhaps I should have spent the time on a refactor, because this code put me in Rails hell.  When displaying unapproved posts in my controller, my code iterated over a collection of <code>Post</code> objects.  When I'd first start the server, the action would grab the association with no problems.  However, every subsequent time the action runs, the <code>Post</code> objects I got back were missing the methods I defined in the <code>Post</code> model.  All the attributes were there and accessible, but any methods had disappeared.  Note that this only happened when accessing the posts via the association helper through the controller; doing the exact same stuff in script/console gave me no problem.</p><p>After a few hours of troubleshooting and abject frustration, I came across <a href="http://dev.rubyonrails.org/ticket/3558">this ticket</a> which seems to describe the behavior I was seeing.  Note that this is a 1.2.6 application I'm working on, so the lack of resolution makes some sense.  However, I needed a fix, and <a href="http://www.simplisticcomplexity.com/">my friend Jon</a> suggested I just write a method that returns the collection rather than using the helper.  So running the same query with <code>Post.find_by_sql</code> worked fine, and since I merely needed a read-only collection, this serves my purposes.</p><p>Just wanted to drop a line in case anybody in the future runs into this.  Watch out using finder_sql; it does not appear reliable.  Also, if you experience this behavior in a Rails 2.0 app, let me know (less important) and reopen the ticket (very important).</p>

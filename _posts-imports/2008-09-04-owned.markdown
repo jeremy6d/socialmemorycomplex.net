@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1086
+title: Owned.
+wordpress_url: http://blog.6thdensity.net/?p=1086
+layout: post
+---
+<div align=center><embed FlashVars="videoId=184086" src='http://www.thedailyshow.com/sitewide/video_player/view/default/swf.jhtml' quality='high' bgcolor='#cccccc' width='332' height='316' name='comedy_central_player' align='middle' allowScriptAccess='always' allownetworking='external' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'></embed></div>
+<p>You all played yourselves. (Hat tip to <a href="http://www.theagitator.com/2008/09/04/ouch-10">Radley</a>)</p>

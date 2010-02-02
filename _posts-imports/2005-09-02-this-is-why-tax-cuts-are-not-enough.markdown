@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 132
+title: This is why tax cuts are not enough
+wordpress_url: http://blog.6thdensity.net/?p=132
+layout: post
+---
+<p><a href="http://catallarchy.net/blog/archives/2005/09/01/protection-money/">Nick Weineger</a> of <a href="http://catallarchy.net/blog/">Catallarchy</a> does the math:<blockquote>New Orleans proper (not even counting the metro area) has, had (Christ, it’s had, isn’t it?), half a million people. The per capita GDP of Louisiana is, was, about $29K (cite). Let’s assume that’s a fair approximation to the figure for New Orleans; it contained a lot of poor urbanites, to be sure, but also was a center of economic activity compared to surrounding rural areas, so in fact it’s probably an underestimate. The feds take around 18% of GDP in taxes IIRC; so New Orleans’ citizens probably paid about $2.6 billion. Let’s be conservative and call it $2.5 billion.
+
+So for one-tenth of the amount they paid to support the feds, the citizens of New Orleans could have protected themselves from inundation. Instead, they left it to FEMA, the Army Corps of Engineers, &c; and who can blame them, considering the extravagant price they paid for those agencies’ false promises? One damn tenth of all that was siphoned away to pay for other people’s boondoggles and pyramid schemes and arrogant attempts to remake the world.
+
+“Centralized power kills” is perhaps too simplistic. But it ain’t looking too life-preserving today.</blockquote>Amen, brother.  I highly recommend Catallarchy as daily reading.</p><p>UPDATE: There's a great post about <a href="http://catallarchy.net/blog/archives/2005/09/02/gouging-games/">price gouging</a> on there, too.</p>

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 565
+title: Go Tasha!
+wordpress_url: http://blog.6thdensity.net/?p=565
+layout: post
+---
+<img style="margin: 3px; float: left" src="http://www.etsy.com/get_jpg_thumb_image.php?image_id=1577246" />
+<div><a href="http://tashamckelvey.com">My wife</a> somehow got free ad space for one of her awesome <a href="http://www.etsy.com/view_item.php?listing_id=523073">sushi sets</a> in the latest issue of <a href="http://www.craftzine.com/">Craft Magazine</a>.  It's situated among other fine crafts in a two-page <a href="http://etsy.com">Etsy</a> ad near the back.  I flipped through the magazine and it's really well designed and interesting, along the same lines as <a href="http://makezine.com/">Make Magazine</a>.</div>

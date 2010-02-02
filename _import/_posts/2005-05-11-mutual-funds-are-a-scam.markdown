@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 38
+title: Mutual funds are a scam?
+wordpress_url: http://blog.6thdensity.net/?p=38
+layout: post
+---
+I'm not sure what to think about <a href="http://catallarchy.net/blog/archives/2005/05/11/are-managed-mutual-funds-a-scam/">this article entitled Wall Street’s Shell Game</a> at <a href="http://catallarchy.net/blog/">Catallarchy</a> but I wanted to get the link out there for my readers.  I was particularly struck by this passage:<blockquote><p>Keeping with the theme of survivorship bias, I stirred up some debate on a mailing list recently by claiming that managed mutual funds are a scam. Specifically, they are a variant of a particularly clever scam that goes like this:</p><p>Get a list of email addresses of people interested in sports betting. Say you have 32,000. Email 16,000 of them to say that the home team will win this week’s big team, and 16,000 to say the home team will lose. Now, half of the people will have gotten the correct prediction, and the next week, you do the same thing with them. After 5 weeks, you’ll have 1,000 email addresses of people who have seen you pick the winner five times in a row!. Now you pitch your 1-900 number or paid email list subscription to this amazed group.</p></blockquote><p>I'll update this post with more thoughts if I get any.  For now I'm content to question capitalism quietly, in my own heart (and not on the streets of Seattle - just yet).</p>

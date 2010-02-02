@@ -1,11 +1,11 @@
 destination: ./_site
+paginate:    10
 auto:        false
 lsi:         false
 server_port: 4000
 pygments:    true
 markdown:    maruku
 permalink:   pretty
-paginate:    15
 site_title:  Social Memory Complex
 sass: true
 haml: true

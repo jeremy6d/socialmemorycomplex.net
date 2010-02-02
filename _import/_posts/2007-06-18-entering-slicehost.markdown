@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 754
+title: Entering Slicehost
+wordpress_url: http://blog.6thdensity.net/?p=754
+layout: post
+---
+<p>Well, as y'all know I'm looking for a new web host.  I thought I'd be going with a company one of my friends recommended, but then I remembered that that's how I got involved with Dreamhost in the first place.  I've heard such good things about <a href="http://slicehost.com">Slicehost</a> that I thought I'd go ahead and give 'em a try.</p><p>More expensive than Dreamhost shared hosting, to be sure, but hopefully that translates into better control and quality.  I get my own "slice" of a nuts and bolts server that works like a VPS complete with root access.  I get 256 MB of RAM guaranteed, with more when necessary, and the flexibility to add on slices as needed.  And Slicehost is run by Rails developers, so I know I have support in that department.</p><p>It'll be good to finally have my own server that I have complete command line control.  I have a lot to learn about *nix machines and systems administration, but I guess this is the best way to learn.  It's been a long time coming since first getting on the web with free hosting from Matt.</p><p>For non-techies, all of this is to say that <strong>I will be moving all of my sites - including blog.6thdensity.net and leftlibertarian.org - to the new host over this week</strong>.  Expect interruptions in service.  I'll advise when finished.</p>

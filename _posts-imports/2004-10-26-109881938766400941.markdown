@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 280
+title: "109881938766400941"
+wordpress_url: http://blog.6thdensity.net/?p=280
+layout: post
+---
+Let me know what you think of the new site design.
+
+That's right, Wil.  I'm actually asking you to bitch.
+
+My friend <a href="http://lsblog.com/matt">Matt</a> has offered to host my blog on his personal service, <a href="http://lsblog.com">LSBlog.com</a>, but moving everything over there is such a pain.  Blogger has no easy way to export posts to his place, let alone all the comments in HaloScan.  Anybody have any advice on this?  Should I just stick with Blogger?  I'm getting a domain and webspace from him, so I could always just do the site feed thing.
+
+Maybe it's just midweek blues, eh.  If you're on the east coast, don't forget to hit up the <a href="http://www.brotherspast.com/getawaytorr.html">Brothers Past run in Virginia this week</a>.

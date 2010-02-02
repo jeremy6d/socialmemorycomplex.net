@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 164
+title: China is not the panacea of liberalism
+wordpress_url: http://blog.6thdensity.net/?p=164
+layout: post
+---
+<p>Great post from my favorite blogger, <a href="http://mutualism.blogspot.com">Kevin Carson</a>:<blockquote><p>In the past, I've noted neoliberal portrayals of Red China as an exemplar of the "free market." Its so-called "market reforms" and "liberalization" have made it the promised land for offshored production by American corporations. To add some substantive content to those cliches, just consider the Chinese government's repression of independent labor activists, and of local resistance to "rampant industrial pollution" and "widespread evictions and land seizures by corrupt local governments in cahoots with increasingly powerful property developers...."</p><p>...</p><p>The collusion between Western sweatshop employers and the Chinese "people's state" reminds me a lot of that scene in Animal Farm, when the pigs hold a summit conference with the neighboring farmers: "If you've got your lower classes, we've got our lower animals!"</p></blockquote><br />This just brings home the point that I'm always making - China going from socialist totalitarian state to fascist/corporatist totalitarian state should mean the same thing for us: no dice.  I'm not sure if they're markets should be off limits or not, but all the neoliberal wankery about the "sun rising in China" needs to give it a rest.</p>

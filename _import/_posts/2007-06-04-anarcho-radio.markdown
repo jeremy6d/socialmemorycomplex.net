@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 733
+title: Anarcho-Radio
+wordpress_url: http://blog.6thdensity.net/?p=733
+layout: post
+---
+<p>From <a href="http://anarchistnews.org/?q=node/1216">anarchistnews.org</a>, it looks like there's an anarchist radio program project starting:<blockquote><p>This is a call-out to anarchists interested in sharing our living history, ideas, debates and vision. If you are experienced with audio/radio/production/editing, great. But you're needed even if you have no experience, but go to events and care about making sure the anarchist movement's efforts are preserved and represented accurately for people globally. This effort requires tech-folk, cultural creatives, people willing to produce, and people with a passion for anarchist history and movements.</p><p>The goal of this endeavor is to launch in June/July a half-hour weekly (to-be-named) program to educate and build understanding of the diverse voices and tendencies within anarchist struggles globally. There are experienced radio producers, as well as new participants, involved, and everyone is invited. Ideally, there will be publicly posted teaching materials, so everyone without audio knowledge can learn too.</p><p>Questions? Ideas? Critiques? Those who are interested, please get in touch: mindgrime at gmail period com.</p></blockquote>I've been thinking of doing a left libertarian podcast for a while, so this would be good exposure for me.  I'd love to see other market anarchists and left libertarians offer help as well!</p>

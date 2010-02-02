@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 136
+title: This time the lying is intolerable
+wordpress_url: http://blog.6thdensity.net/?p=136
+layout: post
+---
+<p>The Bush Administration handling of this event has been piss poor, as I have documented this week.  But via <a href="http://antiwar.com/blog/">Antiwar.com's blog</a>, I found <a href="http://www.blah3.com/a">Blah3</a> and the <a href="http://www.blah3.com/article.php?story=20050903214041794">compilation of administration deceit, media fabrication, and obstruction that has pulled the wool over the public's eyes</a>.  The treachery of this gov't defies belief; there is a coverup of the suffering of our own citizens on a scale akin to the fabrication of Iraq war news:<blockquote><p>There were a lot of questions asked yesterday morning about the phony briefing that Bush got in that hangar, featuring a backdrop of Coast Guard helicopters. People were wondering why those choppers were not out picking up flood victims or delivering supplies. The reason why is simple - Bush had the majority of helcopter traffic stopped while Marine One was in the Gulf Coast region.</p><p>...</p><p>Bush to women: "There's a Salvation Army center that I want to, that I'll tell you where it is, and they'll get you some help. I'm sorry.... They'll help you.....
+Woman 1: "I came here looking for clothes..."
+Bush: "They'll get you some clothes, at the Salvation Army center..."
+Woman 1: "We don't have anything..."
+Bush: "I understand.... Do you know where the center is, that I'm talking to you about?"
+Guy with shades: "There's no center there, sir, it's a truck."
+Bush: "There's trucks?"
+Guy: "There's a school, a school about two miles away....."
+Bush: "But isn't there a Salvation center down there?"
+Guy: "No that's wiped out...."
+Bush: "A temporary center? "
+Guy: "No sir they've got a truck there, for food."
+Bush: "That's what I'm saying, for food and water."
+Bush turns to the sister who's been saying how she needs clothes.
+Bush to sister: "You need food and water."</p></blockquote>Please visit <a href="http://www.blah3.com/article.php?story=20050903214041794">Blah3</a> for the full story and get an idea of how much contempt this Administration has displayed for the people of this country.</p><p>Blah3 summarizes thusly, and please hear his message:<blockquote><p>All of this information has turned up in one spot or another on the web since yesterday, but I wanted to put it all together in one spot for a reason. Bit by bit, parts of Bush's trip were shown to be less truthful than we deserved. But when you look at the entire trip - and all of the deceit that went into each part of it - it's an inescapable fact that from beginning to end the trip was a menu of lies and self-serving actions that didn't do the region any good. In some instances, like the helicopter groundings halting rescue ops, the trip could conceivably actually killed more people.</p><p>And that's the bottom line with this administration. It always has been. Bush, Rove, and the rest of them will go to any measures to get their version of the truth out. and if a few of the little people happen to die in the process, it's no skin off their noses. All of America should know what the true bottom line is.</p><p><b>You are being lied to, and lives have been lost because of it.</b></p></blockquote></p>

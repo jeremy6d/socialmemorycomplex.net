@@ -1,0 +1,5 @@
+Configuration from ./_config.yml
+Using Sass for CSS generation
+Enabled Haml
+Building site: . -> ./_site
+Successfully generated site: . -> ./_site

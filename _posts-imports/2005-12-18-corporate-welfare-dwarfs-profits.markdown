@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 189
+title: Corporate welfare dwarfs profits
+wordpress_url: http://blog.6thdensity.net/?p=189
+layout: post
+---
+<p>Via <a href="http://bradspangler.com">Brad Spangler</a>, here's <a href="http://www.guardian.co.uk/Columnists/Column/0,5673,1665737,00.html">an article</a> about the wonders of the "free market" and "globalization":<blockquote>In his book Perverse Subsidies, published in 2001, Professor Norman Myers estimates that when you add the direct payments US corporations receive to the wider costs they oblige society to carry, you come up with a figure of $2.6 trillion, or roughly five times as much as the profits they make.</blockquote>This goes beyond standard right wing tsk-ing of corporate welfare into straight up national socialism.  Yet another reason why the rhetoric from the Republicans and Democrats are just two sides of the same statist, corporatist coin.</p><p>I would love to hear a standard Republican refutation of this article - one that doesn't <a href="http://www.moonbatty.com/blog/2005/12/14/39-the-value-of-life-american-and-foreign/#comment-5158">lecture me on their principles</a> but actually demonstrates them in action.</p><p>Mega-hat tip to Brad Spangler, whose blog is pure inspiration.</p>

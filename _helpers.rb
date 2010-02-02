@@ -22,7 +22,7 @@ module Helpers
   end
   
   def published_date(time)
-    time.strftime("Written by Jeremy Weiland on %A, %B %d, %Y")
+    time.strftime("Written by Jeremy Weiland on %A, %B %d, %Y for <a href=\"http://socialmemorycomplex.net\">Social Memory Complex</a>")
   end
   
   def header(page)
@@ -47,5 +47,18 @@ module Helpers
     })();
     //]]>
     </script>}
+  end
+  
+  def get_description(page)
+    (page.description if page.respond_to?(:description)) || "A political economy of the soul"
+  end
+  
+  def abridge(html, permalink)
+    return html if html.size < 2000 || !html.include?("<p>")
+    paragraphs = html.split("</p>")[0..2]
+    unless paragraphs.size < 3
+      paragraphs << "<p><a href=\"#{permalink}\">Read more...</a></p>" 
+    end
+    paragraphs.join
   end
 end

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 444
+title: Quote of the Day
+wordpress_url: http://blog.6thdensity.net/?p=444
+layout: post
+---
+<p>From the great blog <a href="http://againstwot.com/">Against the War on Terror</a> comes this <a href="http://againstwot.com/2006/04/on-liberal-misanthropy.html">snippet of wisdom</a>:<blockquote>It is easier for liberals to blame their abysmal failures on ‘the stupidity of our culture’ and national ignorance, than to accept the fact that they don’t come much closer to representing the interests of the majority than conservatives. Liberals have never been that comfortable with democracy in America, preferring popular sovereignty at a distance. They have preferred to see the people as a political resource, led by a highly educated, technocratic elite.</blockquote>Precisely.  We don't need a conservative regimentation of society, nor do we need a (nominally) liberal managerial state.  And to the extent that either one of those outcomes are sought by those who appropriate the term "liberal", well, whoever said doublespeak wasn't effective?</p><p><em>NOTE: I'm working on a post that answers <a href="http://drjjm.blogspot.com/2006/04/liberals-and-leftists-redux.html">Joe Miller's retort</a> concerning the meaning of liberalism vs. leftism, so stay tuned.</em></p>

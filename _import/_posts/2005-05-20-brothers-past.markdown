@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 48
+title: Brothers Past
+wordpress_url: http://blog.6thdensity.net/?p=48
+layout: post
+---
+<p>I'm going to try and start writing about music I like more often.</p><div align=center><img src="http://bp.thropter.com/_hosts/bp/images/catalog/tfcg.jpg"/></div><p>My favorite band is <a href="http://www.brotherspast.com">Brothers Past</a> and they have a new album out called <a href="http://bp.thropter.com/cart.asp?f_add=1&f_qty=1&f_prID=78">This Feeling's Called Goodbye</a>.  They are just doing everything right - their <a href="http://www.brotherspast.com/getawaytorr.html">live shows</a> are stellar (for a good taste check out <a href="http://www.archive.org/audio/etree-details-db.php?id=24450">this show</a>) and this new album is so non typical of the improvisational rock genre.  Check it out!</p><p><b>UPDATE:</b> I cannot get <a href="http://audio42.archive.org/3/audio/bp2005-04-15shnf/bp2005-04-15d1t02_vbr.mp3">this recording</a> from the show mentioned above out of my head.  Best live version of the Brothers Past song <i>Getaway Somehow</i> I've heard yet... so fat.  You can hear me hollering "Break it down!" in the background around when the singing stops, and my other vocal contributions can be found throughout the recording...</p>

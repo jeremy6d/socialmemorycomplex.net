@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 224
+title: "108697020657785375"
+wordpress_url: http://blog.6thdensity.net/?p=224
+layout: post
+---
+<a href="http://www.motherjones.com/news/hellraiser/2004/05/04_403.html">Rage against the (electronic voting) machine</a>:
+
+<blockquote>The adventure began in spring 2003, when a hacker broke into Diebold's computer system and unearthed 15,000 internal emails. In them, Diebold employees fret over the voting machines' vulnerability to hackers and their alarming habit of going on the fritz. "I need some answers!" one frantic employee wrote from Florida regarding the 2000 recount. "Precinct 216 gave Al Gore a minus 16,022 [votes] when it was uploaded. Will someone please explain this so that I have the information to give the auditor instead of standing here 'looking dumb.'"</blockquote>
+See, this is what I don't understand: a voting machine should be the <strong>easiest</strong> thing in the world to build.  From a software engineering standpoint, Diebold sound like a bunch of idiots.  I mean, what could be easier than having an engine that simply increments a variable?  That should be a piece of cake.
+
+Try to remember that <a href="http://www.freepress.org/columns/display/3/2004/834">Diebold is solidly republican</a>.  Then there's all the ridiculous copyright bullshit corporations use to intimidate people:
+
+<blockquote>The emails were promptly posted all over the Internet. Diebold responded by sending a flurry of cease-and-desist letters to the various Internet service providers (ISPs), claiming that the information was protected by the Digital Millennium Copyright Act. Passed by Congress in 1998, the DMCA was designed to guard companies against online piracy. But almost immediately corporations learned that if they alleged that embarrassing posts actually violated copyright protections, ISPs would take them down for fear of being held liable. Sure enough, every ISP that received a threat from Diebold immediately shut down the offending site. </blockquote>
+I've always thought that copyrights do way more to protect corporate coffers than to actually prevent theft of ideas.
+

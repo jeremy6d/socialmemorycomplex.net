@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 156
+title: More wedding content
+wordpress_url: http://blog.6thdensity.net/?p=156
+layout: post
+---
+<p><div align=center>This pretty much speaks for itself.<br /><img src="http://static.flickr.com/32/44689488_d17e47e380.jpg"/></div></p>
+<br clear="all" /><p><div align=center>My groomsmen, from left to right: Bill, Gary, Matt, and Dan.<br />
+<img src="http://static.flickr.com/29/44683484_d9ceac3fc6.jpg" alt="" style="border: solid 2px #000000;" /></div>
+ <br /></p><p><div align=center>While my best man, Matt, was giving the toast, my groomsmen decided to proclaim their love for me.<br />
+<img src="http://static.flickr.com/32/44700589_570d3f686b.jpg" alt="" style="border: solid 2px #000000;" />
+ <br /></div></p><p><div align=center>
+<img src="http://static.flickr.com/30/44700664_d40b5207be.jpg" alt="" style="border: solid 2px #000000;" />
+ <br /></div></p><p><div align=center>
+<img src="http://static.flickr.com/27/44701269_955e95f8f6.jpg" alt="" style="border: solid 2px #000000;" /></div>
+ <br /></p>

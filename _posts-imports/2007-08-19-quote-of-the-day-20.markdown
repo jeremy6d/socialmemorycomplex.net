@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 786
+title: Quote of the Day
+wordpress_url: http://blog.6thdensity.net/?p=786
+layout: post
+---
+<p><blockquote><p>People do not want, or often are not able, to perceive that they are conforming to external authority. They feel themselves to be very free, and indeed they are, as long as they conform. But power lies elsewhere. That’s as old as history in the modern period. It’s often very explicit.</p></blockquote></p><p align=right>- Noam Chomsky (<a href="http://www.counterpunch.org/schivone08032007.html">source</a>)</p>

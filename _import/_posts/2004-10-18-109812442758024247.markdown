@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 275
+title: "109812442758024247"
+wordpress_url: http://blog.6thdensity.net/?p=275
+layout: post
+---
+This is <a href="http://www.usnews.com/usnews/issue/041025/whispers/25whisplead.htm">great</a>:<blockquote>Intelligence vets are still musing over Michael Kostiw, whose reported shoplifting forced his withdrawal this month as the CIA's prospective executive director. But what dismays the spooks most isn't the ethics or the propriety of the case--it's that Kostiw had served as a case officer for 10 years and still couldn't manage to shoplift a package of bacon without getting caught in a Northern Virginia market. Says one old spy: "It's a perfect metaphor for the sorry state of the CIA."</blockquote>Also check out the article on the same page about Ashcroft probably being replaced if Bush gets reelected.
+

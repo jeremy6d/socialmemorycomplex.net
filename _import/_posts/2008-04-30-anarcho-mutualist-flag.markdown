@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 964
+title: Anarcho-Mutualist Flag
+wordpress_url: http://blog.6thdensity.net/?p=964
+layout: post
+---
+<p><img src="/assets/anarcho-mutualism.png" style="border: 1px solid white" />Based on <a href="http://en.wikipedia.org/wiki/Anarchist_symbolism#Bisected_flags_and_stars">these flags</a>, would this not be the fitting flag for mutualists, given their sort of middle ground between the market anarchists (who do yellow) and the syndicalists / socialists (who do red)?</p><p>Meh, it was mostly just a chance to play around with Inkscape.  As always, your thoughts are welcome.  I'm big on the plain ol' black, myself.</p>

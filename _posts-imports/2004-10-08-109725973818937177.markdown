@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 270
+title: "109725973818937177"
+wordpress_url: http://blog.6thdensity.net/?p=270
+layout: post
+---
+Hey, you, listen up.  If you check this links table on the right side of this page, you'll see I added a link to IM me on AOL Instant Messenger.  I've added this feature so that all the blog readers can contact me in a moment's notice.  I encourage everybody to get in touch with me at their convenience.  Except you.
