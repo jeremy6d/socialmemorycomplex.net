@@ -1,7 +1,0 @@
---- 
-wordpress_id: 296
-title: "110002534444546757"
-wordpress_url: http://blog.6thdensity.net/?p=296
-layout: post
----
-Hey, almost forgot to mention that there's some new features on <a href="http://6thdensity.net">6thdensity.net</a>.  I've got a <a href="http://6thdensity.net/gallery">gallery system</a> now and also a pemanent place to store <a href="http://6thdensity.net/music">my music</a>.  Hell, there might even be more shit on there.  Who knows.

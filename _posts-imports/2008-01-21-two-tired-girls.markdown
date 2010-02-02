@@ -1,7 +1,0 @@
---- 
-wordpress_id: 879
-title: Two tired girls
-wordpress_url: http://blog.6thdensity.net/?p=879
-layout: post
----
-<p>Just had to post this because it was too perfect a shot not to.</p><p align=center><img src='http://blog.6thdensity.net/wp-content/uploads/2008/01/t-girls.jpg' alt='t-girls.jpg' /></p><p>The busyness won't last; stay tuned for real blogging.</p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 990
-title: The Prefigurative Organization
-wordpress_url: http://blog.6thdensity.net/?p=990
-layout: post
----
-<p>Over at the RLLA blog, I wrote an article reporting on a talk I attended in Richmond on alternative decision making mechanisms in anarchist organizations.  <a href="http://richmond.leftlibertarian.org/2008/6/30/review-of-keyser-talk">Check it out!</a>  Here's an excerpt:</p><blockquote><p>The talk’s emphasis was on large scale organizational behavior: who makes the decisions, how they are arrived at, and what conditions are attached to those decisions. By “prefigurative”, Keyser was referring to the need for groups and practices which are structured according to the principles and values we’d like to engender in the world at large. While postulating decision making mechanisms that could scale up to the kind of mass movement we all want to build, he was cognizant of the immediate application of these ideas to our small activist groups. Certainly if we intend to be successful, we cannot ignore the challenges that growth poses to our organizations, let alone to the future anarchist society we envision.</p></blockquote>

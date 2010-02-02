@@ -1,7 +1,0 @@
---- 
-wordpress_id: 336
-title: "110599739326295821"
-wordpress_url: http://blog.6thdensity.net/?p=336
-layout: post
----
-I <a href="http://blog.6thdensity.net/2005/01/if-any-of-my-readers-want-to-see-how.html">updated</a> my post about <a href="http://libertariangirl.blogspot.com/">Libertarian Girl</a>.  I also ate a quesadilla.  Further bulletins as events warrant.

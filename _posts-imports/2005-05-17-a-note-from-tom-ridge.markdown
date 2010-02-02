@@ -1,7 +1,0 @@
---- 
-wordpress_id: 42
-title: A note from Tom Ridge...
-wordpress_url: http://blog.6thdensity.net/?p=42
-layout: post
----
-<p><div align=center><img src="http://www.karendecoster.com/blog/archives/ShowLetter.jpg"/></div></p><p>Hattip to <a href="http://www.karendecoster.com/blog/">Karen De Coster</a></p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 981
-title: A Public Service Announcement from the Concerned Citizens at Social Memory Complex
-wordpress_url: http://blog.6thdensity.net/?p=981
-layout: post
----
-<p><img src="http://www.tfhrc.gov/pubrds/06sep/images/opi4.jpg" alt="" />Did you know that at least 92% of all fatal car accidents are caused by drivers who make mistakes?  It's true.  Human errors while driving can be deadly, not just to the driver, but to pedestrians and other motorists as well.</p><p>We all have a responsibility to ensure that everybody on the road is safe.  So the next time you see somebody make a mistake, do everybody a favor and take their keys away.  You just might save a life.</p>

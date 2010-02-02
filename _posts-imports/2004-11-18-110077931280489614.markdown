@@ -1,9 +1,0 @@
---- 
-wordpress_id: 310
-title: What does "support the troops" mean?
-wordpress_url: http://blog.6thdensity.net/?p=310
-layout: post
----
-Can anybody tell me what it means when people say they "support the troops"?  What does that phrase even mean?
-
-I assume they're referring to some level of support above and beyond their tax dollars.

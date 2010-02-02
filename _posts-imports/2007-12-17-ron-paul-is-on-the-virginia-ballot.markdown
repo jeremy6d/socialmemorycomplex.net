@@ -1,7 +1,0 @@
---- 
-wordpress_id: 853
-title: Ron Paul is on the Virginia Ballot!
-wordpress_url: http://blog.6thdensity.net/?p=853
-layout: post
----
-<p>Well, what a relief! The Republican Party of Virginia headquarters wouldn't let us in to help sort the 2.5 foot high stack of petititons the campaign submitted this morning. We were worried that might be the technicality that would prevent Paul's petitions from being certified, and that would prevent his appearance on the Virginia ballot. Luckily, the Republicans aren't trying any funny business yet. But don't trust them - keep the pressure on!</p><p>Here's the email I got from the campaign:<blockquote><p>Congratulations! As of 2:00 PM ET today, Ron Paul was certified to be on the ballot for the Republican presidential primary in Virginia.</p><p>The Republican Party HQ of Virginia determined that he had enough signatures to be on the ballot. Actually, their staff had to stop counting after the first box of petitions because there were just too many petitions to count.</p><p>Thank you to all our volunteers for your hard work in getting Congressman Ron Paul on the ballot. You made this happen!</p><p>Cheers,<br /><br />Mike McHugh<br />National Ballot Access Coordinator<br />Ron Paul 2008 Presidential Campaign Committee</p></blockquote>For the sake of the campaign, I hope this is the last campaign effort McHugh "coordinates".</p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 177
-title: Just sad
-wordpress_url: http://blog.6thdensity.net/?p=177
-layout: post
----
-<p><a href="http://apnews.myway.com/article/20051119/D8DVI20O0.html">Congress raises pay of its members</a><br /><a href="http://cnn.netscape.cnn.com/news/story.jsp?id=2005111818110002569401&dt=20051118181100&w=RTR&coview=">Congress cuts food stamps program</a></p><p>Now, I'm no defender of welfare programs, but there's something profane about this.</p>

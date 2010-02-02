@@ -1,7 +1,0 @@
---- 
-wordpress_id: 223
-title: "108688715129555544"
-wordpress_url: http://blog.6thdensity.net/?p=223
-layout: post
----
-<a href="http://www.underreported.com">Undereported.com</a> is a good site to check periodically, as they can keep you up to date on goings-on that are under the media line of sight (or explicitly covered up).  They approach stuff from a somewhat Christian, pro-life point of view, so keep that in mind - still good info usually.  Check out <a href="http://www.underreported.com/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=1323&amp;mode=thread&amp;order=0&amp;thold=0">this story on a "terrorist" bombing in Germany</a>.

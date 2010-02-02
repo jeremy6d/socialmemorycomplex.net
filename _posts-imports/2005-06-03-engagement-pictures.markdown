@@ -1,7 +1,0 @@
---- 
-wordpress_id: 75
-title: Engagement Pictures
-wordpress_url: http://blog.6thdensity.net/?p=75
-layout: post
----
-<p>The first is the official one for the paper:</p><p><div align=center><img src="http://6thdensity.net/pictures/albums/engagement/DSCN1230.jpg"/></div></p><p>More engagement pics can be viewed <a href="http://6thdensity.net/pictures/view_album.php?set_albumName=engagement">here</a>.</p>
