@@ -2,7 +2,8 @@
 title: You Can't Have It Both Ways
 categories: leftlibertarian
 tags: cultural_marxism, leftism, racism, sexism, political_correctness
-___
+published: false
+---
 Nobody except the most insufferable globalist would deny the consequence of racial, ethnic, or cultural identity. It has emerged as a defining 
 
 Among the most ardent culture warriors of the Left, those who champion the concept of white skin privilege 

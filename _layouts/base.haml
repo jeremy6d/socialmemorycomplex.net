@@ -24,6 +24,10 @@
             - if target = page.next
               %li
                 =next_link(target)
+        / - if paginator
+        /   .paged_nav
+        /     =paginator.previous_page 
+        /     =paginator.next_page
         %br{:clear=>"all"}
         %a{:rel=>"license", :href=>"http://creativecommons.org/licenses/by-nc-sa/3.0/"}
           %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png"}
