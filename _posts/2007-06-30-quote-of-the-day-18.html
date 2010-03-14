@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 763
+title: Quote of the Day
+wordpress_url: http://blog.6thdensity.net/?p=763
+layout: post
+---
+<p><img style="margin-right: .75em; float: left;" id="image762" src="http://blog.6thdensity.net/wp-content/uploads/2007/06/bubblesmug.thumbnail.jpg" alt="bubblesmug.jpg" />Here's what I know, Ricky.  If you love something, let it go.  If it comes back to you, you own it. If it doesn't, you don't own it.  And if it doesn't, you're an asshole.</p><p align=right>- Bubbles</p>

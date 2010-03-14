@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 702
+title: Various life experiences listed below
+wordpress_url: http://blog.6thdensity.net/?p=702
+layout: post
+---
+<ul><li>Tomorrow I head out to Scott Mountain for a camping trip with Brady and Ezra from <a href="http://eytom.com/blog/">Eytom</a> and one other guy I haven't met.  Should be lots of fun!  Expect no updates till Sunday.</li><li>The <a href="http://richmond.leftlibertarian.org">Richmond Left Libertarian Alliance</a> has its first meeting at 7:00 PM on Labor Day 2007 at Commerical Tap House, Richmond, VA.  <a href="http://upcoming.yahoo.com/event/171280/">Sign up at upcoming.org</a> if you plan to attend.</li><li>I've pretty much decided I'm probably gonna purchase a Pontiac Vibe once I get back from the trip - probably a used one at CarMax, though I haven't decided whether I want to splurge on the new model.</li><li>The <a href="http://cvreg.org">Central Virginia Ruby Enthusiasts Group</a> is teaming up with the <a href="http://www.richmondjug.com/">Richmond Java Users Group</a> to present <a href="http://cvreg.org/2007/3/15/stu-halloway-in-may">a talk</a> by <a href="http://www.nofluffjuststuff.com/speaker_view.jsp?speakerId=6">Stu Halloway</a> on Rails for Java Programmers.  Highly recommended - sign up <a href="http://upcoming.yahoo.com/event/155002/">here</a>!</li><li>Tasha documented her craft show last weekend <a href="http://potterybytasha.blogspot.com/2007/04/big-success.html">here</a>.  I get a shout-out.</li></ul>

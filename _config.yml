@@ -8,6 +8,6 @@ permalink:   pretty
 site_title:  Social Memory Complex
 sass:        true
 haml:        true
-paginate:    10
+paginate:    15
 post_defaults:
   layout: post

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 83
+title: Vinyl is too hip for Russia
+wordpress_url: http://blog.6thdensity.net/?p=83
+layout: post
+---
+<p>Check out this awesome <a href="http://soundresearch.narod.ru/cassetteDJ.htm">homemade DJ rig for cassettes</a>!</p><p><div align=center><img src="/pics/cassetteDJ.JPG"/></div></p><p>Wow, something from Russia that is cool.  Not that prostitution and organized internet crime aren't cool.  Just different.</p>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 35
+title: Matt's day in the sun
+wordpress_url: http://blog.6thdensity.net/?p=35
+layout: post
+---
+<div align="center"><img src="http://timesdispatch.com/servlet/Satellite?blobcol=urlmainpicture&blobheader=image/jpeg&blobkey=id&blobtable=MGImage&blobwhere=1031782447980&ssbinary=true"/></div><p>I just about shit myself when I saw <a href="http://www.mattwalters.net">my best man</a> was on the front page of the <a href="http://www.timesdispatch.com">Times Dispatch</a> in Richmond.  <a href="http://timesdispatch.com/servlet/Satellite?pagename=RTD/MGArticle/RTD_BasicArticle&c=MGArticle&cid=1031782446130">Check it out</a>!</p>

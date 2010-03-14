@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 740
+title: beCamp this weekend
+wordpress_url: http://blog.6thdensity.net/?p=740
+layout: post
+---
+<p>UPDATE: I'll be sitting this one out (at least for the first day) but I encourage everybody else to attend this evening!</p>
+<p>I just found out about <a href="http://barcamp.org/beCamp">beCamp</a> this weekend, June 15-16, 2007.  Looks cool, here's what it's about:<blockquote><p>beCamp is Charlottesville's version of the BarCamp unconference phenomenon—organized on the fly by attendees, for attendees. Realizing that the most energizing parts of any tech conference are the ad hoc conversations that take place in the hallways between the sessions, beCamp facilitates these types of interactions for an entire event. We provide the venue (the funky, historic Fry's Spring Beach Club), the wireless, the projectors, the food, da beer—you show up to teach, learn, and participate.</p><p>Each attendee has to talk about something or volunteer (registration, set-up, teardown, etc.). There will be a number of sessions which will be picked by the attendees at the start of the event. For example, if lots of people want to hear about Blacklight, then that will be on the agenda. If no one wants to hear about HTML5, then it won't be on the agenda.</p></blockquote>I'm thinking of doing a quick demo on <a href="http://pipes.yahoo.com">Yahoo!Pipes</a>, and I'm hoping to explore some ideas that can be incorporated into <a href="http://blog.6thdensity.net/?p=484">ThreadSpinner</a>.  I'll also bring Scrabble, my guitar, and my melodica (and my MacBook).</p><p>First order of business, though: find a puppysitter for Tela.</p>

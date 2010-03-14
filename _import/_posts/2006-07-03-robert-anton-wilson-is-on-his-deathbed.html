@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 462
+title: Robert Anton Wilson is on his deathbed
+wordpress_url: http://blog.6thdensity.net/?p=462
+layout: post
+---
+<p><a href="http://www.huffingtonpost.com/paul-krassner/robert-anton-wilson_b_23608.html">According to the Huffington Post</a>, <a href="http://www.rawilson.com/main.shtml">R.A. Wilson </a>- author of <a href="http://en.wikipedia.org/wiki/Illuminatus!_Trilogy">The Illuminatus! Trilogy</a> and other science fiction works - is dying.  Reading the trilogy was a life changing experience for me - easily the most challenging literary experience I've ever had (and I've read Goethe's <i>Faust</i> in the original German!).  It was his writing and the way he framed issues in a cynical but curious manner that finally <a href="http://blog.6thdensity.net/?p=199">pushed me over the edge into anarchism</a>.  I will always be grateful that he spoke his thoughts and beliefs so plainly, and I will always resent that he wasn't more widely read.</p><p><a href="http://www.rawilson.com/metro.shtml">Here</a>'s a great quote from a recent interview in which he addresses his mortality:<blockquote><p>"I know I'm going to die sometime soon: five weeks, five months, five years," says Wilson. "I don't know, maybe 50 years if stem cell research moves along. But I don't know and I don't care. And I can't take it seriously anymore. If George Bush is president of the free world, who can take anything seriously?" </p></blockquote></p>

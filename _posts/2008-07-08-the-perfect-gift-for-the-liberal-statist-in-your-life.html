@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 996
+title: The perfect gift for the liberal statist in your life
+wordpress_url: http://blog.6thdensity.net/?p=996
+layout: post
+---
+<p>This guy's <a href="http://www.dieselsweeties.com/shirts/">t-shirts</a> (let alone<a href="http://www.dieselsweeties.com/"> his web comics</a>) are rad, but <a href="http://dieselsweeties.com/shirts/daretohope/">this one</a> is just <em>way</em> too good to pass up:</p><div align=center><img src="/assets/daretohope480.gif" /></div><p>Yay!  Teh itnerwebz gets <a href="http://all-left.net">us</a>!</p>

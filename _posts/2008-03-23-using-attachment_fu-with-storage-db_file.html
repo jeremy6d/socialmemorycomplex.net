@@ -1,0 +1,68 @@
+--- 
+wordpress_id: 937
+title: Using attachment_fu with :storage => :db_file
+wordpress_url: http://blog.6thdensity.net/?p=937
+layout: post
+---
+<p>So I recently got to use Rick Olson's <a href="http://svn.techno-weenie.net/projects/plugins/attachment_fu/">attachment_fu</a> in a Rails application I'm working on, and it is pretty awesome.  It takes a lot of the hassle out of managing files that you might need to upload such as images, and even has the capability of doing thumbnails on the fly.  Attachment_fu has three methods for storing uploads: the file system, Amazon S3 storage, and the database.  You can find ample articles on the 'net for using the first two methods, but the last one is poorly documented - both in the attachment_fu docs and on the web (that's not to say it isn't documented at all - I owe everything to <a href="http://deadprogrammersociety.blogspot.com/2007/04/getting-your-attachmentfu-back-out-of.html">Ron Evans' crucially helpful post</a>).  But I'd like to provide a streamlined - or at least personalized - tutorial for getting this to work.</p><p><!--more-->The first step is figuring out which image manipulation library to use.  I used <a href="http://rmagick.rubyforge.org/">RMagick</a> just because I had <a href="http://www.railsenvy.com/2007/4/26/rmagick-on-os-x-10-4-9-intel">the directions</a> for compiling it handy, but <a href="http://seattlerb.rubyforge.org/ImageScience.html">ImageScience</a> and <a href="http://rubyforge.org/projects/mini-magick/">minimagick</a> are also supported.  Installation instructions abound, so google around to find something that works for you (it may or may not be painful, and I take no responsibility for it either way).</p><p>Next, download and install attachment_fu.  From your application root:<blockquote><pre lang="bash">script/plugin install http://svn.techno-weenie.net/projects/plugins/attachment_fu/
+</pre></blockquote>But there's more to do in vendor/plugins.  Since attachment_fu doesn't have any ready-made helpers for pulling images out of the database, I rolled my own.  This a hack, and I follow err's discipline of hacking plugins.  Read his post for details, but essentially you create a directory called "attachment_fu_hacks" in vendor/plugins with a single file called "init.rb" In that file, paste the following:
+<blockquote><pre lang="ruby">Technoweenie::AttachmentFu::Backends::DbFileBackend.module_eval do
+  def image_data(thumb_flag = false)
+    if thumb_flag and the_thumb = thumbnails.first
+      the_thumb.current_data
+    else
+      current_data
+    end
+  end
+end</pre></blockquote>This is a tweaked version of Ron's method.  Essentially, it gives you a way to pull the binary data directly, which we'll need (since we don't have a "file" to serve).</p><p>Now scaffold your asset resource:<blockquote>script/generate scaffold_resource asset filename:string content_type:string size:integer width:integer height:integer parent_id:integer thumbnail:string created_at:datetime db_file_id:integer</blockquote>Roll into the migration it created; you'll need to add the actual table that will hold the databased file.  Keep in mind that we're using a <a href="http://dev.mysql.com/doc/refman/5.0/en/blob.html">blob</a> data, type, so here's the full monty:<blockquote>
+<pre lang="ruby">class CreateAssets < ActiveRecord::Migration
+  def self.up
+    create_table :assets do |t|
+      t.column :filename, :string
+      t.column :type, :string
+      t.column :content_type, :string
+      t.column :size, :integer
+      t.column :width, :integer
+      t.column :height, :integer
+      t.column :parent_id, :integer
+      t.column :thumbnail, :string
+      t.column :created_at, :datetime
+      t.column :db_file_id, :integer
+    end
+    create_table :db_files
+    execute 'ALTER TABLE db_files ADD COLUMN data LONGBLOB'
+  end
+  def self.down
+    drop_table :assets
+    drop_table :db_files
+  end
+end</pre></blockquote></p><p>Now, your model file will look something like this (see <a href="http://clarkware.com/cgi/blosxom/2007/02/24">Mike Clark's post</a> or the <a href="n.techno-weenie.net/projects/plugins/attachment_fu/README">attachment_fu readme</a> for more details):<blockquote><pre lang="ruby">class Asset < ActiveRecord::Base
+  has_attachment  :storage => :db_file, 
+                  :content_type => :image,
+                  :max_size => 1.megabytes,
+                  :thumbnails => { :thumb => '100x100>' }
+  validates_as_attachment
+end</pre></blockquote>Note the thumbnail line, which instructs attachment_fu to create a thumbnail of the image.</p><p>Your controller will look normal (except you may not want to support the edit / update functions, since that has little meaning to the asset).  However, in "show" we need to be able to not only serve an HTML page with the image, but also serve <em>the image itself</em>.  This requires us to include the mime type in environment.rb:<blockquote><pre lang="ruby">Mime::Type.register "image/jpeg", :jpg
+Mime::Type.register "image/gif",  :gif
+Mime::Type.register "image/png",  :png</pre></blockquote>and do something strange in the controller:<blockquote><pre lang="ruby">  def show
+    @asset = Asset.find(params[:id])
+    show_thumbnail = (params[:thumb] == "true")
+    respond_to do |format|
+      format.html { render :action => 'show', :layout => false }
+      format.jpg  { send_data(@asset.image_data(show_thumbnail), 
+                              :type  => 'image/jpeg', 
+                              :filename => @asset.create_temp_file, 
+                              :disposition => 'inline') }
+      format.gif  { send_data(@asset.image_data(show_thumbnail), 
+                              :type  => 'image/gif', 
+                              :filename => @asset.create_temp_file, 
+                              :disposition => 'inline') }
+      format.png  { send_data(@asset.image_data(show_thumbnail), 
+                              :type  => 'image/png', 
+                              :filename => @asset.create_temp_file, 
+                              :disposition => 'inline') }
+    end
+  rescue
+    flash[:warning] = 'Could not find image.'
+    redirect_to home_url
+  end</pre></blockquote>I'm sure there's a way to DRY up the handling of each image type, but I couldn't figure it out.</p><p>Notice how I'm handling the possibility of a thumbnail image.  In attachment_fu, any thumbnails automatically created are stuck in the "db_files" table along with the normal image.  No real distinction is made at that level.  However, an original image model will have a "thumbnails" collection including all the thumbnails associated with it.  That's what the method we hacked into attachment_fu does.  So in the controller, I just keep an eye out for the "thumb" parameter.</p><p>I'm also serving the binary image data <em>directly</em> if the request is for a jpg, gif, or png instead of an html file with the image rendered in it.  This allows you to use the image elsewhere in the application like so: <blockquote><pre lang="ruby"><%= image_tag assets_path(@asset) %></pre></blockquote>To get the thumbnail, it's easy:<blockquote><pre lang="ruby"><%= image_tag "/assets/1.jpg?thumb=true" %> </pre></blockquote>I'm sure you can roll some helpers that will be suited to how you use images (you might want to even have one that would look up the image based on the filename instead of the id).</p><p>One thing to keep in mind is that the asset model definition is not the only limit on the size of file you can upload.  If you upload something too large, you may get a MySQL error about the max_packet_size.  This is a MySQL setting that you may need to tweak for your purposes.</p><p>Well, that's it.  Let me know if I forgot anything important.</p>

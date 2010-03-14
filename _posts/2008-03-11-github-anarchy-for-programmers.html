@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 923
+title: "GitHub: Anarchy for Programmers"
+wordpress_url: http://blog.6thdensity.net/?p=923
+layout: post
+---
+<p>I'm at the <a href="http://cvreg.org">CVREG</a> meeting watching <a href="http://simplisticcomplexity.com">Jon</a> give his presentation on <a href="http://github.com">GitHub</a>, the new awesomeness that everybody (nerdy) is talking about.  I'm still learning about it and figuring out how / why it's different than Subversion, but look for a personal project on there soon.</p><p><a href="http://git.or.cz/">git</a> is a source code management system designed to make branching easy.  It doesn't enforce a "HEAD" like CVS and Subversion, so you can organize your project (or not) any way you want and fork to your heart's content. It was written by <a href="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a> and company to help them develop the linux kernel, so it's all about lots of people hacking on code and figuring out a way to diff between versions without making full copies of the source.  GitHub tracks, hosts, and manages all the distributed goodness: think MySpace for programmers.  It also has profiles, update feeds, requests, and more.  It's perfect for starting your own, decentralized, self-organizing coding community. </p><p>Let me know if you want a beta invite. I'm <a href="http://github.com/jeremy6d">jeremy6d</a> if you want to find me.</p>

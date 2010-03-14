@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 473
+title: Managing genius by God's will
+wordpress_url: http://blog.6thdensity.net/?p=473
+layout: post
+---
+<p>I've read <a href="http://www.wesjones.com/gatto1.htm">this essay</a> several times, and you should make sure you read it at least once.  As horrifying and infuriating as <a href="http://www.johntaylorgatto.com/">Gatto</a>'s entirely spot-on description of our public education system is, the last few sentences never fail to choke me up:<blockquote>After a long life, and thirty years in the public school trenches, I've concluded that genius is as common as dirt. We suppress our genius only because we haven't yet figured out how to manage a population of educated men and women. The solution, I think, is simple and glorious. Let them manage themselves.</blockquote>Amen.  It's all about central management: by states, by corporations, by established interests and their institutions.  Check out <a href="http://www.altruists.org/static/files/Real%20purposes%20of%20Schooling%20%28John%20Taylor%20Gatto%29.mp3">this interview</a> with Gatto where he ties public education philosophy to social darwinism.  He also contends - to my amazement - that the term "social darwinism" refers directly to Charles Darwin himself!  He was a Calvinist who extended beliefs on predestination to the mandate for the "chosen" to protect the evolutionary breeding stock of humanity.  I'm going to have to look into that more.</p>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 774
+title: So, Jeremy, man... what the fuck is up with leftlibertarian.org?
+wordpress_url: http://blog.6thdensity.net/?p=774
+layout: post
+---
+<p>Two things:<ol><li><p>In order to get the new site working before I released it to the public, I put the IP address for the domain directly into my hosts file.  Basically, it means that I was going to the new site while everybody else was going to the old one.  Then I forgot to change it back once the new site was working.  Oops.</p><p>The good news is that the new site is churning away on feeds just as it should, but you can't see it, because...</p></li><li>Unidentified problems with my domain registrar are preventing you from being pointed to the new server when you type "leftlibertarian.org" into your browser.  The DNS info should have been propagated since I changed the nameserver entries a week ago.  I have no clue what's going on here, and I'll be on the phone with them today.</p></li></ol></p><p>So sorry for all the headache; just hang in there a bit longer and I'm sure this will all get worked out.</p><p><u>UPDATE</u>: I've talked with my registrar and the problem should be solved within 24 hours.  Check back here tomorrow!</p><p><u>UPDATE 2</u>: Looks like <a href="http://leftlibertarian.org">it's up</a> for me and <a href="http://praxeology.net/blog/2007/07/22/return-of-the-left/">Roderick</a>.  If you're still having problems, try clearing your cache on your browser and refreshing.  Still getting the error screen?  Try back tomorrow.</p>

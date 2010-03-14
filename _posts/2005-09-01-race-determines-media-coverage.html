@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 126
+title: Race determines media coverage
+wordpress_url: http://blog.6thdensity.net/?p=126
+layout: post
+---
+<p>They're all taking food without paying for it, but <a href="http://www.livejournal.com/users/jameth/1959562.html">black people "loot", whereas white people "find".</a></p><p>Good find, <a href="http://www.livejournal.com/users/jameth/">jameth</a> (at least, if you're white).</p><p>EDIT: I just want to say for the record that the <a href="http://www.breitbart.com/news/2005/09/01/MTFH36810_2005-09-01_13-32-51_HO481242.html">needless episodes of violence</a> being perpetrated in New Orleans and elsewhere are despicable.  Emergency situations call for emergency measures to restore justice.  In other words, send in the troops and shoot to kill these roaming, armed bands of thugs.  I'm speaking about those who are attacking refugees and otherwise using violence to hamper the rescue process.  I couldn't give a shit about inner city residents looting electronics, jewelry, medicine, etc.  Whatever.  But to purposely fire on rescue efforts to save innocent victims of the tragedy does not qualify as "payback" for past "oppression and injustice".  I am really hoping no lefties try to justify this behavior on Marxist socioeconomic terms.  Because it doesn't cost a motherfucking dime to use your head.</p><p>MORE: An <a href="http://www.antiwar.com/blog/comments.php?id=P2331_0_1_0">update</a> on the situation via the NOPD.  Thanks tex from <a href="http://antiwar.com">Antiwar.com</a>.</p>

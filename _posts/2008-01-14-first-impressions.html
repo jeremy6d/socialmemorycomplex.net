@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 878
+title: First Impressions
+wordpress_url: http://blog.6thdensity.net/?p=878
+layout: post
+---
+<p>Honestly, when you look at this:</p><p align=center><img src='http://blog.6thdensity.net/wp-content/uploads/2008/01/thugs.gif' alt='thugs.gif' /></p><p>what is your first impression?  Do <a href="http://www2.wcoil.com/~lpd/swat/swat.htm">these fellas</a> look like the good guys or the bad guys?  And, holy hell, do they look like <em>public servants</em> to you?</p><p>You may be concerned about judging by appearances, but sometimes there's a reason it <a href="http://www.theagitator.com/2008/01/06/lima-ohio-drug-raid-gone-bad/">looks</a> and <a href="http://www.theagitator.com/2008/01/11/lima-pd-pulls-animated-swat-image/">quacks</a> like a duck.</p>

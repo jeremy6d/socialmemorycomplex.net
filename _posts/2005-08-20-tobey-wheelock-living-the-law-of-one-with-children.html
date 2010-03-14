@@ -1,0 +1,38 @@
+--- 
+wordpress_id: 103
+title: "Tobey Wheelock: Living the Law of One with Children"
+wordpress_url: http://blog.6thdensity.net/?p=103
+layout: post
+---
+<p><div align=center><img src="pics/conference_10.jpg"/></div></p><p>Tobey gave a very enlightening and interesting lecture about his experience as a parent raising according to the Law of One.  His son Elijah also demonstrated his profound and especial understanding of the material and insight into the true nature of reality.  I'm posting my notes directly to the blog</p><p>
+<ul><li>Magic
+<ul>
+<li>Raising children should be regarded as a cosmic, magic <i>honor</i></li>
+<li>JOY</li>
+<li>WONDER</li>
+</ul></li>
+<li>Free will / discipline<ul>
+<li>First exercise of free will is choosing incarnation and parents</li>
+<li>Very powerful idea for children</li>
+<li>Find ways to be fair to children in terms of discipline</li>
+<li>Establish boundaries so that children make the choice to bear consequences rather than accept punishment</li>
+</ul></li>
+<li>Acceptance<ul>
+<li>How to handle situations without stifling child’s uniqueness and individuality</li>
+<li>Put thought into which energy center you are coming from</li>
+<li>Traits that may drive parents crazy may actually be the gifts they brought in</li>
+<li>Strive for balance – reinforce acceptance and healthy expression</li>
+<li>How to strike balance between acceptance and discipline?</li></ul></li>
+<li>Worship<ul>
+<li>Ra says children should share in the parents’ celebration and worship of the Creator</li>
+<li>Church attendance<ul>
+<li>Acceptable behavior in public</li>
+<li>What is appropriate to talk about vis a vis the Law of One?</li>
+<li>Many opportunities for catalyst<ul>
+<li>Evaluation of comfort level</li>
+<li>How to phrase things in other people’s terms</li></ul></li></ul></li>
+<li>Results?<ul>
+<li>Challenges parents<ul>
+<li>Questions reach limits of parents’ understanding</li></ul></li>
+<li>“There are no mistakes.”</li></ul>
+</li></ul></li></ul></p>

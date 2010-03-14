@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 805
+title: Airwolf Economics
+wordpress_url: http://blog.6thdensity.net/?p=805
+layout: post
+---
+<p align=center><img src='http://blog.6thdensity.net/wp-content/uploads/2007/10/helicopterben.jpg' alt='helicopterben.jpg' /></p><p>Hat tip to <a href="http://blog.jimvanfleet.com">Big Big Fleet</a>.</p>

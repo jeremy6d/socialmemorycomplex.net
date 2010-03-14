@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 1011
+title: Quote of the Day
+wordpress_url: http://blog.6thdensity.net/?p=1011
+layout: post
+---
+<p>Once again, Kevin <a href="http://www.theartofthepossible.net/2008/07/24/labor-struggle-in-a-free-market/#comment-7562">nails it</a>:</p><blockquote>If management today solemnly claims its authority as stewards of shareholders, even though shareholders exercise no meaningful control and management in fact acts as de facto residual claimant in using the corporation primarily as its own means of support, I think it’s fair to describe the corporation ... as a mass of unowned capital controlled by a self-perpetuating oligarchy, using shareholder power only as a legitimating ideology in the same way Soviet industrial management justified its authority with respect to workers’ power.</blockquote>

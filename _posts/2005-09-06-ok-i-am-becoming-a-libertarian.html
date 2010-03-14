@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 142
+title: "\"OK, I am becoming a Libertarian\""
+wordpress_url: http://blog.6thdensity.net/?p=142
+layout: post
+---
+From <a href="http://crookedtimber.org">Crooked Timber</a> comes the <a href="http://crookedtimber.org/2005/09/05/ok-i-am-becoming-a-libertarian/">anti-state backlash</a>:<blockquote><p>Hyatt had a convoy arrive by Wednesday? As Alan notes, Google Maps helpfully tells us that the New Orleans Hyatt Regency is less than two tenths of a mile away from the goddamn Convention Center. I guess FEMA couldn’t figure out the last leg of the trip or something?</p><p>...</p><p>Look, just to be clear, this post isn’t really about whether the disaster should make me or anyone else want to become a libertarian. Examples like this show—in case you needed more evidence—that there is absolutely no good reason the federal government couldn’t have mounted a serious relief effort for the people of New Orleans much, much faster than it did, and especially for the thousands at the convention center and the Superdome.</p></blockquote>This argument may never placate the apologists for the omnipotent state, but perhaps a few normal people like you and I will start to get the picture.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 871
+title: Protesting Fox Affiliates Nationwide
+wordpress_url: http://blog.6thdensity.net/?p=871
+layout: post
+---
+<p>From the Daily Paul:<blockquote><p>On the evening of, January 3, 2007, Ron Paul supporters will be protesting the exclusion of our candidate from the Fox News candidate forum debate. We will be protesting at local Fox TV Stations across the country and at the Fox Forum Debate location in New Hampshire.</p></blockquote>See <a href="http://www.dailypaul.com/node/19293">the original post</a> for more details.  <s>If you're a Richmond Paul supporter, here's the address of our local Fox affiliate:<blockquote><p>WRLH-TV/FOX 35 Richmond, VA<br />1925 Westmoreland St.<br />Richmond, VA 23230<br />(V)804-358-3535<br />(F)804-358-1495<br /></p></blockquote>When I know the time we're meeting I'll update.</s></p><p>UPDATE: If you're a Richmond, VA Ron Paul supporter, we're meeting at 6:30 PM at the 7-Eleven at the corner of Broad and Westmoreland (4601 West Broad Street).  We'll then march a quarter mile to the Fox station from there starting around 6:45.</p>

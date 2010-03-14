@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 771
+title: Where I've been, where I'm at now, and what's up
+wordpress_url: http://blog.6thdensity.net/?p=771
+layout: post
+---
+<p>I've had quite a week.  I attended my grandmother's funeral on Wednesday in Hampton.  Sorry I had to miss the Richmond Left Libertarian Alliance meeting Tuesday, but there was just too much going on.  Reports indicate it was a small but successful event, so it won't be the last one either.  Then Tasha and I took the train to Baltimore yesterday to hang with our friends Andrew, Samantha, Matt, and Whitney.  As always they are impeccable hosts.  Today we rode the train from Baltimore to New York City so Tasha can <a href="http://etsylabs.blogspot.com/2007/07/clay-as-art-at-labs.html">teach her classes for Etsy Labs</a>, which is quite an opportunity.  I'm here for moral support, to see the city, and to visit my friend Jamie with whom I used to be in a band (well, for two months but we were still a band).</p><p>This is the first time I've been to New York City where I've simply enjoyed being here.  We took a long walk through Central Park and visited the <a href="http://www.madmuseum.org">Museum of Design</a>.    We're staying right off Wall St., right in the heart of the monopoly finance complex... I plan on visiting the Police Museum at some point, too.</p><p>If anybody ever reads this blog and they happen to be in New York (I know, what are the odds?) let me know!  I'll be here till Monday afternoon.</p>
