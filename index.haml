@@ -3,7 +3,7 @@ layout: full_nav
 title: Social Memory Complex
 subtitle: A political economy of the soul
 ---
--for post in site.posts.reverse
+-for post in paginator.posts
   .post{:id => "post-#{post.slug}"}
     %h2.post-title
       %a{:href => "#{post.url}"}
@@ -15,3 +15,5 @@ subtitle: A political economy of the soul
       ="Tags: #{post.tags}" unless post.tags.empty?
       %br
       =link_to "Comments", "#{post.url}#disqus_thread"
+.pagination
+  = pagination_links paginator

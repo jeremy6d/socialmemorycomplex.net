@@ -61,4 +61,19 @@ module Helpers
     end
     paragraphs.join
   end
+  
+  def pagination_links(pages)
+    links = [if num = pages.previous_page
+      link_to "&larr; Newer", (num == 1) ? "/" : "/page#{num}"
+    end,
+    
+    unless pages.page < 3
+      link_to "Home", "/"
+    end,
+    
+    if num = pages.next_page
+      link_to "Older &rarr;", (num == 1) ? "/" : "/page#{num}"
+    end].compact.collect { |markup| "<li>#{markup}</li>" }.join(" ")
+    "<ul>#{links}</ul>"
+  end
 end
