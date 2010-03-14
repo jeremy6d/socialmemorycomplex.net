@@ -1,7 +1,0 @@
---- 
-wordpress_id: 994
-title: Gadsen Anarchy
-wordpress_url: http://blog.6thdensity.net/?p=994
-layout: post
----
-<p>Something I whipped up today:</p><div align=center><img src="/assets/gadsen_anarchy_waving.png"></div><p>Here's a smaller one:</p><div align=center><img src="/assets/gadsen_anarchy_waving.gif" /></div>

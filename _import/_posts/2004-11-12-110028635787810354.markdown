@@ -1,7 +1,0 @@
---- 
-wordpress_id: 304
-title: "110028635787810354"
-wordpress_url: http://blog.6thdensity.net/?p=304
-layout: post
----
-<a href="http://knappster.blogspot.com/2004/11/right-before-our-eyes.html">This article from Knappster</a> illustrates my point on election fraud much better than <a href="http://6thdensity.net/blog/2004/11/my-friend-wil-who-does-not-like.html">I did</a>.<blockquote>While the media falls all over itself to explain why last Tuesday's exit polls were "wrong," the fact remains that in states with auditable vote counts, the exit polling matched the counts to within 0.1%. It was only in states that used electronic voting machines, unencumbered by any "paper trail" which could be checked, that the results inexplicably tilted in Bush's favor by about a 5% margin over the exit polls.</blockquote>He goes on to explain his first hand experience with votes disappearing while monitoring returns for the <a href="http://www.badnarik.org">Badnarik campaign</a> on election night.  I'm not sure I totally buy his reasoning, but the 5% figure cited above is startling.  Moreover, I haven't heard any comparison of auditable to non-auditable system voting patterns in any of the major media.  Hmm, what gives?

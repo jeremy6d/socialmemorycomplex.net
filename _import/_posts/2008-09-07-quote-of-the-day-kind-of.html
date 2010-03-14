@@ -1,7 +1,0 @@
---- 
-wordpress_id: 1093
-title: Quote of the day (kind of)
-wordpress_url: http://blog.6thdensity.net/?p=1093
-layout: post
----
-<div align=center><img src="/assets/1973.jpg" /></div><p>Via <a href="http://postsecret.blogspot.com/2008/09/sunday-secrets.html">PostSecret</a>.</p>

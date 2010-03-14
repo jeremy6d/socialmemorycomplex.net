@@ -1,9 +1,0 @@
---- 
-wordpress_id: 482
-title: Studies in Mutualist Technical Geekery
-wordpress_url: http://blog.6thdensity.net/?p=482
-layout: post
----
-A while back, my friend Matt <a href="http://mattwalters.net/blog/permalink/42/">directed me</a> to <a href="http://positivesharing.com/2006/03/how-not-to-lead-geeks/">an article about managing geeks</a>.   I <a href="http://positivesharing.com/2006/03/how-not-to-lead-geeks/#comment-620">posted</a> <a href="http://positivesharing.com/2006/03/how-not-to-lead-geeks/#comment-663">some</a> <a href="http://positivesharing.com/2006/03/how-not-to-lead-geeks/#comment-697">comments</a> on the ensuing thread which reflected my recent reading of <a href="http://mutualist.org/id47.html">Studies in Mutualist Political Economy</a> as well as other left libertarian and mutualist thinkers.  Kevin Carson, the author of the aforementioned book, <a href="http://mutualist.blogspot.com/2006/07/great-discussion-on-corporate.html">saw fit to draw attention to the conversation</a> surrounding the original post, and even <a href="http://mutualist.blogspot.com/2006/07/great-discussion-on-corporate.html#comments">got the original contributors to respond</a>.
-
-It's nice when you get acknowledged for thoughts you've had outside the narrow scope of your personal blog.  Thanks Kevin and Alexander!  And I'd like to also note that I now appreciate much more <a href="http://cityzenjane.wordpress.com/">Cityzen Jane</a>'s points about <a href="http://mutualist.blogspot.com/2006/07/great-discussion-on-corporate.html#c115360471187141942">intrinsic enjoyment and motivation involved with geek work</a>.  I think that makes our domain of technical competency exceptional only in the sense that geeks have not yet been "deskilled".  Once management thinks they've found the "formula" for doing IT work, though, we're in the same boat as most humans, striving to preserve the product of our labor.

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 936
-title: Spam for spammers
-wordpress_url: http://blog.6thdensity.net/?p=936
-layout: post
----
-<p>This little nugget in my spam queue kind of blew my mind:<blockquote><p>Comment Poster | dave_morales@hotmail.com | commentposter.com | IP: 64.22.110.2</p><p>Post comments on websites automatically using automated Comment Poster software. Get thousnads of backlinks per day, increase your sales and earnings. Automated comment poster is the best way to build backlinks and promote websites automatically today!</p></blockquote>Just wow.</p>

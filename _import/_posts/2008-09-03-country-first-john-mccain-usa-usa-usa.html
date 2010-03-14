@@ -1,7 +1,0 @@
---- 
-wordpress_id: 1077
-title: Country First, John McCain, USA USA USA
-wordpress_url: http://blog.6thdensity.net/?p=1077
-layout: post
----
-<div align=center><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="425" height="319" id="qik_player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="http://www.qik.com/swfs/qik_player.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#333333" /><param name="FlashVars" value="userlock=true&streamname=c6ae314cd3e74f9080b0d0a4ec861960&vid=264204&safelink=theuptake"/><embed src="http://www.qik.com/swfs/qik_player.swf" FlashVars="userlock=true&streamname=c6ae314cd3e74f9080b0d0a4ec861960&vid=264204&safelink=theuptake" quality="high" wmode="transparent" bgcolor="#333333" width="425" height="319" name="qik_player" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><p>Absolutely hilarious - just when you think they can't get shallower than the Bush approach, they do. I mean, planning your chants out ahead of time?</p><p>By the way, there's excellent live coverage of the convention and the protests via streaming video at <a href="http://theuptake.org">The Uptake</a>, where I got the above tidbit.</p>

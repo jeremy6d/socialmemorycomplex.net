@@ -1,7 +1,0 @@
---- 
-wordpress_id: 965
-title: Thought of the Day
-wordpress_url: http://blog.6thdensity.net/?p=965
-layout: post
----
-<p><img src="/assets/cop_radar.gif" />In a free society, people would not stand for police shamefully waiting around on the road for somebody to come along and break the law.</p>

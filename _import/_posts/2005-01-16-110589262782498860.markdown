@@ -1,7 +1,0 @@
---- 
-wordpress_id: 335
-title: "110589262782498860"
-wordpress_url: http://blog.6thdensity.net/?p=335
-layout: post
----
-<img src="http://www.gizmodo.com/gadgets/images/iProduct.gif"/>

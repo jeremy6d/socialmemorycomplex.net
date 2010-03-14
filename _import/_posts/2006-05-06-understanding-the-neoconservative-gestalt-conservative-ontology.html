@@ -1,7 +1,0 @@
---- 
-wordpress_id: 448
-title: "Understanding the Neoconservative Gestalt: Conservative Ontology"
-wordpress_url: http://blog.6thdensity.net/?p=448
-layout: post
----
-<p>This installment of <em>Understanding the Neoconservative Gestalt</em> is really kind of a joke, since I really just want to highlight <a href="http://rightthinkinggirl.com/2006/05/01/illegal-immigration-day">a very interesting discussion</a> at Right Thinking Girl, and <a href="http://rightthinkinggirl.com/2006/05/01/illegal-immigration-day/#comment-806">this hilarious statement</a> by one of the conservative participants:<blockquote>Borders ARE real. Borders ARE truth, Jeremy. Try walking into Iran or North Korea.</blockquote>You see?  INS and border security policy are matters of absolute truth.  Fundamentalist and authoritarian regimes aren't arbitrarily violent - they're prosecuting the received word.  Conservatives are motivated by a desire to realize in politics objective absolutes like borders between nations, laws, etc.  There's no room for debate, because if you don't accept A is A then we can't have a discussion.</p><p><em>NOTE: To be fair, I'm not sure this particular dude qualifies as a dyed in the wool neoconservative - maybe neoliberal.</em></p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 427
-title: Quote of the Day
-wordpress_url: http://blog.6thdensity.net/?p=427
-layout: post
----
-<p>An excerpt from Jonathan Morris's <a href="http://www.readjdm.com/main/jdm/more/311/">Right Brain + Left Brain = No Brain</a> I thought was hilariously in tune with the current liberal establishment thinking:<blockquote>Vote Democrat and all of your wildest dreams will come true.</blockquote>His blog, <a href="http://readjdm.com">ReadJDM</a>, is funny and insightful.  Check it out, you frickin' idiots!  GOSH!</p>

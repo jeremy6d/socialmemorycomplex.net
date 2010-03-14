@@ -1,7 +1,0 @@
---- 
-wordpress_id: 1049
-title: They're not going to stop pushing the envelope
-wordpress_url: http://blog.6thdensity.net/?p=1049
-layout: post
----
-<p>Well, I'm sure you've heard about <a href="http://www.tcdailyplanet.net/article/2008/08/30/pre-emptive-police-raids-protesters-journalists.html">the preemptive raids on groups planning to protest at the Republican convention in Minneapolis</a>.  I don't really have much to add to what's being said <a href="http://www.theartofthepossible.net/2008/08/30/this-is-the-face-of-fascism/">elsewhere</a> on the <a href="http://www.salon.com/opinion/greenwald/2008/08/30/police_raids/">net</a>.  It's an outrage and it breaks my heart that I can't stand with them, but my place was definitely in Louisville this weekend.  And with the convention being <a href="http://embeds.blogs.foxnews.com/2008/08/31/rnc-makes-convention-changes-due-to-hurricane-gustav/">toned way down</a>, I wonder if the protests will have the same effect.</p><p>It's therefore important that, as much as I hate to repeat news better reported elsewhere, we all talk about the horror that's occurring in Minneapolis on our own outlets.  Better yet, call the jail where many are held to demand their release; the number is (651) 266 - 9350.  Don't be silent - bring this up in conversations, and let people know exactly how free we are in this country!  The police are going to keep pushing the envelope of oppressiveness unless we can build a broad consensus that their actions are simply wrong.</p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 74
-title: Why I blog
-wordpress_url: http://blog.6thdensity.net/?p=74
-layout: post
----
-<p><a href="http://catallarchy.net/blog/">Catallarchy</a>'s <a href="http://catallarchy.net/blog/archives/2003/05/30/who-is-jonathan-wilde/">Johnathan Wilde</a> has a great post about why libertarians are much more comfortable in the blogosphere and the internet in general titled <a href="http://catallarchy.net/blog/archives/2005/06/02/the-blogospheres-chaos/">The Blogosphere’s Chaos</a>.  It rings true to me - I love the dynamism and immediacy of this type of unregulated opinion.  All you need is a bit of discretion and you can learn so much and read so much great, unfiltered writing!</p><p>Plus, since libertarians tend to have impeckible gramar and speling, who need editors anyway?</p>

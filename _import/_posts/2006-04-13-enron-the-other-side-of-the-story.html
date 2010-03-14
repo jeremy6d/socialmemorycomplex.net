@@ -1,8 +1,0 @@
---- 
-wordpress_id: 430
-title: "Enron: The Other Side of the Story"
-wordpress_url: http://blog.6thdensity.net/?p=430
-layout: post
----
-<div><p><img style="float:right;margin:3px;" src="http://www.turtletrader.com/images/enron.jpg">Over at <a href="http://rightthinkinggirl.com/">Right Thinking Girl</a> there is an ongoing, thorough examination of the <a href="http://rightthinkinggirl.com/category/enron/">Enron case and the trial of Jeffrey Skilling and Ken Lay</a>.  RTG is certainly forming a reasonable defense of these gentlemen and the Enron venture, but the larger issues she is raising about "profit on the books" types of businesses are more interesting to me (though I have an entirely different take on it).  I'm amazed by how much of their game was shady - and how much of that shadiness was legal.  But even if her opinions piss you off, essentially she is providing a pretty comprehensive digest of the trial and a quick look into how they made their money.</p><p>One of the really interesting aspects of her analysis is the way Skilling devised partnerships with invented entities to hide risk and, ultimately, keep losses off the books.  This is a complex picture - and I'm led to believe that just as in many corporate enterprises, the complexity is really considered a business cost gladly paid for doing what is otherwise shady business.  It's a great study in the problems of agency in the corporate world: if the investors knew Skilling was taking all these risks, would they have approved?</p>
-<img src="http://www.csuchico.edu/acms/BADM_001/images/How%20the%20Enron%20Partnerships%20worked.jpg" style="clear:both"></div>

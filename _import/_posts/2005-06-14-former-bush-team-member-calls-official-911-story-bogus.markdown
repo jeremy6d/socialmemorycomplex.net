@@ -1,7 +1,0 @@
---- 
-wordpress_id: 80
-title: Former Bush team member calls official 9/11 story "bogus"
-wordpress_url: http://blog.6thdensity.net/?p=80
-layout: post
----
-<p><a href="http://washingtontimes.com/upi-breaking/20050613-102755-6408r.htm">Further</a> signs pointing to a controlled demolition of the 3 WTC towers:<blockquote>Former chief economist for the Department of Labor during President George W. Bush's first term Morgan Reynolds comments that the official story about the collapse of the WTC is "bogus" and that it is more likely that a controlled demolition destroyed the Twin Towers and adjacent Building No. 7. Reynolds, who also served as director of the Criminal Justice Center at the National Center for Policy Analysis in Dallas and is now professor emeritus at Texas A&M University said, "If demolition destroyed three steel skyscrapers at the World Trade Center on 9/11, then the case for an 'inside job' and a government attack on America would be compelling." Reynolds commented from his Texas A&M office, "It is hard to exaggerate the importance of a scientific debate over the cause of the collapse of the twin towers and building 7. If the official wisdom on the collapses is wrong, as I believe it is, then policy based on such erroneous engineering analysis is not likely to be correct either. The government's collapse theory is highly vulnerable on its own terms. Only professional demolition appears to account for the full range of facts associated with the collapse of the three buildings."</blockquote></p>

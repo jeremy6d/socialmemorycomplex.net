@@ -1,7 +1,0 @@
---- 
-wordpress_id: 966
-title: Quote of the Day
-wordpress_url: http://blog.6thdensity.net/?p=966
-layout: post
----
-<p><img src="/assets/beating.jpg" /><blockquote>[Police brutality] isn't irrelevant.  It is the boiled-down essence of what is relevant in politics.</blockquote><div align=right>- <a href="http://www.theartofthepossible.net/2008/05/01/excessive-strip-search-at-ohio-police-department/#comment-2178">Marja</a></div></p>

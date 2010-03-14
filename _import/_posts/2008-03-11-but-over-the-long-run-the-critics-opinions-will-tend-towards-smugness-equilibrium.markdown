@@ -1,7 +1,0 @@
---- 
-wordpress_id: 920
-title: But over the long run, the critics' opinions will tend towards smugness equilibrium
-wordpress_url: http://blog.6thdensity.net/?p=920
-layout: post
----
-<p>Because, with enough imagination, you can pretend it has <a href="http://mutualist.org/id47.html">mutualist</a> relevance:</p><a href="http://www.dieselsweeties.com/print/?date=20080307"><p align=center><img src='http://blog.6thdensity.net/wp-content/uploads/2008/03/ds200803071.png' alt='ds200803071.png' style="float:none;" /></a></p><p>In other news, the guy who draws that comic is <a href="http://www.dieselsweeties.com/blog/?p=283">releasing the entire archive for free</a> in ten volumes.  Some call it free culture; others call it good business.  Mutualists just call it common sense.</p>

@@ -1,7 +1,0 @@
---- 
-wordpress_id: 721
-title: See you in the funny papers
-wordpress_url: http://blog.6thdensity.net/?p=721
-layout: post
----
-<p>I'm through waiting for <a href="http://dilbertblog.typepad.com/">Scott Adams</a> to figure out how to blog.  Somebody needs to tell him his cute little exercises in faux-logic are much less funny without a dog wearing glasses and a guy with a "necktie erection".  I mean, <a href="http://dilbertblog.typepad.com/the_dilbert_blog/2007/05/stupidity_plus_.html">this</a> is just a pathetic waste of bandwidth:<blockquote><p>If all the experts tell you to go right, and you decide to go left, you’re probably stupid. But if you get lucky, and discover a pot of gold along the stupid path, people will call you a leader. You’ll still be stupid, but fewer people will feel the need to point that out.</p></blockquote>What a humorous observation!  He's the Jerry Seinfeld of the blogosphere! He's so predictably irreverent - but <em>topical</em>!</p><p>Whatever - it's not even funny, because he uses this gag in every blog post with much less variety than the comic form allows. I find a person who can only conceive of the world in terms of experts and dumb people (which is not an unfair generalization of his blog) probably belongs in the latter category, even if he is trying to make fun-fun. Dilbert is usually a great comic, but Adams if fucking annoying.</p>

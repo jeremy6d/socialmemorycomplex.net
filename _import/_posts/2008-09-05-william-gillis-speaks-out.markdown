@@ -1,7 +1,0 @@
---- 
-wordpress_id: 1089
-title: William Gillis speaks out
-wordpress_url: http://blog.6thdensity.net/?p=1089
-layout: post
----
-<p>I cover <a href="http://all-left.net">A.L.L.</a>y William Gillis's contribution to the RWC press conference at <a href="http://leftlibertarian.org/archives/4649">leftlibertarian.org</a>:</p><blockquote><p>William’s willingness to personally speak out, not just against the brutal, self-destructive police state, but also as an unrepentant and bold advocate for anarchism at a time when adherents to that peaceful philosophy are being singled out as terrorists, is nothing short of heroic. We all owe William a debt of gratitude, for I’ve never felt more proud of my opposition to the criminals and serial sadists of the state as I did watching him speak.</p></blockquote>

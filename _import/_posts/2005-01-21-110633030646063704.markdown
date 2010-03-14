@@ -1,9 +1,0 @@
---- 
-wordpress_id: 338
-title: "110633030646063704"
-wordpress_url: http://blog.6thdensity.net/?p=338
-layout: post
----
-<a href="http://acidlogic.com/weblogs/blogger.htm">Wil's post</a> about Social Security reform prompted a memory I had about a story Tasha told me about a while ago.  She heard a story on NPR which you can access <a href="http://www.npr.org/templates/story/story.php?storyId=4243041">here</a>.  It talks about the projections for Social Security solvency.  The Bush admin's reason for drastic and immediate S.S. reform is not entirely based on the actuarial reality of the program (i.e. more people are living longer and drawing benefits longer, and the ration of recipients to taxpayers will sharply decline).  Apparently, the S.S. Trustees and the Bush Administration are justifying S.S. reform by projecting an overall grim economic future "starting around the year 2010".
-
-The guest on this NPR story (Harold Myerson of the American Prospect magazine and the Washington Post) wonders:<blockquote>...<b>what cataclysmic event they expect is going to happen around about the year <u>2012</u></b>, that economic growth rates are going to depart from their 140 year pattern, that's not really fully explained, and I would think they owe the American public a better explanation of why they think that's going to occur.</blockquote>Wow - and on NPR of all places...

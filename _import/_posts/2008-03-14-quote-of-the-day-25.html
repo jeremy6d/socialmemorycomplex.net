@@ -1,7 +1,0 @@
---- 
-wordpress_id: 932
-title: Quote of the day
-wordpress_url: http://blog.6thdensity.net/?p=932
-layout: post
----
-<p>This one comes from <a href="http://attackthesystem.com">Keith Preston</a> at the <a href="http://groups.yahoo.com/group/attackthesystem">Attack the System list</a>:<blockquote><p>There was some Arizona politician some years ago who said that libertarians have a 24 carat gold idea (freedom) but can't give it away and they should ask themselves why.</p></blockquote>Great quote; read <a href="http://groups.yahoo.com/group/attackthesystem/message/4004">his whole post</a>.</p>
