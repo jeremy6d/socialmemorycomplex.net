@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="514.3399"
+   height="448.78571"
+   version="1.0">
+  <g
+     id="all-symbol"
+     transform="translate(-100.18723,-142.50506)">
+    <g
+       id="increase_size"
+       transform="matrix(7.4948691,0,0,8.2346003,-2449.4713,-4018.9505)">
+      <path
+         style="fill:#fe0000"
+         d="M 349,539.9667 L 351.53126,532.86218 L 397.76624,532.89837 L 400.16845,539.98163 L 349,539.9667 z M 400.21682,539.86218 L 400.21682,539.86218 z "
+         id="red-bar" />
+      <path
+         style="fill:#050503;fill-opacity:1"
+         d="M 340.1872,559.86218 L 342.96433,552.86218 L 354.83507,552.86218 L 370.61576,505.36218 L 378.38424,505.36218 L 394.16493,552.86218 L 405.90402,552.86218 L 408.8128,559.86218 L 389.35364,559.86218 L 374.60546,514.84984 L 360.31009,559.86218 L 340.1872,559.86218 z "
+         id="black-bars" />
+    </g>
+  </g>
+</svg>

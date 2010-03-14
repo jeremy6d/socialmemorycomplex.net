@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="19" UniqueID="{289CDB2B-F2C4-4A3A-B3D5-249EAB098DD1}" Name="Sheet.19" NameU="Sheet.19">
+					<XForm>
+						<PinX Unit="IN_F">4.763888888888888</PinX>
+						<PinY Unit="IN_F">5.992187500000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{99817CBC-615E-4D7A-A903-8A46C5774510}" Name="Sheet.18" NameU="Sheet.18">
+					<XForm>
+						<PinX Unit="IN_F">4.361111111111113</PinX>
+						<PinY Unit="IN_F">6.562500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{FF467C43-2C55-4FD0-9487-6E48CD5D9A0B}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">3.861111111111113</PinX>
+						<PinY Unit="IN_F">7.125000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{A258607D-0A32-448C-A44A-584EDE27C4DD}" Name="Sheet.2" NameU="Sheet.2">
+					<Text>Potentiator</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.491319444444444</PinX>
+						<PinY Unit="IN_F">10.016493055555550</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{7C1599B8-683F-4C49-9779-3EED464B7608}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Great Way</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.002170138888888</PinX>
+						<PinY Unit="IN_F">4.656250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{99213F26-577F-4200-8993-B75F14B92E61}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Experience</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.118055555555552</PinX>
+						<PinY Unit="IN_F">7.646701388888888</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{A3F64B40-D22D-474E-9BC0-AD02AC579087}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>Transformation</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.030381944444448</PinX>
+						<PinY Unit="IN_F">6.066840277777774</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{07504121-C3D7-4925-9611-A0BC89604371}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>Catalyst</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.491319444444444</PinX>
+						<PinY Unit="IN_F">7.646701388888888</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{C371B6ED-E83F-45B9-91B2-6051CFC0139E}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>Matrix</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.118055555555552</PinX>
+						<PinY Unit="IN_F">10.016493055555550</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{BB6BC706-6080-43EA-81CF-C7C7B4C42CED}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="IN_F">3.804687500000002</PinX>
+						<PinY Unit="IN_F">10.072916666666671</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{6B929B0E-C64C-4028-A6F4-F20BBB82A07D}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="IN_F">2.702076099537037</PinX>
+						<PinY Unit="IN_F">10.077618634259252</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{DA41762A-8791-488C-804A-6DA5F9650D8C}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="IN_F">4.907298900462963</PinX>
+						<PinY Unit="IN_F">10.072916666666671</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{215E19FF-4CAB-47A4-ADE5-FCB3B04B1C82}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="IN_F">3.804687500000002</PinX>
+						<PinY Unit="IN_F">7.651403356481485</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{59E636F9-EA93-4EEB-9147-EC6857950E04}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="IN_F">2.702076099537037</PinX>
+						<PinY Unit="IN_F">7.656105324074073</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{4EB27618-CCD6-44AF-9C8A-2891D9C8FE4B}" Name="Sheet.14" NameU="Sheet.14">
+					<XForm>
+						<PinX Unit="IN_F">4.907298900462963</PinX>
+						<PinY Unit="IN_F">7.651403356481485</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{DAE5324F-237C-4ABD-8223-B107B881565B}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>Spirit</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.109375000000000</PinX>
+						<PinY Unit="IN_F">2.562500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{CFE7B0A6-2C99-4AC3-8A74-72E4418D3FD4}" Name="Sheet.20" NameU="Sheet.20">
+					<Text>Body</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.703125000000000</PinX>
+						<PinY Unit="IN_F">3.176215277777778</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{37D5C3D9-255E-463D-8115-1D0E3A54EF79}" Name="Sheet.21" NameU="Sheet.21">
+					<Text>Mind</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.187500000000000</PinX>
+						<PinY Unit="IN_F">3.812500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{2C84F786-7BEB-4E0C-992B-0124F54E87C7}" Name="Sheet.15" NameU="Sheet.15">
+					<XForm>
+						<PinX Unit="IN_F">3.804687500000000</PinX>
+						<PinY Unit="IN_F">8.831597222222223</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{1D526C6B-BBCC-41B3-B453-0669E6D61BEE}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>Significator</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.861111111111113</PinX>
+						<PinY Unit="IN_F">8.888020833333339</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{DD8F209D-4AEC-4865-BE75-FF2AC905876B}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>Choice</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.861111111111113</PinX>
+						<PinY Unit="IN_F">9.424045138888893</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
