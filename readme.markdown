@@ -1,7 +1,7 @@
-h1. Social Memory Complex
+###Social Memory Complex###
 
 A blog by Jeremy Weiland about politics, spirituality, ruby, and other stuff.
 
-h2. Todo
+##Todo##
 
 * forward legacy wordpress urls to the appropriate jekyll post
