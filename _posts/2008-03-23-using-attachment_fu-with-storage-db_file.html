@@ -43,8 +43,8 @@ end</pre></blockquote></p><p>Now, your model file will look something like this 
                   :thumbnails => { :thumb => '100x100>' }
   validates_as_attachment
 end</pre></blockquote>Note the thumbnail line, which instructs attachment_fu to create a thumbnail of the image.</p><p>Your controller will look normal (except you may not want to support the edit / update functions, since that has little meaning to the asset).  However, in "show" we need to be able to not only serve an HTML page with the image, but also serve <em>the image itself</em>.  This requires us to include the mime type in environment.rb:<blockquote><pre lang="ruby">Mime::Type.register "image/jpeg", :jpg
-Mime::Type.register "image/gif",  :gif
-Mime::Type.register "image/png",  :png</pre></blockquote>and do something strange in the controller:<blockquote><pre lang="ruby">  def show
+Mime::Type.register "image/gif',  :gif
+Mime::Type.register "image/png',  :png</pre></blockquote>and do something strange in the controller:<blockquote><pre lang="ruby">  def show
     @asset = Asset.find(params[:id])
     show_thumbnail = (params[:thumb] == "true")
     respond_to do |format|
