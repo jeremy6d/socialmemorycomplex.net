@@ -3,6 +3,7 @@ require 'activesupport'
 module Helpers
   def render_nav(options, exclude = nil)
     exclude = "Home" if (exclude == "Social")
+    exclude = "Selected Posts" if exclude == "Selected"
     options.delete(exclude)
     options.collect do |name, url|
       ["<li class='nav-element' id='#{name.gsub(" ", "-")}'>",
@@ -22,6 +23,7 @@ module Helpers
   end
   
   def published_date(time)
+    return time if time.is_a?(String)
     time.strftime("Written by Jeremy Weiland on %A, %B %d, %Y for <a href=\"http://socialmemorycomplex.net\">Social Memory Complex</a>")
   end
   
