@@ -7,7 +7,7 @@ To me, development is all about communication. With clients and other developers
 
 A Growl notification informing me of test results is great, and I can even tell Growl to play a sound when the notification is ready. But that sound tells me to look for the notification, not whether the tests pass or fail. To make this conversation more fluid, it would be nice if I had not just visual but also audio feedback which told me immediately what the test results were, instead of having to constantly context switch to the test results.
 
-There have been a few attempts to do this already, but they all seem so complex. I found a simple command line sound file player called [afplay](http://developer.apple.com/mac/library/documentation/Darwin/Reference/ManPages/man1/afplay.1.html) that makes all this trivial. In your ~/.autotest file, add the following:
+There have been a [few](http://www.fozworks.com/2007/7/28/autotest-sound-effects) [attempts](http://www.metaskills.net/2008/4/6/autotest-playlist-for-red-green-feedback) to do this already, but they all seem so complex. I found a simple command line sound file player called [afplay](http://developer.apple.com/mac/library/documentation/Darwin/Reference/ManPages/man1/afplay.1.html) that makes all this trivial. In your ~/.autotest file, add the following:
 
 {% highlight sh %}
 def play(filename, volume = ".15")
