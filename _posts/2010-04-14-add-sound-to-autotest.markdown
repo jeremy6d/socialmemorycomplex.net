@@ -9,7 +9,7 @@ A Growl notification informing me of test results is great, and I can even tell 
 
 There have been a [few](http://www.fozworks.com/2007/7/28/autotest-sound-effects) [attempts](http://www.metaskills.net/2008/4/6/autotest-playlist-for-red-green-feedback) to do this already, but they all seem so complex. I found a simple command line sound file player called [afplay](http://developer.apple.com/mac/library/documentation/Darwin/Reference/ManPages/man1/afplay.1.html) that makes all this trivial. In your ~/.autotest file, add the following:
 
-{% highlight sh %}
+{% highlight ruby %}
 def play(filename, volume = ".15")
   system "afplay -v #{volume} /Users/jeremyweiland/.autotest_sounds/#{filename}.wav"
 end
