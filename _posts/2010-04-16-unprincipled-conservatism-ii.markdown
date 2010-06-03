@@ -3,11 +3,16 @@ title: Unprincipled Conservatism II
 subtitle: The 2010 Richmond Tea Party
 tags: conservatism, richmond, direct action
 ---
-Well, it's been a year since the original [Richmond Tea Party](http://richmondteaparty.com). Setting aside some encounters at [Audit the Fed](http://www.auditthefed.com/) demonstrations and what not, this was the first time in quite a while I interacted with the tea party movement that has garnered so much attention over the past year. Although I've seen a lot coverage of the tea parties in the media, I wanted to experience the movement without the mediation of reporters. They're not usually known for their nuance.
+
+Well, it's been a year since Brady and I [attended](http://socialmemorycomplex.net/2009/04/16/unprincipled-conservatism-the-richmond-tea-party/) the original [Richmond Tea Party](http://richmondteaparty.com). Setting aside some encounters at [Audit the Fed](http://www.auditthefed.com/) demonstrations and what not, this was the first time in quite a while I interacted with the tea party movement that has garnered so much attention over the past year. Although I've seen a lot coverage of the tea parties in the media, I wanted to experience the movement without the mediation of reporters. They're not usually known for their nuance.
+
+![Don't Tread On Me - unless I'm Afghani or Iraqi](/media/dont_tread_thumb.jpg)
 
 Besides, this was a movement that said a lot of things I agreed with. While genuine disagreement is perfectly understandable, a philosophy containing contradicting opinions - advocating less government spending while supporting the expanding military budget and the empire it finances - is a target of opportunity. While there seem to be few tea partiers who care their ideology might be intellectually unsound, some can provide a reasoned argument. Those people often become thought leaders; they are the ones I'm looking for.
 
-Going to any rally seeking reasonable conversation probably makes no sense, so I was prepared for some dirty looks. My sign read on one side "IS THE WAR ON TERROR BIG GOV'T? JUST ASK AN IRAQI OR AN AFGHANI!" with a link to [collateralmurder.com](http://collateralmurder.com). On the other side I fashioned a Gadsen style design reading, "DON'T TREAT ON ME… UNLESS I'M AFGHANI OR IRAQI / END THE EMPIRE!" The signs were not designed to find people who agreed with my positions on the conflicts, obviously.
+Going to any rally seeking reasonable conversation probably makes no sense, so I was prepared for some dirty looks. My sign read on one side "IS THE WAR ON TERROR BIG GOV'T? JUST ASK AN IRAQI OR AN AFGHANI!" with a link to [collateralmurder.com](http://collateralmurder.com). On the other side I fashioned a Gadsen style design reading, "DON'T TREAT ON ME / UNLESS I'M AFGHANI OR IRAQI / END THE EMPIRE!" The signs were not designed to find people who agreed with my positions on the conflicts, obviously.
+
+![Is the War on Terror Big Gov't? Just ask an Afghani or an Iraqi!](/media/biggovt_thumb.jpg)
 
 Soon enough when I got into the crowd, I had people looking at my sign. However, most people were pretty standoffish about it. They were content to ignore it, which after all is always the most effective resistance to any argument. I can't compete with disciplined minds.
 
