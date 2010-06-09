@@ -50,7 +50,7 @@ The generator will also place `require 'mongoid/railtie'` at the top of your `co
 config.generators do |g|
   g.orm :mongoid
   g.template_engine :erb # this could be :haml or whatever
-  g.test\_framework :test\_unit, :fixture => false # this could be :rpsec or whatever
+  g.test_framework :test_unit, :fixture => false # this could be :rpsec or whatever
 end
 {% endhighlight %}
 
@@ -65,7 +65,7 @@ class Thing
 end
 {% endhighlight %}
 
-This is the equivalent of Paperclip's `has_attached_file` or Attachment_fu's `has_attachment` - except that you don't do all configuration here. Instead you do it in the uploader, which you can generate by invoking `rails generate uploader image`. This will create an `uploaders/image.rb` file, which is a slight quirk because Rails doesn't know how to find this file when looking up the `ImageUploader` class. We're going to change the name of the file to `uploaders/image_uploaders.rb` so it conforms to ruby's conventions for class definition files. 
+This is the equivalent of Paperclip's `has_attached_file` or Attachment_fu's `has_attachment` - except that you don't do all the configuration for upload processing there. Instead you do it in the uploader class, which you can generate by invoking `rails generate uploader image`. This will create an `uploaders/image.rb` file, which is a slight quirk because Rails doesn't know how to find this file when looking up the `ImageUploader` class. We're going to change the name of the file to `uploaders/image_uploader.rb` so it conforms to ruby's conventions for class definition files. 
 
 I'm going to use MiniMagick to process thumbnails, so here's my fully configured uploader file:
 
@@ -94,7 +94,7 @@ end
 
 Note the `config.grid_fs_access_url = "/images"` line, which helps CarrierWave figure out what url to serve this under. The actual url it generates will look like `/images/uploads/version_filename.jpg`, which is fine for now - you can configure this to your liking later.
 
-Now we just need to support the thing form allowing the upload. Make your "thing" form partial look like this, noting the file field and mulitpart form lines in particular:
+Now we just need to update the form to allowing file uploads. Make your "thing" form partial look like this, noting the file field and mulitpart form lines in particular:
 
 {% highlight erb %}
 <%= form_for(@thing, :html => { :multipart => true }) do |f| %>
@@ -129,9 +129,9 @@ And let's amend the show view to display the image. Notice we pass the version i
 <%= link_to 'Back', things_path %>
 {% endhighlight %}
 
-We can start up the server by invoking `rails server`. Navigating to `http://localhost:3000/things/new` should give us a form where we can select an image to upload. The image should get uploaded and the "thing" save without a hitch, but when it redirects you to view the "thing" there will be a broken image waiting for you. This is because Rails has no freakin' clue how to access the file via GridFS. So we need to tell it how.
+We can start up the server by invoking `rails server`. Navigating to `http://localhost:3000/things/new` should give us a form where we can select an image to upload. The image should get uploaded and the "thing" saved without a hitch, but when it redirects you to view the "thing" there will be a broken image waiting for you. This is because Rails has no freakin' clue how to access the file via GridFS. So we need to tell it how.
 
-In order to serve the image as quickly as possible, we need a way to access GridFS without needing the entire Rails stack involved. Enter Rails Metal, which allows you to process requests directly from Rack. While Rails 2 required you to place metal processing in its own directory under app, Rails 3 bakes Rack support directly into the inheritance hierarchy of ActionController, allowing you to do something like this:
+In order to serve the image as quickly as possible, we need a way to access GridFS without involving the entire Rails slow-ass stack. Enter Rails Metal, which allows you to process requests directly from Rack. While Rails 2 required you to place metal processing in its own directory under app, Rails 3 bakes Rack support directly into the inheritance hierarchy of ActionController, allowing you to do something like this:
 
 {% highlight ruby %}
 require 'mongo'
@@ -146,7 +146,7 @@ class GridfsController < ActionController::Metal
     rescue
       self.status = :file_not_found
       self.content_type = 'text/plain'
-      self.content_type = 'File not found.'
+      self.response_body = ''
     end
   end
 end
