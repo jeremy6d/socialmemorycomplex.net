@@ -8,6 +8,9 @@ subtitle: A political economy of the soul
     %h2.post-title
       %a{:href => "#{post.url}"}
         =h post.title
+      - if post.data['subtitle'] 
+        #subtitle
+          =h post.data['subtitle'] 
     =abridge post.content, post.url
     .meta
       =published_date(post.date)
