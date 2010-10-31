@@ -1,0 +1,21 @@
+---
+title: Treeoid
+subtitle: Tree hierarchies for your Mongoid::Document objects
+tags: mongoid, ruby, rails, development
+---
+
+I'm a bit late mentioning this, but I released another super-beta gem in the hopes it might help another poor soul: [treeoid](http://rubygems.org/gems/treeoid), the missing "acts_as_tree" library for [mongoid](http://mongoid.org). It couldn't be simpler, really: it gives you a "parent" accessor and a "children" collection. On top of that, it provides a scope allowing you to list a set of treeoid objects in hierarchical order, which is perfect for front end integration.
+
+The tests are there but nominal; I'd love to see them fleshed out. I also had some ideas for making it cooler; for example, I keep an array of an object's descendants in the object, allowing me to hierarchically order objects. This opens up some novel means to simplify how I implement the parent and children accessor. Imagine this:
+
+{% highlight ruby %}
+field :ancestry, type => Array # contains ids of all ancestors including self, already exists
+
+# but instead of a parent_id accessor
+
+def parent_id
+  ancestry.at(-2) # the parent can be fetched from the ancestry list
+end
+{% endhighlight %}
+
+This also allows all descendants of a given object to be easily fetched - if the id shows up in the ancestry, return it! It's this kind of out-of-the-box thinking that has really endeared [MongoDB](http://mongodb.org) to me. I hope you can benefit from this and help me improve it. Or help with [greedy](/2010/07/25/announcing-greedy/). I'd love to get said help at [CVREG](http://cvreg.org)'s [upcoming](http://www.cvreg.org/2010/8/9/august-meeting-celebrate-whyday) [Why Day](http://whyday.org/) hackfest.
