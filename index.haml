@@ -11,7 +11,7 @@ subtitle: A political economy of the soul
       - if post.data['subtitle'] 
         #subtitle
           =h post.data['subtitle'] 
-    =abridge post.content, post.url
+    = abridge post.content, post.url, post.data['excerpt_paragraph_count']
     .meta
       =published_date(post.date)
       %br

@@ -55,10 +55,11 @@ module Helpers
     (page.description if page.respond_to?(:description)) || "A political economy of the soul"
   end
   
-  def abridge(html, permalink)
+  def abridge(html, permalink, paragraph_count)
+    paragraph_count = (paragraph_count || 3).to_i
     return html if html.size < 2000 || !html.include?("<p>")
-    paragraphs = html.split("</p>")[0..2]
-    unless paragraphs.size < 3
+    paragraphs = html.split("</p>")[0..(paragraph_count - 1)]
+    unless paragraphs.size < paragraph_count
       paragraphs << "<p><a href=\"#{permalink}\">Read more...</a></p>" 
     end
     paragraphs.join
