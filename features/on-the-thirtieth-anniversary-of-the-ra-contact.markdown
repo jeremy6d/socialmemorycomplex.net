@@ -8,7 +8,7 @@ date: January 9, 2011
 This short piece was written to celebrate the anniversary of the Ra contact by those of L/L Research. As Gary Bean writes on the [Bring4th.org forums](http://bring4th.org/forums/showthread.php?tid=1822&page=1):
 > Two months from today, January 15, 2011, will mark the 30th anniversary of what to a small demographic of people was a momentous occasion unprecedented in the chronicles of recorded history, to speak modestly of it.
 
->On January 15, 1981, those known to us as Ra contacted Don Elkins, Carla L. Rueckert, and Jim McCarty, initiating a dialogue that would stretch four years over 106 sessions and come to serve as the backbone of spiritual understanding for many a seeker’s journey, my own included.
+>On January 15, 1981, those known to us as Ra contacted Don Elkins, Carla L. Rueckert, and Jim McCarty, initiating a dialogue that would stretch four years over 106 sessions and come to serve as the backbone of spiritual understanding for many a seeker's journey, my own included.
 
 >Without their awareness, we at L/L Research are initiating a project to surprise Jim and Carla with thank you notes from appreciative readers of the Law of One material. Thus the purpose of this thread.
 

@@ -24,7 +24,7 @@ module Helpers
   
   def published_date(time)
     return time if time.is_a?(String)
-    time.strftime("Written by Jeremy Weiland on %A, %B %d, %Y for <a href=\"http://socialmemorycomplex.net\">Social Memory Complex</a>")
+    time.strftime("Written on %A, %B %d, %Y")
   end
   
   def header(page)
