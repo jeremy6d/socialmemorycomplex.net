@@ -28,10 +28,9 @@ module Helpers
   end
   
   def header(page)
-    permalink = page.respond_to?(:url) ? page.url : ''
     title = page.title
     subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page.subtitle}</div>"  if page.respond_to? :subtitle
-    "<a href='#{permalink}'>#{title}</a>#{subtitle}"
+    "<a href='#{href_for(page)}'>#{title}</a>#{subtitle}"
   end
   
   def disqus_two
@@ -62,6 +61,7 @@ module Helpers
     unless paragraphs.size < paragraph_count
       paragraphs << "<p><a href=\"#{permalink}\">Read more...</a></p>" 
     end
+
     paragraphs.join
   end
   
@@ -78,5 +78,29 @@ module Helpers
       link_to "Older &rarr;", (num == 1) ? "/" : "/page#{num}"
     end].compact.collect { |markup| "<li>#{markup}</li>" }.join(" ")
     "<ul>#{links}</ul>"
+  end
+  
+  def offsite_href(post)
+    wp_url = if post.respond_to?(:wordpress_url)
+      post.wordpress_url
+    elsif post.respond_to?(:data)
+      post.data["wordpress_url"]
+    else
+      ""
+    end
+    
+    return wp_url unless wp_url =~ /^http:\/\/blog\.6thdensity\.net/
+    nil
+  end
+  
+  def href_for(post)
+    offsite_href(post) || post.url
+  rescue
+    "/"
+  end
+  
+  def offsite_link(post)
+    return nil unless href = offsite_href(post)
+    "<a class=\"outside-link\" href=\"#{href}\">Read this article</a>"
   end
 end

@@ -6,17 +6,21 @@ subtitle: A political economy of the soul
 -for post in paginator.posts
   .post{:id => "post-#{post.slug}"}
     %h2.post-title
-      %a{:href => "#{post.url}"}
+      %a{:href => post.url}
         =h post.title
       - if post.data['subtitle'] 
         #subtitle
           =h post.data['subtitle'] 
     = abridge post.content, post.url, post.data['excerpt_paragraph_count']
     .meta
+      - if link = offsite_link(post)
+        = link
+        %br
       =published_date(post.date)
       %br
-      ="Tags: #{post.tags}" unless post.tags.empty?
-      %br
+      - unless post.tags.empty?
+        ="Tags: #{post.tags}" 
+        %br
       =link_to "Comments", "#{post.url}#disqus_thread"
 .pagination
   = pagination_links paginator
