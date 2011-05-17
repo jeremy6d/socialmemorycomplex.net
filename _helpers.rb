@@ -70,7 +70,7 @@ module Helpers
       link_to "&larr; Newer", (num == 1) ? "/" : "/page#{num}"
     end,
     
-    unless pages.page < 3
+    unless pages.page < 2
       link_to "Home", "/"
     end,
     
