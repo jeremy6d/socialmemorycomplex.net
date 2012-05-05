@@ -5,4 +5,4 @@ excerpt: Brainpolice puts together a great overview of Stirner&#39;s sweeping ma
 wordpress_url: http://delicious.com/url/d3c9d0d125e8f595ff091eec42ec3282#jeremy6d
 layout: post
 ---
-Brainpolice puts together a great overview of Stirner&#039;s sweeping magnum opus.
+Brainpolice puts together a great overview of Stirner's sweeping magnum opus.

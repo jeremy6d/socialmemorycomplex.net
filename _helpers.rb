@@ -56,8 +56,9 @@ module Helpers
   
   def abridge(html, permalink, paragraph_count)
     paragraph_count = (paragraph_count || 3).to_i
-    return html if html.size < 2000 || !html.include?("<p>")
-    paragraphs = html.split("</p>")[0..(paragraph_count - 1)]
+    text = html.gsub(/<h3>.*<\/h3>/, "")
+    return text if text.size < 2000 || !text.include?("<p>")
+    paragraphs = text.split("</p>")[0..(paragraph_count - 1)]
     unless paragraphs.size < paragraph_count
       paragraphs << "<p><a href=\"#{permalink}\">Read more...</a></p>" 
     end
@@ -66,6 +67,7 @@ module Helpers
   end
   
   def pagination_links(pages)
+    puts "paginator links"
     links = [if num = pages.previous_page
       link_to "&larr; Newer", (num == 1) ? "/" : "/page#{num}"
     end,
@@ -86,7 +88,7 @@ module Helpers
     elsif post.respond_to?(:data)
       post.data["wordpress_url"]
     else
-      ""
+      nil
     end
     
     return wp_url unless wp_url =~ /^http:\/\/blog\.6thdensity\.net/
@@ -102,5 +104,11 @@ module Helpers
   def offsite_link(post)
     return nil unless href = offsite_href(post)
     "<a class=\"outside-link\" href=\"#{href}\">Read this article</a>"
+  end
+
+  def tags_for page
+    if tags = page['tags']
+      tags.join(", ")
+    end
   end
 end

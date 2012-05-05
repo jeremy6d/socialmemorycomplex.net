@@ -1,13 +1,13 @@
 destination: ./_site
-auto:        false
-lsi:         false
+auto: false
+lsi: false
 server_port: 4000
-pygments:    true
-markdown:    rdiscount
-permalink:   pretty
-site_title:  Social Memory Complex
-sass:        true
-haml:        true
-paginate:    15
-post_defaults:
-  layout: post
+pygments: true
+markdown: rdiscount
+permalink: pretty
+site_title: Social Memory Complex
+sass: true
+haml: true
+paginate: 15
+# haml_folder: **/*.haml
+# sass_folder: **/*.sass

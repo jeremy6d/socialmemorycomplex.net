@@ -3,24 +3,25 @@ layout: full_nav
 title: Social Memory Complex
 subtitle: A political economy of the soul
 ---
--for post in paginator.posts
-  .post{:id => "post-#{post.slug}"}
-    %h2.post-title
-      %a{:href => post.url}
-        =h post.title
-      - if post.data['subtitle'] 
-        #subtitle
-          =h post.data['subtitle'] 
-    = abridge post.content, post.url, post.data['excerpt_paragraph_count']
-    .meta
-      - if link = offsite_link(post)
-        = link
+- if paginator
+  -for post in paginator['posts']
+    .post{:id => "post-#{post.slug}"}
+      %h2.post-title
+        %a{:href => post.url}
+          =post.data['title']
+        - if post.data['subtitle'] 
+          #subtitle
+            =post.data['subtitle'] 
+      = abridge post.content, post.url, post.data['excerpt_paragraph_count']
+      .meta
+        - if link = offsite_link(post)
+          = link
+          %br
+        =published_date(post.date)
         %br
-      =published_date(post.date)
-      %br
-      - unless post.tags.empty?
-        ="Tags: #{post.tags}" 
-        %br
-      =link_to "Comments", "#{post.url}#disqus_thread"
-.pagination
-  = pagination_links paginator
+        - unless post.tags.empty?
+          ="Tags: #{post.tags}" 
+          %br
+        =link_to "Comments", "#{post.url}#disqus_thread"
+  .pagination
+    = pagination_links paginator

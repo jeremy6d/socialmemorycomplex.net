@@ -35,6 +35,6 @@ For all these reasons, I believe one can benefit richly from gun culture, not ju
 
 The Left can win back the people, but it must provide them with a real alternative to institutions of coercion and privilege.  With the consolidation of power instigated by the neoconservative warmongers and faux-liberal social managers, it remains more important than ever for the Left to assert itself as impossible to marginalize, its dissent quelled only at the greatest expense to our rulers.  Supporting gun ownership establishes the Left as uniquely and radically American, where all sides of the political spectrum have access to the primordial guarantee of self-defense and security.
 
-***
+- - -
 
 \* _One genuine area of discomfort for libertarians like me with the Left is the legacy of progressivism, which of late has simply meant a leftism more radical than the mainstream but less radical than anybody who they feel is unelectable.  It would understate the record significantly to describe the historical Progressive Movement as racist, anti-democratic, corporatist, elitist (in a way totally different than Rush Limbaugh uses the word), demonstrably dishonest, and unthinkingly coercive.  Progressives such as the Fabian School sought to reinforce class distinctions through social engineering and introduce them in places where they were absent or less pronounced.  The Left needs to have a serious discussion about the ideology and whether the error is just in its science and maturity but also it intrusive, coercive tactics._

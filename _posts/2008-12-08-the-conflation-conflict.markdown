@@ -5,4 +5,4 @@ excerpt: Carson is back, and he effectively ends the debate over big business th
 wordpress_url: http://delicious.com/url/0ccd206f6e6eb319e719a4d6781b8d7c#jeremy6d
 layout: post
 ---
-Carson is back, and he effectively ends the debate over big business that blossomed from Cato Unbound&#039;s series on the subject
+Carson is back, and he effectively ends the debate over big business that blossomed from Cato Unbound's series on the subject

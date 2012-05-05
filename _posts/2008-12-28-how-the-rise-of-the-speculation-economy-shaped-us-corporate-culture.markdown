@@ -5,4 +5,4 @@ excerpt: "&quot;During the rise of the &quot;speculation economy&quot; in the ea
 wordpress_url: http://delicious.com/url/00f96daa7754e4a76a516cf06ec8dc37#jeremy6d
 layout: post
 ---
-&quot;During the rise of the &quot;speculation economy&quot; in the early years of the 20th century, business’ focus on production was replaced with business management’s focus on stock prices.&quot;
+&quot;During the rise of the &quot;speculation economy&quot; in the early years of the 20th century, business' focus on production was replaced with business management's focus on stock prices.&quot;

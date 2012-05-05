@@ -1,0 +1,10 @@
+---
+title: Back again
+tags: personal, ruby, jekyll
+---
+
+So, it's been almost a year since I've updated this blog. There's a good reason for that. I love [Jekyll](http://jekyllrb.com) but I love [HAML](http://haml-lang.com) and [SASS](http://sass-lang.com) so much for markup that [I hacked Jekyll quite a bit](http://socialmemorycomplex.net/2010/03/14/full-disclosure/) and then never touched it again. When my computer went up in smoke (literally) last summer, and I had to reinstall everything, the old, fragile environment it ran on was gone, and I couldn't reestablish it. So I started playing with using Jekyll's plugin architecture. Finally got it working now.
+
+It is kind of crazy to think about everything that's happened since then. I wrote a content management system that runs a major newspaper site and handles millions of hits a month. I went to Germany again and had a great time with Tasha and my host family. I got involved in [Occupy Richmond](http://occupyrva.org) which was a life-changing experience. My essay [Let the Free Market Eat the Rich!](http://socialmemorycomplex.net/features/let-the-free-market-eat-the-rich) was published in the new [Markets Not Capitalism](http://bookstore.autonomedia.org/index.php?main_page=pubs_product_book_info&products_id=672) compendium. And so on.
+
+I have lots of things I want to write about -- most pressingly to flesh out my ideas on political correctness culture and how it distracts the Left from building a genuinely egalitarian society. So stay tuned!

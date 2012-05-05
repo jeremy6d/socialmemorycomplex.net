@@ -5,4 +5,4 @@ excerpt: "Marcel Votlucka makes a crucial point about radical activists&#39; att
 wordpress_url: http://delicious.com/url/515e2acbba209de5163a01147b6d8503#jeremy6d
 layout: post
 ---
-Marcel Votlucka makes a crucial point about radical activists&#039; attitudes in a new article at Black Oak Media: &quot;...the very concept of &#039;sheeple&#039; is perilous because it evokes the kind of arrogance, contempt and deep-rooted fear the State has for free, motivated and empowered people. It brings radicals dangerously close to thinking along the same lines as hard-core Statists even as we attempt to offer an alternative way.&quot;
+Marcel Votlucka makes a crucial point about radical activists' attitudes in a new article at Black Oak Media: &quot;...the very concept of 'sheeple' is perilous because it evokes the kind of arrogance, contempt and deep-rooted fear the State has for free, motivated and empowered people. It brings radicals dangerously close to thinking along the same lines as hard-core Statists even as we attempt to offer an alternative way.&quot;

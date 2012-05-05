@@ -2,7 +2,7 @@
 %html
   %head
     %title 
-      =[page.title, "Social Memory Complex"].uniq.join(" | ")
+      =[page['title'], "Social Memory Complex"].uniq.join(" | ")
     %meta{:name => 'description', :content => get_description(page) }
     %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
     %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
@@ -10,19 +10,18 @@
     %meta{ :name => "google-site-verification", :content => "yCP6NyO-2cMp1yzxWs6cN1jSSKOs5l87-R8qWbKOcUM" }
   %body
     .page
-      %h1
-        =header(page)
-      =content
+      %h1= header(page)
+      = content
       #footer
         - if page.respond_to?(:bottom_nav)
           %ul#navigation
-            - if target = page.previous
+            - if target = page['previous']
               %li
                 =previous_link(target)
             %li
               %a{:href=>"/"}
                 Home
-            - if target = page.next
+            - if target = page['next']
               %li
                 =next_link(target)
         %br{:clear=>"all"}
@@ -34,10 +33,4 @@
           &copy;2004-2010 Jeremy Weiland. All pages licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License.
         =disqus_two
 :javascript
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-:javascript
-  try {
-    var pageTracker = _gat._getTracker("UA-3303392-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); try { var pageTracker = _gat._getTracker("UA-3303392-1"); pageTracker._trackPageview();  } catch(err) {}

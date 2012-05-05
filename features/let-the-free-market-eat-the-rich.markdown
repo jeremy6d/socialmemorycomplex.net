@@ -72,6 +72,4 @@ A truly free market without subsidized security, regulation, and arbitration imp
 
 This theory is not an ironclad prescription of how anarchy must emerge. It is merely a demonstration of  how individualist and collectivist visions can both be served without compromising either's interests. Markets and egalitarian distribution of property and wealth are not necessarily mutually exclusive. Perhaps authentic libertarian means of genuinely free markets, taken to their logical conclusion, can effect far more egalitarian and redistributionist ends than we ever dreamed - not as a function of any central State, but rather as a result of its absence.
 
-<p class="note">
-This essay was originally written as a <a href="/2007/05/29/let-the-free-market-eat-the-rich/">blog post</a>. It was revised into present form for inclusion in the forthcoming <a>Markets, Not Capitalism: Individualist Anarchism Against Bosses, Inequality, Corporate Power, and Structural Poverty</a>.
-</p>
+__Note: This essay was originally written as a [blog post](/2007/05/29/let-the-free-market-eat-the-rich/). It was revised into present form for inclusion in the forthcoming [Markets, Not Capitalism: Individualist Anarchism Against Bosses, Inequality, Corporate Power, and Structural Poverty](http://bookstore.autonomedia.org/index.php?main_page=pubs_product_book_info&products_id=672).__
