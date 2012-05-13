@@ -6,6 +6,10 @@ module Jekyll
   end
   
   class Page
+    def to_s
+      data['title']
+    end
+
     def destination(dest)
       # The url needs to be unescaped in order to preserve the correct
       # filename.
@@ -16,6 +20,10 @@ module Jekyll
   end
   
   class Post
+    def to_s
+      data['title']
+    end
+
     def destination(dest)
       # The url needs to be unescaped in order to preserve the correct filename
       path = File.join(dest, CGI.unescape(self.url))

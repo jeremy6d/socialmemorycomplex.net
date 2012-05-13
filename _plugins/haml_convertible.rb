@@ -22,12 +22,13 @@ module Jekyll
       payload["pygments_prefix"] = converter.pygments_prefix
       payload["pygments_suffix"] = converter.pygments_suffix
 
-      if self.respond_to?(:name) && self.name.split(".").last == "haml"
+      if self.is_haml?
         self.content = Haml::Engine.new(self.content).render(self, payload)
       end
-       
+      
       begin
-        self.content = if self.is_haml? #self.is_a?(Page) && (self.name.split(".").last == "haml")
+        self.content = if self.is_haml? || hamlish?(self) #self.is_a?(Page) && (self.name.split(".").last == "haml")
+                # debugger if self.is_a?(Page) && (self.name.split(".").last == "xml")  
           Haml::Engine.new(self.content).render(self, payload)
         else
           converter.convert(self.content) 
@@ -44,13 +45,15 @@ module Jekyll
       # recursively render layouts
       layout = layouts[self.data["layout"]]
       used = Set.new([layout])
-layout = nil if self.respond_to?(:name) && self.name.split(".").last == "sass"
+
+layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split(".").last)
+
       while layout
         begin
           payload = payload.deep_merge({"content" => self.output, "page" => layout.data})
           self.output = Haml::Engine.new(layout.content).render(self, payload)
         rescue => e
-          puts "#{e.inspect} in #{self.name}"
+          puts "#{e.inspect} in #{self}"
         end
 
         if layout = layouts[layout.data["layout"]]
@@ -91,7 +94,10 @@ layout = nil if self.respond_to?(:name) && self.name.split(".").last == "sass"
 
     def header(page)
       title = page['title']
-      subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page.subtitle}</div>"  if page.respond_to? :subtitle
+      subtitle = ""
+      unless page['subtitle'].nil? || page['subtitle'] == ""
+        subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page['subtitle']}</div>"
+      end
       "<a href='#{href_for(page)}'>#{title}</a>#{subtitle}"
     end
 
@@ -149,7 +155,7 @@ layout = nil if self.respond_to?(:name) && self.name.split(".").last == "sass"
       elsif post.respond_to?(:data)
         post.data["wordpress_url"]
       else
-        nil
+        post['wordpress_url']
       end
 
       return wp_url unless wp_url =~ /^http:\/\/blog\.6thdensity\.net/
@@ -157,9 +163,13 @@ layout = nil if self.respond_to?(:name) && self.name.split(".").last == "sass"
     end
 
     def href_for(post)
-      offsite_href(post) || post.url
+      offsite_href(post) || post['url']
     rescue
       "/"
+    end
+
+    def xml_escape(input)
+      CGI.escapeHTML(input)
     end
 
     def offsite_link(post)
@@ -169,6 +179,11 @@ layout = nil if self.respond_to?(:name) && self.name.split(".").last == "sass"
     
     def link_to text, href
       "<a href='#{href}'>#{text}</a>"
+    end
+
+    def hamlish? obj
+      return false unless obj.respond_to?(:name)
+      %w(haml xml).include?(obj.name.split(".").last)
     end
   end
 end
