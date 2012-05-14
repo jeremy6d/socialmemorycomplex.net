@@ -17,6 +17,5 @@ layout: nil
       %link{:href => "http://socialmemorycomplex.net/#{post.url}"}
       %updated= post.date.xmlschema
       %id== http://socialmemorycomplex.net#{post.id}
-      %dc:creator Jeremy Weiland
       %content{:type => "html"}
         = xml_escape post.content
