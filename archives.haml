@@ -3,3 +3,12 @@ layout: full_nav
 title: Archives
 subtitle: Social Memory Complex
 ---
+- for year in site['years']
+  - year_string = year.first.first.date.strftime("%Y")
+  - for month in year
+    - month_string = month.first.date.strftime("%B")
+    %h3== #{month_string} #{year_string}
+    %ul{ :id => ["ul", month_string, year_string].join("-") }
+    - for post in month
+      %li{ :class => [month_string, year_string].join(" "), :id => ["li", month_string, year_string].join("-") }
+        = link_to post.data['title'], post.url

@@ -28,13 +28,13 @@ module Jekyll
       
       begin
         self.content = if self.is_haml? || hamlish?(self) #self.is_a?(Page) && (self.name.split(".").last == "haml")
-                # debugger if self.is_a?(Page) && (self.name.split(".").last == "xml")  
           Haml::Engine.new(self.content).render(self, payload)
         else
           converter.convert(self.content) 
         end
       rescue => e     
-        puts "Exception: #{e.inspect}\n#{self.data.inspect}\n"
+        puts "Exception: #{e.inspect}\n#{self.data.inspect}content\n"
+        debugger
       end
 
       self.transform unless self.respond_to?(:name) && (self.name.split(".").last == "sass")
@@ -47,13 +47,14 @@ module Jekyll
       used = Set.new([layout])
 
 layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split(".").last)
-
+# - debugger if self.respond_to?(:name) && (self.name == "archives.haml")
       while layout
         begin
           payload = payload.deep_merge({"content" => self.output, "page" => layout.data})
           self.output = Haml::Engine.new(layout.content).render(self, payload)
         rescue => e
           puts "#{e.inspect} in #{self}"
+          debugger
         end
 
         if layout = layouts[layout.data["layout"]]

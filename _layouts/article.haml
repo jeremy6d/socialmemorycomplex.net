@@ -5,6 +5,6 @@ layout: no_nav
 .meta
   == written by #{page['author'] || "Jeremy Weiland"} on #{published_date(page['date'])}
   - unless page['tags'].empty?
-    == with these tags: "#{page['tags']}"
+    == with these tags: #{page['tags']}
 .comments
   <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/socialmemorycomplex/embed.js"></script><noscript><a href="http://disqus.com/forums/socialmemorycomplex/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
