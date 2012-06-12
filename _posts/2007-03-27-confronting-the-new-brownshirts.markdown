@@ -15,7 +15,7 @@ Speaking of cops: In the past, D.C. police have usually tried to separate opposi
 
 ...
 
-In my opinion, <span style="font-weight: bold">what we saw in D.C. was an attempt to put together a genuinely fascist movement, one that could be used not only on March 17 but in the future to prevent anti-war and other progressive mobilizations</span>. Some of the comments posted on the GOE Web site are conservative but not crazy, while others are open calls for shedding blood – ours.
+In my opinion, <span style="font-weight: bold">what we saw in D.C. was an attempt to put together a genuinely fascist movement, one that could be used not only on March 17 but in the future to prevent anti-war and other progressive mobilizations</span>. Some of the comments posted on the GOE Web site are conservative but not crazy, while others are open calls for shedding blood -- ours.
 
 So, on the one hand we shouldn't think we are up against a broad wave of resentment by masses of vets. But, on the other hand, we shouldn't kid ourselves into thinking this couldn't develop into something more serious than what we saw on March 17. In D.C., we had numbers, if not much security. At a much smaller protest back home, 20 or 30 of these yahoos could be problem.</blockquote>
 Wilayto is describing a new dimension in the activist problem: the quasi-militarist counterprotestor whose target is not the system but the individual resister. The intimidation and thuggishness in which they deal - augmented by the passive collusion with law enforcement to promote violence and entrapment - cannot be ignored.  In my opinion, this goes well beyond activist politics: what's at stake here is the physical security of a dissenting minority from a threatening majority, the very stuff of free speech.

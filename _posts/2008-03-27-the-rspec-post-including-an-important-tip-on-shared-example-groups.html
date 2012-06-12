@@ -78,7 +78,7 @@ end</pre></blockquote></p><p>Once I've worked out a plan about how this code wil
   it "should render the edit template" do
     response.should render_template('edit')
   end
-end</pre></blockquote>Then just reference that each role should behave like that example group:<blockquote><pre lang="ruby">describe "by an administrator" do
+end</pre></blockquote><p>Then just reference that each role should behave like that example group:<blockquote><pre lang="ruby">describe "by an administrator" do
   before(:each) do
     login_as(:admin)
       @try_to_get_an_edit_form

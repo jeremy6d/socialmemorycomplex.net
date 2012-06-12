@@ -3,6 +3,8 @@ require 'ruby-debug'
 require 'haml'
 require 'active_support'
 
+ARCHIVES_EXCERPT_CHAR_LIMIT = 150
+
 # Convertible provides methods for converting a pagelike item
 # from a certain type of markup into actual content
 #
@@ -53,8 +55,9 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
           payload = payload.deep_merge({"content" => self.output, "page" => layout.data})
           self.output = Haml::Engine.new(layout.content).render(self, payload)
         rescue => e
-          puts "#{e.inspect} in #{self}"
+
           debugger
+          puts "#{e.inspect} in #{self}"
         end
 
         if layout = layouts[layout.data["layout"]]
@@ -79,12 +82,12 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
     end
 
     def previous_link(post)
-      label = ["&#8592;", h(post.title)].join(" ")
+      label = ["&#8592;", title_for(post)].join(" ")
       link_to label, post.url
     end
 
     def next_link(post)
-      label = [h(post.title), "&#8594;"].join(" ")
+      label = [title_for(post), "&#8594;"].join(" ")
       link_to label, post.url
     end
 
@@ -94,7 +97,7 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
     end
 
     def header(page)
-      title = page['title']
+      title = title_for page
       subtitle = ""
       unless page['subtitle'].nil? || page['subtitle'] == ""
         subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page['subtitle']}</div>"
@@ -185,6 +188,40 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
     def hamlish? obj
       return false unless obj.respond_to?(:name)
       %w(haml xml).include?(obj.name.split(".").last)
+    end
+
+    def title_for obj
+      title = case obj.class.to_s
+      when "Jekyll::Post"
+        obj.title
+      else
+        obj['title']
+      end
+
+      if title =~ /\d{18}/
+        obj['date'].strftime("%A, %B %d, %Y")
+      else
+        title
+      end
+    end
+
+    def title_or_excerpt post
+      if post.data['title'] =~ /\d{18}/
+        text = post.content.gsub(/<\/?[^>]*>/, "").gsub("\n", "")
+        if text.size > ARCHIVES_EXCERPT_CHAR_LIMIT
+          text[0,ARCHIVES_EXCERPT_CHAR_LIMIT] + "..."
+        elsif blank?(text)
+          title_for(post)
+        else
+          text[0,ARCHIVES_EXCERPT_CHAR_LIMIT]
+        end
+      else
+        post.data['title']
+      end
+    end
+
+    def blank?(string)
+      string.gsub(/\s*/, "").empty?
     end
   end
 end

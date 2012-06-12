@@ -1,1 +1,0 @@
-/home/jeremy6d/public_html/wordpress/wp-content/plugins/wp-cache/wp-cache-phase1.php

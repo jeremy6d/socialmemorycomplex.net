@@ -12,5 +12,5 @@ How, then, do we reconcile these goals with the case of Mark Foley, a Congressma
 It makes one wonder: whom can we trust?</blockquote>
 <a href="http://c4ss.org/content/15">Read more</a>.
 
-UPDATE: <a href="http://afterallblog.blogspot.com/">Matt Jenny</a> hat <a href="http://derfreiemarkt.ch/?p=87">die Artikel ins Deutsche uebersetzt</a> und bei seiner neuer Seite, <a href="http://derfreiemarkt.ch">Der freie Markt</a>, veroeffentlicht.   		Hier gibt es auch eine kleine Diskussion über meinen Artikel: <a target="_body" href="http://www.yigg.de/10837">http://www.yigg.de/10837</a> (the German language "Digg")
+UPDATE: <a href="http://afterallblog.blogspot.com/">Matt Jenny</a> hat <a href="http://derfreiemarkt.ch/?p=87">die Artikel ins Deutsche uebersetzt</a> und bei seiner neuer Seite, <a href="http://derfreiemarkt.ch">Der freie Markt</a>, veroeffentlicht.  		Hier gibt es auch eine kleine Diskussion über meinen Artikel: <a target="_body" href="http://www.yigg.de/10837">http://www.yigg.de/10837</a> (the German language "Digg")
 <blockquote />

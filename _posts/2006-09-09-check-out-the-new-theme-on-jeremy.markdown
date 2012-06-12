@@ -10,5 +10,5 @@ UPDATE:
 <ul>
 	<li>I've doubled checked things in Safari, any unintended problems (heh) should be fixed</li>
 	<li>I'm currently working on getting feeds, archives, and categories fixed</li>
-	<li>I agree: the white on green ain't working.  I'll probably work through a few iterations of the layout</li>
+	<li>I agree: the white on green ain't working. I'll probably work through a few iterations of the layout</li>
 </ul>

@@ -11,4 +11,4 @@ subtitle: Social Memory Complex
     %ul{ :id => ["ul", month_string, year_string].join("-") }
     - for post in month
       %li{ :class => [month_string, year_string].join(" "), :id => ["li", month_string, year_string].join("-") }
-        = link_to post.data['title'], post.url
+        = link_to title_or_excerpt(post), post.url
