@@ -16,21 +16,16 @@
         - if page.fetch("bottom_nav", false)
           %ul#navigation
             - if target = page['previous']
-              %li
-                =previous_link(target)
+              %li= previous_link(target)
             %li
-              %a{:href=>"/"}
-                Home
+              %a{:href=>"/"} Home
             - if target = page['next']
-              %li
-                =next_link(target)
-        %br{:clear=>"all"}
-        %a{:rel=>"license", :href=>"http://creativecommons.org/licenses/by-nc-sa/3.0/"}
-          %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png"}
-        %span#text{"xmlns:dc"=>"http://purl.org/dc/elements/1.1/", :href=>"http://purl.org/dc/dcmitype/Text", :property=>"dc:title", :rel=>"dc:type"}
-          %a{:href=>"/"}
-            Social Memory Complex (http://socialmemorycomplex.net)
-          &copy;2004-2010 Jeremy Weiland. All pages licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License.
+              %li= next_link(target)
+        #license-area
+          %a{:rel=>"license", :href=>"http://creativecommons.org/licenses/by-nc-sa/3.0/"}
+            %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"}
+          %p This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+          %p#copyright-area== Social Memory Complex (#{link_to 'http://socialmemorycomplex.net', '/'}) &copy; 2004 - #{Time.now.year} Jeremy Weiland
         =disqus_two
 :javascript
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); try { var pageTracker = _gat._getTracker("UA-3303392-1"); pageTracker._trackPageview();  } catch(err) {}

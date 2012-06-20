@@ -100,7 +100,7 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
       title = title_for page
       subtitle = ""
       unless page['subtitle'].nil? || page['subtitle'] == ""
-        subtitle = "<span id='colon'>:</span> <div id='subtitle'>#{page['subtitle']}</div>"
+        subtitle = "<span id='colon'>:</span> <span id='subtitle'>#{page['subtitle']}</span>"
       end
       "<a href='#{href_for(page)}'>#{title}</a>#{subtitle}"
     end
