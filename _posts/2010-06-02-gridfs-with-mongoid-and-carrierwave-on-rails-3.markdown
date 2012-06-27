@@ -15,15 +15,13 @@ I'll assume you have the right version of Rails 3 installed - it's changing too 
 
 I've discovered through trial and error that your Bundler config for all the gems mentioned here should track their respective master git branches, since a lot of the Rails 3 compatibility issues are still being worked out. I also track Rails edge because, at this point, why wouldn't you? So, get your Gemfile looking like this:
 
-{% highlight ruby %}
-source :rubygems
-gem 'bson_ext'
+    source :rubygems
+    gem 'bson_ext'
 
-gem 'rails', :git => 'http://github.com/rails/rails.git', :branch => 'master'
-gem 'mongoid', :git => 'git://github.com/durran/mongoid.git'
-gem 'carrierwave', :git => "git://github.com/jnicklas/carrierwave.git"
-gem 'mini_magick', :git => 'git://github.com/probablycorey/mini_magick.git'
-{% endhighlight %}
+    gem 'rails', :git => 'http://github.com/rails/rails.git', :branch => 'master'
+    gem 'mongoid', :git => 'git://github.com/durran/mongoid.git'
+    gem 'carrierwave', :git => "git://github.com/jnicklas/carrierwave.git"
+    gem 'mini_magick', :git => 'git://github.com/probablycorey/mini_magick.git'
 
 I included [MiniMagick](http://github.com/probablycorey/mini_magick), but you can choose your own image processing library - just remember to change lines referencing MiniMagick in future code examples. 
 
@@ -31,137 +29,119 @@ Now let's install your gem bundle. I recommend calling `bundle install vendor` t
 
 Next step is to run `rails generate mongoid:config` which generates a `config/mongoid.yml` file. You'll need to fill in the details, but I recommend something a bit like this just to get started:
 
-{% highlight yaml %}
-defaults: &defaults
-  host: localhost
+    defaults: &defaults
+      host: localhost
 
-development:
-  <<: *defaults
-  database: appname_development
+    development:
+      <<: *defaults
+      database: appname_development
 
-test:
-  <<: *defaults
-  database: appname_test
-{% endhighlight %}
+    test:
+      <<: *defaults
+      database: appname_test
 
 The generator will also place `require 'mongoid/railtie'` at the top of your `config/application.rb` file. I recommend setting up your generators with Mongoid by adding this line in the config block:
 
-{% highlight ruby %}
-config.generators do |g|
-  g.orm :mongoid
-  g.template_engine :erb # this could be :haml or whatever
-  g.test_framework :test_unit, :fixture => false # this could be :rpsec or whatever
-end
-{% endhighlight %}
+    config.generators do |g|
+      g.orm :mongoid
+      g.template_engine :erb # this could be :haml or whatever
+      g.test_framework :test_unit, :fixture => false # this could be :rpsec or whatever
+    end
 
 Those generator settings will allow the resource generator to give you exactly the models, views, and controllers you want by invoking `rails generate scaffold thing`. Now let's go into `app/models/thing.rb` and add the following:
   
-{% highlight ruby %}
-require 'carrierwave/orm/mongoid'
+    require 'carrierwave/orm/mongoid'
 
-class Thing
-  include Mongoid::Document
-  mount_uploader :image, ImageUploader
-end
-{% endhighlight %}
+    class Thing
+      include Mongoid::Document
+      mount_uploader :image, ImageUploader
+    end
 
 This is the equivalent of Paperclip's `has_attached_file` or Attachment_fu's `has_attachment` - except that you don't do all the configuration for upload processing there. Instead you do it in the uploader class, which you can generate by invoking `rails generate uploader image`. This will create an `uploaders/image.rb` file, which is a slight quirk because Rails doesn't know how to find this file when looking up the `ImageUploader` class. We're going to change the name of the file to `uploaders/image_uploader.rb` so it conforms to ruby's conventions for class definition files. 
 
 I'm going to use MiniMagick to process thumbnails, so here's my fully configured uploader file:
 
-{% highlight ruby %}
-require 'carrierwave/processing/mini_magick'
+    require 'carrierwave/processing/mini_magick'
 
-class ImageUploader < CarrierWave::Uploader::Base
-  include CarrierWave::MiniMagick
-  
-  version :thumb do
-    process :resize_to_fill => [80,80]
-  end
-end
-{% endhighlight %}
+    class ImageUploader < CarrierWave::Uploader::Base
+      include CarrierWave::MiniMagick
+      
+      version :thumb do
+        process :resize_to_fill => [80,80]
+      end
+    end
 
 There's some CarrierWave settings we should set up globally, such as all the MongoDB and GridFS stuff. An initializer is the best place for that junk, so stick this in a new file called `config/initializers/carrierwave.rb`:
 
-{% highlight ruby %}
-CarrierWave.configure do |config|
-  config.grid_fs_database = Mongoid.database.name
-  config.grid_fs_host = Mongoid.config.master.connection.host
-  config.storage = :grid_fs
-  config.grid_fs_access_url = "/images"
-end
-{% endhighlight %}
+    CarrierWave.configure do |config|
+      config.grid_fs_database = Mongoid.database.name
+      config.grid_fs_host = Mongoid.config.master.connection.host
+      config.storage = :grid_fs
+      config.grid_fs_access_url = "/images"
+    end
 
 Note the `config.grid_fs_access_url = "/images"` line, which helps CarrierWave figure out what url to serve this under. The actual url it generates will look like `/images/uploads/version_filename.jpg`, which is fine for now - you can configure this to your liking later.
 
 Now we just need to update the form to allowing file uploads. Make your "thing" form partial look like this, noting the file field and mulitpart form lines in particular:
 
-{% highlight erb %}
-<%= form_for(@thing, :html => { :multipart => true }) do |f| %>
-  <% if @thing.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@thing.errors.count, "error") %> prohibited this thing from being saved:</h2>
+    <%= form_for(@thing, :html => { :multipart => true }) do |f| %>
+      <% if @thing.errors.any? %>
+        <div id="error_explanation">
+          <h2><%= pluralize(@thing.errors.count, "error") %> prohibited this thing from being saved:</h2>
 
-      <ul>
-      <% @thing.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
+          <ul>
+          <% @thing.errors.full_messages.each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+          </ul>
+        </div>
       <% end %>
-      </ul>
-    </div>
-  <% end %>
-  
-  <%= f.label :image %>
-  <%= f.file_field :image %>
+      
+      <%= f.label :image %>
+      <%= f.file_field :image %>
 
-  <div class="actions">
-    <%= f.submit %>
-  </div>
-<% end %>
-{% endhighlight %}
+      <div class="actions">
+        <%= f.submit %>
+      </div>
+    <% end %>
 
 And let's amend the show view to display the image. Notice we pass the version into the `url` method to access a particular version.
 
-{% highlight erb %}
-<p id="notice"><%= notice %></p>
-<%= image_tag @thing.image.url(:thumb) %>
+    <p id="notice"><%= notice %></p>
+    <%= image_tag @thing.image.url(:thumb) %>
 
-<%= link_to 'Edit', edit_thing_path(@thing) %> |
-<%= link_to 'Back', things_path %>
-{% endhighlight %}
+    <%= link_to 'Edit', edit_thing_path(@thing) %> |
+    <%= link_to 'Back', things_path %>
 
 We can start up the server by invoking `rails server`. Navigating to `http://localhost:3000/things/new` should give us a form where we can select an image to upload. The image should get uploaded and the "thing" saved without a hitch, but when it redirects you to view the "thing" there will be a broken image waiting for you. This is because Rails has no freakin' clue how to access the file via GridFS. So we need to tell it how.
 
 In order to serve the image as quickly as possible, we need a way to access GridFS without involving the entire Rails slow-ass stack. Enter Rails Metal, which allows you to process requests directly from Rack. While Rails 2 required you to place metal processing in its own directory under app, Rails 3 bakes Rack support directly into the inheritance hierarchy of ActionController, allowing you to do something like this:
 
-{% highlight ruby %}
-require 'mongo'
+    require 'mongo'
 
-class GridfsController < ActionController::Metal
-  def serve
-    gridfs_path = env["PATH_INFO"].gsub("/images/", "")
-    begin
-      gridfs_file = Mongo::GridFileSystem.new(Mongoid.database).open(gridfs_path, 'r')
-      self.response_body = gridfs_file.read
-      self.content_type = gridfs_file.content_type
-    rescue
-      self.status = :file_not_found
-      self.content_type = 'text/plain'
-      self.response_body = ''
+    class GridfsController < ActionController::Metal
+      def serve
+        gridfs_path = env["PATH_INFO"].gsub("/images/", "")
+        begin
+          gridfs_file = Mongo::GridFileSystem.new(Mongoid.database).open(gridfs_path, 'r')
+          self.response_body = gridfs_file.read
+          self.content_type = gridfs_file.content_type
+        rescue
+          self.status = :file_not_found
+          self.content_type = 'text/plain'
+          self.response_body = ''
+        end
+      end
     end
-  end
-end
-{% endhighlight %}
 
 Save this file as `app/controllers/gridfs_controller`. Notice that we're pulling details about the request path directly out of the request. By default, CarrierWave stores files in GridFS under "uploads/filename". Therefore, we need to turn the request path (`/images/uploads/filename`) into a GridFS file path by simply removing the "/images/" (note both slashes). All of these settings are fully configurable in CarrierWave, but that's beyond the scope of this article - just don't forget to modify this controller if you change the url or GridFS storage path.
 
 Now the last part is to set up the route for the image. Open up `config/routes.rb` and add a line for our GridfsController:
 
-{% highlight ruby %}
-Example::Application.routes.draw do |map|
-  match "/images/uploads/*path" => "gridfs#serve"
-  resources :things
-end
-{% endhighlight %}
+    Example::Application.routes.draw do |map|
+      match "/images/uploads/*path" => "gridfs#serve"
+      resources :things
+    end
 
 This maps a url like `/images/uploads/thumb_image.jpg` to the GridfsController's `serve` action.
 

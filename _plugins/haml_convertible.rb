@@ -25,12 +25,12 @@ module Jekyll
       payload["pygments_suffix"] = converter.pygments_suffix
 
       if self.is_haml?
-        self.content = Haml::Engine.new(self.content).render(self, payload)
+        self.content = Haml::Engine.new(self.content, :format => :html5, :ugly => true).render(self, payload)
       end
       
       begin
         self.content = if self.is_haml? || hamlish?(self) #self.is_a?(Page) && (self.name.split(".").last == "haml")
-          Haml::Engine.new(self.content).render(self, payload)
+          Haml::Engine.new(self.content, :format => :html5, :ugly => true).render(self, payload)
         else
           converter.convert(self.content) 
         end
@@ -53,7 +53,7 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
       while layout
         begin
           payload = payload.deep_merge({"content" => self.output, "page" => layout.data})
-          self.output = Haml::Engine.new(layout.content).render(self, payload)
+          self.output = Haml::Engine.new(layout.content, :format => :html5, :ugly => true).render(self, payload)
         rescue => e
 
           debugger
