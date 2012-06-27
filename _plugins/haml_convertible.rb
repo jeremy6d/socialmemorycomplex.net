@@ -126,10 +126,11 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
       (page.description if page.respond_to?(:description)) || "A political economy of the soul"
     end
 
-    def abridge(html, permalink, paragraph_count)
-      paragraph_count = (paragraph_count || 3).to_i
+    def abridge(html, permalink, para_count)
+      paragraph_count = (para_count || 3).to_i
       text = html.gsub(/<h3>.*<\/h3>/, "")
-      return text if text.size < 2000 || !text.include?("<p>")
+      return text if ((text.size < 2000) || !text.include?("<p>")) && para_count.nil?
+
       paragraphs = text.split("</p>")[0..(paragraph_count - 1)]
       unless paragraphs.size < paragraph_count
         paragraphs << "<p><a href=\"#{permalink}\">Read more...</a></p>" 
