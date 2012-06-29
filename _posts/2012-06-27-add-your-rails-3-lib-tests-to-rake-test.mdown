@@ -6,7 +6,7 @@ excerpt_paragraph_count: 1
 
 I have a large Rails 3 project with lots of reusable code in modules. Tests for these modules are placed in `test/lib` to isolate them from database-heavy model tests. In order to run these tests automatically along with my unit, functional, and integration tests, I implemented the solution described [here](http://stackoverflow.com/a/1588496) some time ago. However, at some point over the last year, either Rake or Rails or both broke this (I'm leaning towards Rails, since the new tasks in the Railties gem look much more complex, with special subtasks derived from the `Rake::TestTask` class). I've been looking for a new approach, and today I got fed up and started fixing it myself.
 
-If you want to run Test::Unit tests in test/lib, try putting the following in `lib/tasks/test_lib.rake`:
+If you want to run `Test::Unit` tests in `test/lib`, try putting the following in `lib/tasks/test_lib.rake`:
     
     require 'rubygems'
     require 'rake'
