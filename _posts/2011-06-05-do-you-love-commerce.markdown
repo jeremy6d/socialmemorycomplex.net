@@ -1,6 +1,6 @@
 ---
 title: Do you love commerce?
-tags: markets,libertarianism,market_fundamentalism
+tags: markets libertarianism market-fundamentalism
 category: leftlibertarian
 ---
 As a footnote to my last post, here's the choice Jeffrey Tucker leaves us with in his ringing defense of fast food:

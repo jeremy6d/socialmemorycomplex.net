@@ -20,7 +20,7 @@ subtitle: A political economy of the soul
         =published_date(post.date)
         %br
         - unless post.tags.empty?
-          ="Tags: #{ post.tags.map { |t| t.gsub(',', '') }.join(", ") }" 
+          == Tags: #{ render_tags post.tags }
           %br
         =link_to "Comments", "#{post.url}#disqus_thread"
   .pagination
