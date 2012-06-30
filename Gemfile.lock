@@ -21,6 +21,8 @@ GEM
       kramdown (~> 0.13)
       liquid (~> 2.3)
       maruku (~> 0.5)
+    jekyll-tagging (0.3.1)
+      ruby-nuggets
     kramdown (0.13.5)
     linecache19 (0.5.12)
       ruby_core_source (>= 0.1.4)
@@ -38,6 +40,7 @@ GEM
       columnize (>= 0.3.1)
       linecache19 (>= 0.5.11)
       ruby-debug-base19 (>= 0.11.19)
+    ruby-nuggets (0.8.7)
     ruby_core_source (0.1.5)
       archive-tar-minitar (>= 0.5.2)
     sass (3.1.16)
@@ -50,6 +53,7 @@ DEPENDENCIES
   activesupport
   haml
   jekyll
+  jekyll-tagging
   rdiscount
   ruby-debug19
   sass

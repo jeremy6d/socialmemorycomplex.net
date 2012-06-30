@@ -1,0 +1,25 @@
+---
+layout: full_nav
+title: Tag Archive
+subtitle: Social Memory Complex
+---
+%ul
+- for post in page.fetch('posts', [])
+  .post{:id => "post-#{post.slug}"}
+    %h2.post-title
+      %a{:href => post.url}
+        =post.data['title']
+      - if post.data['subtitle'] 
+        #subtitle
+          =post.data['subtitle'] 
+    = abridge post.content, post.url, post.data['excerpt_paragraph_count']
+    .meta
+      - if link = offsite_link(post)
+        = link
+        %br
+      =published_date(post.date)
+      %br
+      - unless post.tags.empty?
+        ="Tags: #{ post.tags.map { |t| t.gsub(',', '') }.join(", ") }" 
+        %br
+      =link_to "Comments", "#{post.url}#disqus_thread"

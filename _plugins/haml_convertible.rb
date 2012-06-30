@@ -2,6 +2,7 @@ require 'set'
 require 'ruby-debug'
 require 'haml'
 require 'active_support'
+require 'jekyll/tagging'
 
 ARCHIVES_EXCERPT_CHAR_LIMIT = 150
 
@@ -25,12 +26,12 @@ module Jekyll
       payload["pygments_suffix"] = converter.pygments_suffix
 
       if self.is_haml?
-        self.content = Haml::Engine.new(self.content, :format => :html5, :ugly => true).render(self, payload)
+        self.content = Haml::Engine.new(self.content, :format => haml_format(self), :ugly => true).render(self, payload)
       end
       
       begin
         self.content = if self.is_haml? || hamlish?(self) #self.is_a?(Page) && (self.name.split(".").last == "haml")
-          Haml::Engine.new(self.content, :format => :html5, :ugly => true).render(self, payload)
+          Haml::Engine.new(self.content, :format => haml_format(self), :ugly => true).render(self, payload)
         else
           converter.convert(self.content) 
         end
@@ -48,12 +49,13 @@ module Jekyll
       layout = layouts[self.data["layout"]]
       used = Set.new([layout])
 
-layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split(".").last)
+layout = nil if self.respond_to?(:name) && %w(sass).include?(self.name.split(".").last)
 # - debugger if self.respond_to?(:name) && (self.name == "archives.haml")
       while layout
         begin
           payload = payload.deep_merge({"content" => self.output, "page" => layout.data})
-          self.output = Haml::Engine.new(layout.content, :format => :html5, :ugly => true).render(self, payload)
+
+          self.output = Haml::Engine.new(layout.content, :format => :xhtml, :ugly => true).render(self, payload)
         rescue => e
 
           debugger
@@ -174,7 +176,8 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
     end
 
     def xml_escape(input)
-      CGI.escapeHTML(input)
+      # "<![CDATA[#{CGI.escapeHTML(input)}]]>"
+      "<![CDATA[#{input}]]>"
     end
 
     def offsite_link(post)
@@ -193,10 +196,16 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
 
     def title_for obj
       title = case obj.class.to_s
+      when "Jekyll::TagPage"
+        obj.fetch("tag", "Tag Page")
       when "Jekyll::Post"
         obj.title
       else
-        obj['title']
+        if tag = obj.fetch('tag', false)
+          "Tag Archive: #{tag}"
+        else
+          obj['title']
+        end
       end
 
       if title =~ /\d{18}/
@@ -224,7 +233,40 @@ layout = nil if self.respond_to?(:name) && %w(sass xml).include?(self.name.split
     def blank?(string)
       string.gsub(/\s*/, "").empty?
     end
-    
+
+    def atom_entry_for post
+      %Q~<entry>
+  <title>#{post.data['title']}</title>
+  <link href="http://socialmemorycomplex.net#{post.url}" />
+  <updated>#{post.date.xmlschema}</updated>
+  <id>http://socialmemorycomplex.net#{post.url}</id>
+  <author><name>Jeremy Weiland</name></author>
+  <content type="html">#{xml_escape post.content}</content>
+</entry>~
+    end
+
+    def atom_entries_for collection
+      eval(collection).map { |p| atom_entry_for(p) }.join
+    end
+
+    def haml_format obj
+      # ext = case obj.class.to_s
+      # when "Jekyll::Post"
+      #   "markdown"
+      # else
+      #   obj.name.split(".").last
+      # end
+
+      # case ext
+      # when "xml"
+      #   :xml
+      # when "haml"
+      #   :xhtml
+      # else
+      :xhtml
+      # end
+    end
+
     def svg_logo
       %{
         <?xml version="1.0" encoding="UTF-8" standalone="no"?>

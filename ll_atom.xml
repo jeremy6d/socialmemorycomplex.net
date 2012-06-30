@@ -1,21 +1,5 @@
 ---
-layout: nil
+layout: feed
+feed_type: Left Libertarian Content
+collection: site.categories['leftlibertarian'].reverse.slice(0, 15)
 ---
-!!! XML
-%feed{:xmlns => "http://www.w3.org/2005/Atom"}
-  %title Social Memory Complex: Left Libertarian Feed
-  %link{:href => "http://socialmemorycomplex.net/ll_atom.xml", :rel => "self"}
-  %link{:href => "http://socialmemorycomplex.net"}
-  %updated= site['time'].xmlschema
-  %id http://socialmemorycomplex.net
-  %author
-    %name Jeremy Weiland
-    %email jeremy@6thdensity.net
-  - site['categories']['leftlibertarian'].slice(0, 15).each do |post|
-    %entry
-      %title= post.data['title']
-      %link{:href => "http://socialmemorycomplex.net/#{post.url}"}
-      %updated= post.date.xmlschema
-      %id== http://socialmemorycomplex.net#{post.id}
-      %content{:type => "html"}
-        = xml_escape post.content

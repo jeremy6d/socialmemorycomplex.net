@@ -5,8 +5,11 @@
       =[title_for(page), "Social Memory Complex"].uniq.join(" | ")
     %meta{:name => 'description', :content => get_description(page) }
     %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
-    %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
-    %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
+    - if tag = page.fetch('tag', false)
+      %link{ :href => "http://socialmemorycomplex.net/tags/#{tag}.xml", :rel => "alternate", :title => "Social Memory Complex: #{tag}", :type => "application/atom+xml" }
+    - else
+      %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
+      %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
     %meta{ :name => "google-site-verification", :content => "yCP6NyO-2cMp1yzxWs6cN1jSSKOs5l87-R8qWbKOcUM" }
   %body
     .page

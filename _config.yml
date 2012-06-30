@@ -9,5 +9,7 @@ site_title: Social Memory Complex
 sass: true
 haml: true
 paginate: 15
-# haml_folder: **/*.haml
-# sass_folder: **/*.sass
+tag_page_layout: tag_page
+tag_page_dir: tags
+tag_feed_layout: tag_feed
+tag_feed_dir: tags

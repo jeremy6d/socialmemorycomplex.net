@@ -1,0 +1,9 @@
+!!! XML
+%feed{:xmlns => "http://www.w3.org/2005/Atom"}
+  %title= ["Social Memory Complex", page.fetch('feed_type', nil), page.fetch('tag', nil)].compact.join(": ")
+  %link{:href => "http://socialmemorycomplex.net/atom.xml", :rel => "self"}/
+  %link{:href => "http://socialmemorycomplex.net/"}/
+
+  %updated= site['time'].xmlschema
+  %id http://socialmemorycomplex.net/
+  = atom_entries_for(page['collection'])
