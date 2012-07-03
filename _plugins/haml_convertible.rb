@@ -269,6 +269,7 @@ layout = nil if self.respond_to?(:name) && %w(sass).include?(self.name.split("."
     end
 
     def render_tags tags
+      tags = tags.split(" ") unless tags.is_a?(Array)
       tags.collect { |t|
         link_to t, "/tags/#{t}.html"
       }.join(", ")

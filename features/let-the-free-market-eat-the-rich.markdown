@@ -2,7 +2,7 @@
 layout: article
 title: Let the Free Market Eat the Rich!
 subtitle: Economic Entropy as Revolutionary Redistribution
-tags: economics, politics, anarchism, egalitarianism, markets
+tags: economics politics anarchism egalitarianism markets
 date: March 12, 2011
 ---
 

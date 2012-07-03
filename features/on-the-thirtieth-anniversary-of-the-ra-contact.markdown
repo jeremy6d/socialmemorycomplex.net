@@ -1,7 +1,7 @@
 ---
 layout: article
 title: On the Thirtieth Anniversary of the Ra Contact
-tags: law of one, spirituality, metaphysics
+tags: law-of-one spirituality metaphysics
 date: January 9, 2011
 ---
 

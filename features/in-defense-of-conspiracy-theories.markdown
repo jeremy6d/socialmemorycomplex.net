@@ -2,7 +2,7 @@
 layout: article
 title: In Defense of Conspiracy Theories
 subtitle: Every corporate newspaper columnist eventually takes a shot at their favorite whipping boy, the conspiracy theorist. And they use that term like it's a bad thing.
-tags: conspiracy theory, politics, history
+tags: conspiracy-theory politics history
 date: June 22, 2006
 author: Kevin Potvin
 ---

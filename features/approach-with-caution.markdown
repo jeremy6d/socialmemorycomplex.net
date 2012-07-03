@@ -2,7 +2,7 @@
 layout: article
 title: Approach With Caution
 subtitle: A Newbie Reflects on the Culture of Firearms and Radical Politic
-tags: firearms, left libertarianism, politics, anarchism
+tags: firearms left-libertarianism politics anarchism
 date: Summer 2007
 ---
 Writing is one of those unique endeavors through which a person can come to terms with his life, his values, and the path that led the former to the latter.  My recent introduction to firearms culture prompted a serious personal inquiry into its social and political dynamics.  It is the process of writing that has strengthed my grasp of concepts and rounded out my growth in the past, so an essay is the perfect lens to frame my stance on guns and the political ramifications of the surrounding culture.
