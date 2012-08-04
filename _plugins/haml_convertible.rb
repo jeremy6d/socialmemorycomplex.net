@@ -105,7 +105,8 @@ layout = nil if self.respond_to?(:name) && %w(sass).include?(self.name.split("."
       unless page['subtitle'].nil? || page['subtitle'] == ""
         subtitle = "<span id='colon'>:</span> <span id='subtitle'>#{page['subtitle']}</span>"
       end
-      "<a href='/'>#{title}</a>#{subtitle}"
+
+      "<a href='#{page['url']}'>#{title}</a>#{subtitle}" rescue debugger
     end
 
     def disqus_two
