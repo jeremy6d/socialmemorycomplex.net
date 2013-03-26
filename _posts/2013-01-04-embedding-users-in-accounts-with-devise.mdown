@@ -1,0 +1,74 @@
+---
+title: Embedding users in accounts with Devise and Mongoid
+tags: ruby rails devise mongodb mongoid
+---
+
+[This gist](https://gist.github.com/446144) referred to by the [Devise wiki](https://github.com/plataformatec/devise/wiki/How-To:-Embed-users-in-your-account-model-with-Mongoid) is no longer accurate as far as I can tell.  So I wanted to share my approach for how to use devise in a situation where user documents are embedded in account documents, especially in the scenario where your account has a subdomain assigned to it.
+
+Obviously, the first thing you need to do is make sure you always have access to the current account as keyed by the subdomain.  This means a before filter on any controller that runs under the subdomain that loads in your account.  The idea is that once you load the account, you never have to pull it from the database again:
+
+    class AccountSubdomainController < ApplicationController
+      before_filter :current_account
+
+    protected
+      def current_account
+        @account ||= params[:current_account] ||= get_account_by_subdomain
+        params[:user][:current_account] = @account if params[:user]
+        @account
+      end
+
+      def get_account_by_subdomain
+        Account.where(:subdomain => request.subdomain.downcase).first
+      end
+    end
+
+If you're not using an account-specific subdomain, just modify this to pull out the account from the URL or something.
+
+Once we have our account, we need to inject the current account into the params to keep it over the whole request.  We also need them in the users subhash if authentication is _currently_ being run.  That means you need to define `current_account` in your authentication keys, either in the `devise.rb` initializer or on your model's `devise` invocation:
+
+    config.authentication_keys = [:email, :current_account]
+
+This tells devise to use not only the `email` request parameter but also the `current_account` parameter to look up users.  Now we just need to override the lookup method for authentication:
+
+      def self.find_for_database_authentication(conditions)
+        acct = conditions[:current_account] || Account.where("users.email" => conditions[:email]).first
+        acct && acct.users.where(:email => conditions[:email]).first
+      end
+
+That's sufficient for the initial login, but if you stop there your app will authenticate correctly, store the user in the session, but never be able to pull it back out.  We need to a way to get to the `params` to pull that `current_account` out and provide it to the `user` model for a proper lookup.  This is where shit gets a little hacky, because we're going to create an initializer that overrides how Warden does something:
+
+    class Warden::SessionSerializer
+      def deserialize(keys)
+        klass_name, *args = keys
+
+        # add current account into mix so we don't have to pull it from the db again!
+        args << params[:current_account] if params[:current_account]
+
+        begin
+          klass = ActiveSupport::Inflector.constantize(klass_name)
+          if klass.respond_to? :serialize_from_session
+            klass.serialize_from_session(*args)
+          else
+            Rails.logger.warn "[Devise] Stored serialized class #{klass_name} seems not to be Devise enabled anymore. Did you do that on purpose?"
+            nil
+          end
+        rescue NameError => e
+          if e.message =~ /uninitialized constant/
+            Rails.logger.debug "[Devise] Trying to deserialize invalid class #{klass_name}"
+            nil
+          else
+            raise
+          end
+        end
+      end
+    end
+
+That's the link between the `current_account` in the request and our `user` model.  Now we just need a way to use it, and instead of using `self.find` like that old gist, we'd be better off implementing this on our model:
+
+    def self.serialize_from_session(*args)
+      key, salt, account = args
+      single_key = key.is_a?(Array) ? key.first : key
+      account.users.find single_key
+    end
+
+You should be all set now.  Note that this hack has not been well tested, but I thought it was high time somebody shared a different approach.  Please advise if you have criticisms or a better way.
