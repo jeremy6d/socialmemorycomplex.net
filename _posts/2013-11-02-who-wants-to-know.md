@@ -1,0 +1,25 @@
+---
+title: Who wants to know?
+subtitle: Ramana Maharshi and Egoism
+tags: egoism spirituality
+---
+
+I've had the pleasure of engaging in long-running conversations with a few egoists, and I'm always trying to delve deeper than the often disruptive or obscurantist polemics that so characterize egoism.  To my mind there is a foundational question at the heart of the egoist enterprise that never seems to get due attention: _what is this ego, this self you go on about?_  How can us egoists go on and on about our elevation of self over every other concern, and yet not deal with the character, the nature of that self?  This is especially frustrating when we acknowledge the social construction of the ego, recognizing that the dualism we stress is contrived in at least some important ways.
+
+As you may recall, [my approach to egoism](http://www.socialmemorycomplex.net/leftlibertarian/2010/08/16/the-unique-one-and-the-universal/) is infused with [an interest in the metaphysical](http://www.socialmemorycomplex.net/tags/spirituality.html).  Much of political egoism is tied to a spiritual teleos for me because that's my experience of self, my reality tunnel, my model of the phenomenal world.  Indeed, egoism appeals to me because it acknowledges the primacy of the _subject_ in subjectivism.  Now on the one hand, I go to great lengths not to impose this approach on others.  It's not rational, and therefore I simply cannot argue it, and that's not a helpful mode to discuss such matters anyway.  
+
+However, I have no qualms about asserting the utility of a more contemplative, introspective, inward-oriented approach to the nature of the ego and the self (as well as [the politics involved](http://www.socialmemorycomplex.net/features/the-political-implications-of-the-law-of-one.html)).  I frequently and vigorously push back on the notion that the end goal of egoism is some sort of exaltation of the individual self.  Indeed, I'm inclined to think that the ego is much more of a social phenomenon than we often realize, and our experience of ourselves individually can be as memetic and artifical as any institution.
+
+All of that is to frame my quoting from Ken Wilbur's [introduction](http://www.kenwilber.com/Writings/PDF/ForewordSageoftheCentury_OTHERS_2000.pdf) to [Talks with Ramana Maharshi](http://amzn.com/1878019007).  A dear friend of mine showed this to me, and it captures so well the tensions that are often glossed over by the egoists in their fixation on the "outer objects" of the world we perceive.  The self is not some foil to the universe in Maharshi's view; there is no need to shove the ego down the world's throat.  There is instead an understanding that, if the pure self is going to be a foundation, it needs to be understood as qualitatively different than the self so tightly and dualistically coupled to the world.
+
+> What and where is this Self? How do I abide as That? There is no doubt how Ramana would answer those -- and virtually all other -- questions: Who wants to know? What in you, right now, is aware of this page? Who is the Knower that knows the world but cannot itself be known? Who is the Hearer that hearsthe birds but cannot itself be heard? Who is the Seer that sees the clouds but cannot itself be seen?
+
+> And so arises _Self-Inquiry_, Ramana's special gift to the world. I have feelings, but I am not those feelings. Who am I? I have thoughts, but I am not those thoughts. Who am I? I have desires, but I am not those desires. Who am I?
+
+> So you push back into the source of your own awareness -- what Ramana often called the "I-I," since it is aware of the normal I or ego. You push back into the Witness, the I-I, and you rest as That. I am not objects, not feelings, not desires, not thoughts.
+
+> But then people usually make a rather unfortunate mistake in this Self-Inquiry. They think that if they rest in the Self or Witness, they are going to see something, or feel something, something really amazing, special, spiritual. But you won't see anything. If you see something, then, that is just another object-another feeling, another thought, another sensation, another image. But those are all objects; those are what you are not.
+
+> No, as you rest in the Witness -- realizing, I am not objects, I am not feelings, I am not thoughts -- all you will notice is a sense of Freedom, a sense of Liberation, a sense of Release -- release from the terrible constriction of identifying with these little finite objects, the little body and little mind and little ego, all of which are objects that can be seen, and thus are not the true Seer, the real Self, the pure Witness, which is what you really are.
+
+As I read this book, I intend to offer remarks and observations on overlap or congruence between this metaphysical approach to the self and the classically understood egoist philosophy.  Maharshi's dismissal of all things as nothing to him is quite literally worlds apart from Stirner's in tone, substance, and intent -- and yet I feel they both draw upon at least a bit of common insight.
