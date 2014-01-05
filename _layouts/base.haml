@@ -11,6 +11,17 @@
       %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
       %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
     %meta{ :name => "google-site-verification", :content => "yCP6NyO-2cMp1yzxWs6cN1jSSKOs5l87-R8qWbKOcUM" }
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3303392-1']);
+      _gaq.push(['_setDomainName', 'socialmemorycomplex.net']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
   %body
     .page
       %h1= header(page)
@@ -34,14 +45,3 @@
           == This page was last generated #{Time.now.strftime("at %I:%M:%S %p on %A, %B %d, %Y")}.
 
       %img{:src => "/assets/for-the-fairest.png", :id => "kallisti "}
-:javascript
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3303392-1']);
-  _gaq.push(['_setDomainName', 'socialmemorycomplex.net']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
