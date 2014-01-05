@@ -9,3 +9,4 @@ A blog by Jeremy Weiland about politics, spirituality, ruby, and other stuff.
 * better handling of urls in leftlibertarian category
 * support legacy linkblog links
 * comments importing
+* post-commit hook for deploy?
