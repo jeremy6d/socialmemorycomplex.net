@@ -93,7 +93,7 @@ At least given what we have learned so far, the NSA has had very poor reasons fo
 
 ### A dual responsibility of stewardship
 
-It seems to me that if Greenwald, Poitras, et al are going to control how these documents are disseminated, they cannot simply do so in the service of their own reporting or the reporting of journalists and newspapers he hand picks.  There's been too much inside baseball already, and expanding the class of insiders is not equivalent to public knowledge.  This story is just too important, and if the open debate he, Poitras, and Snowden seek is going to happen, one party cannot linger in a position to dictate terms.  
+It seems to me that if Greenwald, Poitras, et al are going to control how these documents are disseminated, they cannot simply do so in the service of their own reporting or the reporting of their hand picked journalists and newspapers.  There's been too much inside baseball already, and expanding the class of insiders is not equivalent to public knowledge.  This story is just too important, and if the open debate he, Poitras, and Snowden seek is going to happen, one party cannot linger in a position to dictate terms.  
 
 Therefore, I'd like to suggest that as steward of these leaked documents, their reporting is only one part of the job.  Within the constraints of their source agreement with Snowden, I argue Greenwald, Poitras, and other involved journalists have an equal responsibility to see that the documents get out as quickly as possible, _regardless of whether they serve their particular reporting narrative_.  This is a unique duty that stems from the singular position these journalists, especially Greenwald and Poitras, occupy relative to a matter of such gravity.
 
