@@ -5,10 +5,31 @@ tags:
 published: false
 ---
 
-I am not a conservative, at least as it is popularly viewed.  I advocate for a pretty radical transformation of our society and culture, and I have nothing but contempt for duly constituted authority.  Nevertheless, I find Paul Goodman's description of his leftist approach as "paleolithic conservatism" quite compelling.  There's quite a bit of value in 
+> Out of nothing we will imagine our values, and by this act of invention we shall live. - Hakim Bey
+
+> Liberty is the power which every human being ought to possess of acting according to the dictates of his own private conscience, under the rays of that Blazing Star which is seen by him, secretly, from the centre of his individual heart. - William B. Greene
+
+***
+
+For many American anarchists like me, the Bill of Rights functions as a first prototype of liberty.  It's the bridge between middle school civics and post-schooling radicalism; the values inculcated at an early age are surely drawn upon as we expand on the audacity of inquiry, considering more and more unbounded forms of human flourishing.  While few anarchists would defend the Bill of Rights as anywhere near sufficient for defense against overweening state power, it hits the bases that inform how we conceive of liberty, at least in the west.
+
+I've often thought that the first Amendment's negative rights in defense of speech and press were most important, since they were operative.  Not being much of a religious zealot, freedom of religion always seemed to me sort of a grandfathered-in throwback to times of yore.  It's either taken for granted that you can believe whatever you wish, or it's construed as some sort of majoritarian check on political correctness--see evangelical activism around abortion, gay marriage, etc.
+
+However, I no longer view this freedom as something incidental to anarchism.  The freedom of religion that early colonists sought and Jefferson tried to codify has a deeper signficance in the human condition.  Religion is one manifestation of a basic need humans have to live according to their conscience.
+
+### Anarchism and Conscience
+
+I consider it a virtue of the western tradition that conscience has emerged over the last millenium as such a crucial issue.  Christianity has always had a totalizing impact on society, with heresy making a perennially pernicious appearance.  From the donatists and arians to the Reformation, why have people fought so hard for what are, in many cases, rather minor theological matters of the heart?
+
+As a continent colonized by those seeking free worship, America epitomizes this tension and zeal.  Why did people risk and toil so much just to have the right to believe what they wish?  After all, the mind and heart are sovereign, resistant to coercion and social opprobrium.  One often holds suspicions, superstitions, and personal biases that we would never share publicly.  Why weren't people more inclined to simply go along with matters of religion and spirituality, keeping conflicting beliefs to themselves?  What is the human trait at work here?
+
+Setting aside social, theological, and political noise surrounding matters of conscience, I'd like to single out the role that faith plays.  One has faith when the subject of belief is beyond concrete establishment.  That makes the subject vulnerable, ephemeral, and all the more important to protect and defend.  
+
+It also tends to make the subject a foundation for other principles and thinking.  I'd argue that having faith in a proposition is what makes it _a priori_.
 
 * Freedom of religion is the most important freedom
 * It's not because religion is so fundamental, but because we need the freedom to hold beliefs without permission or proof
+* The free expression of conscience is how we become whole people who are not conflicted in thought and action
 * We must be free to disagree with others, even when the proof is overwhelming that we are wrong
 * It is the ultimate freedom of conscience because nobody can disprove faith
 * Wingnuts use religion to break noise ordinance -- freedom of religion can be a way to preserve freedom in spite of popular or elite intolerance
@@ -18,3 +39,5 @@ I am not a conservative, at least as it is popularly viewed.  I advocate for a p
 * Freedom of conscience maps directly to individual liberty because it delineates exactly where individual prerogative is allowed and disallowed in society
 * Instead of preaching supremacy, we should attempt to channel pre-rational axiomatic belief systems into pluralistic models invoked or rejected because of individual utility rather than popular tolerance
 * resist temptation to turn any particularly consistent model like materialist science into a quasi-religion that can be universally applied
+
+I am not a conservative, at least as it is popularly viewed.  I advocate for a pretty radical transformation of our society and culture, and I have nothing but contempt for duly constituted authority.  Nevertheless, I find Paul Goodman's description of his leftist approach as "paleolithic conservatism" quite compelling.  
