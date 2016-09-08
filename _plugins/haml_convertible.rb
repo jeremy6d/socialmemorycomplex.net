@@ -1,5 +1,4 @@
 require 'set'
-require 'ruby-debug'
 require 'haml'
 require 'active_support'
 require 'jekyll/tagging'
@@ -37,7 +36,6 @@ module Jekyll
         end
       rescue => e     
         puts "Exception: #{e.inspect}\n#{self.data.inspect}content\n"
-        debugger
       end
 
       self.transform unless self.respond_to?(:name) && (self.name.split(".").last == "sass")
