@@ -1,7 +1,7 @@
 ---
 title: Catching you up
 tags: personal
-draft: true
+published: false
 ---
 
 It has been over two years since I've posted about the kind of stuff most people read me for: software development and politics. Those of you who follow me on Twitter might have some sense of where I'm at. But it's been quite a tumult lately, and it's probably long overdue to weigh in in some sense.
@@ -46,9 +46,8 @@ This gets us up to Charlottesville 2017, when the attack on Heather Heyer occurr
 
 What I witnessed wasn't a protest; it was what I'd call a "kinetic propaganda stunt" or maybe a kind of fascist "propaganda of the deed". The right wingers clearly organized themselves to conduct operations, not simply to go out there and demonstrate. I saw them launch sorties into the counterprotestors, and then they'd melt back into the masses defending the park. While they were initiating all this violence, the cops didn't do shit; they just stood there. Meanwhile, I have no doubt that the only reason there were not more casualties was the resolute resistance of the most radical counterprotestors, especially those who adhere to an anti-fascist attitude like the IWW, Redneck Revolt, and other groups.
 
-This visceral experience marked a severe change in my political priorities. The idea that the right could ever be played off against the state seems ludicrous in light of all the stories of police colluding with fascists and the so-called "alt-right", not just in this country but around the world (see the Golden Dawn in Greece). To apply some form of anarchist realpolitik to our ideological polarities doesn't strike me as very relevant. We're headed for political disaster, and as an anarchist I think the most important priorities involve establishing relations with each other that can help us survive a collapse.
+This visceral experience marked a severe change in my political priorities. The idea that the right could ever be played off against the state seems ludicrous in light of all the stories of police colluding with fascists and the so-called "alt-right", not just in this country but around the world (see the Golden Dawn in Greece). To apply some form of anarchist realpolitik to our ideological polarities strikes me at best as superfluous; when nazis march openly in our streets, such a ivory tower analysis offers nothing. We're headed for political disaster, and as an anarchist I think the most important priorities involve establishing relations with each other that can help us survive a collapse.
 
-This doesn't mean all is lost, but it does imply two important takeaways. First, we must articulate a coherent approach to centering human needs. A lot of the anti-capitalist rhetoric focuses on bashing the thing everybody already knows is at fault, whether or not they name it correctly.
 
 
 <a name="footnote-1-content">[1]</a>One of my favorite parts of the book is Jung's sophisticated way of dealing with "the existence of God" on psychological terms, so fitting for a man steeped in archetype and the expansive nature of the human mind:
