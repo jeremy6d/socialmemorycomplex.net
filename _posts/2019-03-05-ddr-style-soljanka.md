@@ -12,7 +12,7 @@ I doubled and translated this recipe from [here](https://www.kochbar.de/rezept/5
 ### Ingredients
 - 6oz bacon, diced
 - 2 onions, diced
-- 7 oz jagdwurst or high quality bologna, diced
+- 7 oz jagdwurst or high quality bologna, cut into strips
 - 7 oz smoked sausage, diced
 - oil
 - 2 red peppers, diced
