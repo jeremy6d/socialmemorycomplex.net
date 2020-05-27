@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 368
 title: Microunions outmanuever the corporatist state
-wordpress_url: http://blog.6thdensity.net/?p=368
+wordpress_url: https://blog.6thdensity.net/?p=368
 layout: post
 ---
-Via <a href="http://battlepanda.blogspot.com/2006/01/thumbs-up-thumbs-down.html">Battlepanda</a> and <a href="http://www.nathannewman.org/laborblog/archive/003611.shtml">Nathan Newman</a>, this <a href="http://labornotes.org/archives/2006/01/articles/b.shtml">article</a> about the <a href="http://www.walmartwork.org/index.php?id=28">Walmart Workers Association</a> demonstrates that the spirit of self-determination is alive and well, even among the most downtrodden:
+Via <a href="https://battlepanda.blogspot.com/2006/01/thumbs-up-thumbs-down.html">Battlepanda</a> and <a href="https://www.nathannewman.org/laborblog/archive/003611.shtml">Nathan Newman</a>, this <a href="https://labornotes.org/archives/2006/01/articles/b.shtml">article</a> about the <a href="https://www.walmartwork.org/index.php?id=28">Walmart Workers Association</a> demonstrates that the spirit of self-determination is alive and well, even among the most downtrodden:
 <blockquote>Non-majority unions such as the WWA don't wait for a court to license workers' use of collective action. They harness that anger and ingenuity to both win day-to-day victories and launch longer-term pressure campaigns. The strategy has roots in industries in which union recognition is rare: retail chain workers, state workers, and computer programmers and manufacturers.
 
 "<strong>We have the right to organization, regardless of what the boss or the state do</strong>," said Smith.</blockquote>

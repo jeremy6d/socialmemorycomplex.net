@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 256
 title: "109222930615291996"
-wordpress_url: http://blog.6thdensity.net/?p=256
+wordpress_url: https://blog.6thdensity.net/?p=256
 layout: post
 ---
 Well, I had a great time at the Phish show at Hampton Colliseum.  It was about what I expected, performance wise.  It was a decent show, with good moments.  I'm still thinking about it, so that's a good sign.  Hampton is a nice place to see a show, with the seating and plenty of room on the floor.  It was nice.

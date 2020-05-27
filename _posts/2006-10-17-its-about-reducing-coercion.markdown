@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 545
 title: It's About Reducing Coercion
-wordpress_url: http://blog.6thdensity.net/?p=545
+wordpress_url: https://blog.6thdensity.net/?p=545
 layout: post
 ---
-<a href="http://www.techliberation.com/archives/040908.php">Tim Lee</a> describes a realization he had about libertarianism and the need to evangelize for business:
+<a href="https://www.techliberation.com/archives/040908.php">Tim Lee</a> describes a realization he had about libertarianism and the need to evangelize for business:
 <blockquote>...In college, I dated a left-of-center girl who liked to shop at the local grocery co-op rather than a commercial grocery store. It was a topic of frequent argument. I'd point out the relative efficiencies of commercial grocery store organization, she'd stress fuzzier, more community-focused advantages: the sense of community, the superior treatment of workers, the closer connection between customers, employees, and management, etc.
 
 I still shop at a commercial grocery store. But I also think my criticism of the co-op was a little bit off base. In the first place, there's no reason that libertarianism, as such, should quarrel with co-op shoppers. It's a peaceful, voluntary form of social organization, and anyone who doesn't appreciate it is free to take their business elsewhere. And I think it's a mistake for libertarians to deny that many people find the market and firm forms of organization alienating. <strong>If they want to structure their lives so that more aspects of it are organized like a big tribe or family, we ought to say more power to them. </strong></blockquote>
@@ -14,7 +14,7 @@ I had a similar realization when reading Charles Murray's <u>What It Means to be
 
 Libertarians must stop fighting the culture war, implicitly or explicitly, and realize that leftist values matter in the market just as much as others.  There is a desperate need for an economic attitude that doesn't attack people for not fitting in with the capitalist, type A status quo.  Promoting societies which have a wide variety of organizing philosophies to choose from, free from force and fraud, is our goal - not a particular cultural outcome.
 
-A very encouraging <a href="http://www.strike-the-root.com/62/hobbs/hobbs1.html">article</a> at <a href="http://www.strike-the-root.com/">Strike the Root</a> by Carlton Hobbs makes a similar, compelling argument: doing your own thing outside the market is a check on ensuring a functioning market.  Responding to Austrian writer Robert Murphy's attack on an article encouraging readers to support local produce over imports, Hobbs implores libertarians to stop dictating value judgements to people.  The big reason markets work is that they allow people to peacefully pursue their deeply held, irrational values <em>without having to justify it to others</em>:
+A very encouraging <a href="https://www.strike-the-root.com/62/hobbs/hobbs1.html">article</a> at <a href="https://www.strike-the-root.com/">Strike the Root</a> by Carlton Hobbs makes a similar, compelling argument: doing your own thing outside the market is a check on ensuring a functioning market.  Responding to Austrian writer Robert Murphy's attack on an article encouraging readers to support local produce over imports, Hobbs implores libertarians to stop dictating value judgements to people.  The big reason markets work is that they allow people to peacefully pursue their deeply held, irrational values <em>without having to justify it to others</em>:
 <blockquote>The dumb act is attacking people who try to change things on the market in a way that would reduce state capitalism, when there was not a single call or implication for government interference in Taylor's article.
 
 Murphy's article effectively makes pro-market decentralists the enemy, and those who influence the state to remove our freedoms as the ally.  I see why some of the attacks on anarcho-capitalists are valid. Such writing does not match our theory... while others assume that such writings are our theory. <strong>Murphy's article unintentionally takes the existence of current state regulations as something to work around more than to work against.</strong>

@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 7
 title: Terry Schiavo, please just die.
-wordpress_url: http://blog.6thdensity.net/?p=7
+wordpress_url: https://blog.6thdensity.net/?p=7
 layout: post
 ---
-I think it's absolutely disgusting that the <a href="http://apnews.myway.com/article/20050321/D88VEBRO0.html">Federal Gov't is trying to overrule the decisions of a State judge</a>.  That the Florida judge utterly rebuked Congress's attempts to circumvent the legal system makes my day and almost makes up for all the bullshit the judiciary puts us through.  This issue has been blown entirely out of proportion and it now requires a tasteless joke.  At this point, I don't care if Terry is exhibiting the following "signs of life": 
+I think it's absolutely disgusting that the <a href="https://apnews.myway.com/article/20050321/D88VEBRO0.html">Federal Gov't is trying to overrule the decisions of a State judge</a>.  That the Florida judge utterly rebuked Congress's attempts to circumvent the legal system makes my day and almost makes up for all the bullshit the judiciary puts us through.  This issue has been blown entirely out of proportion and it now requires a tasteless joke.  At this point, I don't care if Terry is exhibiting the following "signs of life": 
 
 (1) on her knees pleading for her life 
 

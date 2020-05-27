@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 486
 title: Tools
-wordpress_url: http://blog.6thdensity.net/?p=486
+wordpress_url: https://blog.6thdensity.net/?p=486
 layout: post
 ---
-The P.A.T.R.I.O.T. Act and indefinite detentions of enemy combatants are two of the many "tools"<a href="http://www.911citizenswatch.org/modules.php?op=modload&name=News&file=article&sid=901"> </a>the government claims it needs to combat terrorism.  Maybe they should pass a law having something to do with another tool - <a href="http://www.911citizenswatch.org/modules.php?op=modload&name=News&file=article&sid=901">e-mail</a>:
+The P.A.T.R.I.O.T. Act and indefinite detentions of enemy combatants are two of the many "tools"<a href="https://www.911citizenswatch.org/modules.php?op=modload&name=News&file=article&sid=901"> </a>the government claims it needs to combat terrorism.  Maybe they should pass a law having something to do with another tool - <a href="https://www.911citizenswatch.org/modules.php?op=modload&name=News&file=article&sid=901">e-mail</a>:
 <blockquote>An Arabic-speaking FBI agent had requested information about a Jan. 5, 2000, Al Qaeda meeting in Malaysia, but the CIA never turned it over, The New Yorker reported.
 
 The ambitious FBI detective, Ali Soufan, was so upset when he eventually got the information - after 9/11 - that he vomited.</blockquote>

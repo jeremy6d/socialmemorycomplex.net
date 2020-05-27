@@ -1,12 +1,12 @@
 --- 
 wordpress_id: 271
 title: "109726835455232893"
-wordpress_url: http://blog.6thdensity.net/?p=271
+wordpress_url: https://blog.6thdensity.net/?p=271
 layout: post
 ---
-I've just realized how much of an impact <a href="http://www.geocities.com/wilforbis/weblogs/blogger.htm">Wil Forbis</a> could have on the upcoming election.
+I've just realized how much of an impact <a href="https://www.geocities.com/wilforbis/weblogs/blogger.htm">Wil Forbis</a> could have on the upcoming election.
 
-<img src='http://home.ripway.com/2004-8/161056/votechange.jpg'/>
+<img src='https://home.ripway.com/2004-8/161056/votechange.jpg'/>
 
 Now, just think about ALL the Democrat women voters that were thusly... umm... not had sex with by Clinton.  You begin to see why this taste issue is a big problem for the Democrats.  It's a matter of life or death!
 

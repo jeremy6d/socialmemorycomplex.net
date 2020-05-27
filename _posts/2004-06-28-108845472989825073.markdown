@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 236
 title: Dolla dolla bill
-wordpress_url: http://blog.6thdensity.net/?p=236
+wordpress_url: https://blog.6thdensity.net/?p=236
 layout: post
 ---
 Man, whoever said Fahrenheit 9/11 would never make money was a dummy.  I spent an hour and a half just trying to find a theater playing it in the Richmond area and once I found it, it was sold out for the rest of the day.

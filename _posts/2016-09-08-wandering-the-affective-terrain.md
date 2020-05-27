@@ -4,7 +4,7 @@ subtitle: Understanding Emotions as Information
 tags: spirituality law-of-one buddhism emotions
 ---
 
-Pema Chodron's [What to Do When the Going Gets Rough](http://www.lionsroar.com/pema-chodron-what-to-do-when-the-going-gets-rough/) has had a great deal of influence in my daily life.  It appears to me that in meeting the difficulties of life we are faced with several levels of experience.  In order to process this stuff we harvest from our waking lives, we need more than just the mind, and Chodron has given me novel tools to do just this.
+Pema Chodron's [What to Do When the Going Gets Rough](https://www.lionsroar.com/pema-chodron-what-to-do-when-the-going-gets-rough/) has had a great deal of influence in my daily life.  It appears to me that in meeting the difficulties of life we are faced with several levels of experience.  In order to process this stuff we harvest from our waking lives, we need more than just the mind, and Chodron has given me novel tools to do just this.
 
 I'm fascinated by the way Bhuddist thought aligns with my chosen philosophy of life and spirit, but the most intriguing aspect for me is the praxis of Bhuddism.  While much spiritual information can seem unmoored from and hovering over the material life, Bhuddism has a wealth of accumulated practices, strategies, techniques, and attitudes that seem to be able to ground the subtle and intangible in the daily go-round.  Chodron's article was the first that really woke me up to how much help there is available when we seem to be floating in mid-air.
 
@@ -32,7 +32,7 @@ This was a big wake-up call for yours truly, even as I acknowledge many probably
 
 > Right at the point when we are about to blow our top or withdraw into oblivion, we can remember this: we are warriors-in-training being taught how to sit with edginess and discomfort. We are being challenged to remain and to relax where we are.
 
-This advice finally strikes me as very similar to the [balancing exercises discussed in the Law of One material](http://www.lawofone.info/results.php?s=5#2), where instead of trying to overcome feelings we actually sit with them, mentally intensify them to the extreme, and then intensify the opposite emotion to to the extreme:
+This advice finally strikes me as very similar to the [balancing exercises discussed in the Law of One material](https://www.lawofone.info/results.php?s=5#2), where instead of trying to overcome feelings we actually sit with them, mentally intensify them to the extreme, and then intensify the opposite emotion to to the extreme:
 
 > To begin to master the concept of mental discipline it is necessary to examine the self. The polarity of your dimension must be internalized. Where you find patience within your mind you must consciously find the corresponding impatience and vice versa. Each thought that a being has, has in its turn an antithesis. The disciplines of the mind involve, first of all, identifying both those things of which you approve and those things of which you disapprove within yourself, and then balancing each and every positive and negative charge with its equal. The mind contains all things. Therefore, you must discover this completeness within yourself.
 

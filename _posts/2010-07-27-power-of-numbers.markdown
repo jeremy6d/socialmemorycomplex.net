@@ -3,7 +3,7 @@ title: Power of Numbers
 tags: video law-enforcement police-brutality
 category: leftlibertarian
 ---
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/-8p1TGz_bBk&amp;hl=en_US&amp;fs=1" align='center'></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-8p1TGz_bBk&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/-8p1TGz_bBk&amp;hl=en_US&amp;fs=1" align='center'></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/-8p1TGz_bBk&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 What an astounding video; can you imagine something like this _ever_ happening in our country? 
 

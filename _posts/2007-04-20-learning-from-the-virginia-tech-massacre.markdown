@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 694
 title: Surviving the System, and Other Unmentionable Lessons of the Virginia Tech Massacre
-wordpress_url: http://blog.6thdensity.net/?p=694
+wordpress_url: https://blog.6thdensity.net/?p=694
 layout: post
 ---
 <h2>Taking Responsibility From Within the System</h2>
@@ -19,7 +19,7 @@ Now, I'm not saying that we didn't all get picked on from time to time.  I'm not
 
 We've probably seen it a million times, and rarely do we speak up out of concern for being targeted ourselves. But such experiences are actually opportunities for solidarity, where common interests of the group can authentically be tapped.  Bullies thrive on fear, and all it would take would be the rest of the class standing up to them together to avert such treatment. This kind of mutual aid can be used for good, but all too often the class ends up aligning against the victim, the kid being picked on.  I know that's what happened in my school, and I rarely if ever did anything.
 <h2>The Real Lessons from Virginia Tech</h2>
-The recent Virginia Tech massacre <a href="http://www.wpbf.com/news/12468306/detail.html?rss=wpb&psp=nationalnews">shows</a> that bullying, marginalization, and alienation can be tragic for others than just the original victim. True, Cho Seung-hui had mental problems.  True, no amount of classroom bullying can justify what he did. But we can now see that when bullying occurs in the system, it doesn't just hurt the one kid.  Indeed, it's telling that the bullies weren't even the ones targeted; Cho saw the body of students as the enemy, and it was the innocent who were massacred, not the bullies.
+The recent Virginia Tech massacre <a href="https://www.wpbf.com/news/12468306/detail.html?rss=wpb&psp=nationalnews">shows</a> that bullying, marginalization, and alienation can be tragic for others than just the original victim. True, Cho Seung-hui had mental problems.  True, no amount of classroom bullying can justify what he did. But we can now see that when bullying occurs in the system, it doesn't just hurt the one kid.  Indeed, it's telling that the bullies weren't even the ones targeted; Cho saw the body of students as the enemy, and it was the innocent who were massacred, not the bullies.
 
 The lesson to learn from this tragedy is that the system - educational, law enforcement, even psychiatric - is deadly.  It puts individuals into a position of conforming or suffering, and the suffering can be corrosive to those whose grip on reason is not as firm as normal.  These individuals then use the system to destroy other individuals, in this case by choosing an area where many were congregated and opening fire.  If the massacre is seen as some sort of failure of the larger system - if, for example, gun laws or the mental health system take the blame - then we miss the fact that the system is actually doing what it's supposed to do: keep people corralled, helpless, dependent on authority, and completely defenseless.  That's how Cho was victimized, and in a way it's how his victims were as well.
 

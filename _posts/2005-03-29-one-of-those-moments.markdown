@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 14
 title: One of those moments...
-wordpress_url: http://blog.6thdensity.net/?p=14
+wordpress_url: https://blog.6thdensity.net/?p=14
 layout: post
 ---
 I just received the Flaming Lips' <i>The Soft Bulletin</i> in the mail from Amazon.

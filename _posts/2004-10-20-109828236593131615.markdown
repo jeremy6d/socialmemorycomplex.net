@@ -1,12 +1,12 @@
 --- 
 wordpress_id: 277
 title: "109828236593131615"
-wordpress_url: http://blog.6thdensity.net/?p=277
+wordpress_url: https://blog.6thdensity.net/?p=277
 layout: post
 ---
-As ashamed as I am to simply post somebody else's blog post, I couldn't resist.  Besides, I'm lazy.  This is from <a href="http://www.janegalt.net/">Assymmetrical Information</a>.
+As ashamed as I am to simply post somebody else's blog post, I couldn't resist.  Besides, I'm lazy.  This is from <a href="https://www.janegalt.net/">Assymmetrical Information</a>.
 
-<blockquote>This excellent <a href="http://volokh.com/archives/archive_2004_10_14.shtml#1098069805">post</a> by Jim Lindgren sums up John Kerry's twenty year record of accomplishment in the Senate:
+<blockquote>This excellent <a href="https://volokh.com/archives/archive_2004_10_14.shtml#1098069805">post</a> by Jim Lindgren sums up John Kerry's twenty year record of accomplishment in the Senate:
 
 <i>S.791: Authorizes $53 million over four years to provide grants to woman-owned small businesses. (1999)
 
@@ -35,4 +35,4 @@ This is the <b>entire</b> list of all the things that John Kerry has managed to 
 
 Kerry supporters: explain why I should want a president who lacked the ability to get more than this pitiful list of bills through the senate.
 
-Bush supporters: explain why this shouldn't gladden my libertarian heart.</blockquote>That pretty much sums it up for me.  Not that I agree with her on everything: <a href="http://www.janegalt.net/blog/archives/004961.html">her refusal to support Badnarik</a> is pretty dumb, I think.  The LP ain't perfect, but compared to where we are, it is the obvious place for libertarians to go.  'Course, you expect these kinds of opinions from the Objectivists (I assume with a name like Galt she's one).
+Bush supporters: explain why this shouldn't gladden my libertarian heart.</blockquote>That pretty much sums it up for me.  Not that I agree with her on everything: <a href="https://www.janegalt.net/blog/archives/004961.html">her refusal to support Badnarik</a> is pretty dumb, I think.  The LP ain't perfect, but compared to where we are, it is the obvious place for libertarians to go.  'Course, you expect these kinds of opinions from the Objectivists (I assume with a name like Galt she's one).

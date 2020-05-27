@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 1333
 title: An RJS Redirect Matcher for rspec
-wordpress_url: http://blog.6thdensity.net/?p=1333
+wordpress_url: https://blog.6thdensity.net/?p=1333
 layout: post
 ---
 <p>You know what's stupid?  Clumsily checking for a javascript redirect in your RJS with this kind of shit:</p>
@@ -9,7 +9,7 @@ layout: post
   xhr :post, 'attach', :attachment_id => '4023'
   response.body.should =~ /window\.location\.href = \"/collabquote\";"
 end</pre>
-<p>Not only is this ugly, but it ties your test to a particular route, rather than allowing you to use your named route.  So I whipped up a custom RJS redirect matcher in about 10 minutes following the guidelines in <a href="http://www.sameshirteveryday.com/2007/09/15/rspec-custom-expectation-matcher-example/">this post</a>, and I was surprised how easy it was.<!--more-->  It should be pretty self explanatory.</p>
+<p>Not only is this ugly, but it ties your test to a particular route, rather than allowing you to use your named route.  So I whipped up a custom RJS redirect matcher in about 10 minutes following the guidelines in <a href="https://www.sameshirteveryday.com/2007/09/15/rspec-custom-expectation-matcher-example/">this post</a>, and I was surprised how easy it was.<!--more-->  It should be pretty self explanatory.</p>
 <pre lang="ruby">module RedirectViaRjsToMatcher  
   class RedirectViaRjsTo  
     def initialize(expected)  
@@ -47,4 +47,4 @@ end</pre>
   xhr :post, 'attach', :attachment_id => '4023'
   response.should redirect_via_rjs_to quote_path(@quote)
 end</pre>
-<p><strong>UPDATE:</strong> <a href="http://someguysblog.com/">Jim</a> clued me into <a href="http://apidock.com/rspec/Spec/Matchers/simple_matcher">simple_matcher</a>, which appears to be yet another very easy way to create custom matchers.</p>
+<p><strong>UPDATE:</strong> <a href="https://someguysblog.com/">Jim</a> clued me into <a href="https://apidock.com/rspec/Spec/Matchers/simple_matcher">simple_matcher</a>, which appears to be yet another very easy way to create custom matchers.</p>

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 641
 title: The Libby Case
-wordpress_url: http://blog.6thdensity.net/?p=641
+wordpress_url: https://blog.6thdensity.net/?p=641
 layout: post
 ---
 Radley Balko pretty much sums up my feelings on this case:
@@ -9,6 +9,6 @@ Radley Balko pretty much sums up my feelings on this case:
 
 ...
 
-President Bush's use of the pardon power to this point has generally been to exonerate people for crimes committed decades ago -- crimes they've admitted to and have repented for. He <em>hasn't</em> used it f<a href="http://www.cato.org/pub_display.php?pub_id=5217">or the reasons it was intended</a> -- as a final check on real injustices that may have slipped through the system. If Bush suddenly decides to use the pardon power to correct a prosecutorial overreach only on the occasion when the person being prosecuted is a formerly high-ranking official in his administration, his critics have every reason to cry foul.</blockquote>
+President Bush's use of the pardon power to this point has generally been to exonerate people for crimes committed decades ago -- crimes they've admitted to and have repented for. He <em>hasn't</em> used it f<a href="https://www.cato.org/pub_display.php?pub_id=5217">or the reasons it was intended</a> -- as a final check on real injustices that may have slipped through the system. If Bush suddenly decides to use the pardon power to correct a prosecutorial overreach only on the occasion when the person being prosecuted is a formerly high-ranking official in his administration, his critics have every reason to cry foul.</blockquote>
 Amen.  These episodic scandals are distractions from the real political issues.  We shouldn't expect consistency in this particular case where we haven't decried its absence elsewhere.
 <blockquote />

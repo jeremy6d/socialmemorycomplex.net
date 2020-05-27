@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 10
 title: What is this "human life"?
-wordpress_url: http://blog.6thdensity.net/?p=10
+wordpress_url: https://blog.6thdensity.net/?p=10
 layout: post
 ---
-I've just spent all day <a href="http://rightthinkinggirl.typepad.com/right_thinking_girl/2005/03/arrested_for_gi.html">bitching with a bunch of bitchers</a> about the Schiavo case... argh.  I so want to get over this and move on but I can't help be pissed off at all the people who have agendas on this.
+I've just spent all day <a href="https://rightthinkinggirl.typepad.com/right_thinking_girl/2005/03/arrested_for_gi.html">bitching with a bunch of bitchers</a> about the Schiavo case... argh.  I so want to get over this and move on but I can't help be pissed off at all the people who have agendas on this.
 
 But maybe there's a silver lining in all this discussion.  If it promotes a philosophical discussion about <strong>what human life is</strong> - from a point of view other than that of people interested in the ins and outs of abortion - then maybe it's worth it.  I mean, what I see is a pro-life movement that wants to define human life as a ipso facto good, worth defending no matter, what damn the circumstances.  Human cells living in any capacity must be kept alive always.  Hard, fast rules that make morality simple and decisions easy.
 

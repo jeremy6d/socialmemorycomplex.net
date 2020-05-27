@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 214
 title: "108653143001624908"
-wordpress_url: http://blog.6thdensity.net/?p=214
+wordpress_url: https://blog.6thdensity.net/?p=214
 layout: post
 ---
 Everybody shut up.  Listen - I just had the best sushi last night.  It's <strong>philadelphia roll, deep fried in tempura batter</strong>!  Damn that was good.  The only thing better than that is yellowtail sashimi, and that's way too expensive.

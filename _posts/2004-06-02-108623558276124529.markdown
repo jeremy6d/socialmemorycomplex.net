@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 209
 title: "108623558276124529"
-wordpress_url: http://blog.6thdensity.net/?p=209
+wordpress_url: https://blog.6thdensity.net/?p=209
 layout: post
 ---
 OK, well, just finished watching <em>The Fog of War</em> and it was very interesting and candid.  I'm not sure what to think of MacNamara.  On the one hand, there seems to be a large argument to be made that he was a moderate force in the conflicts in which he was involved.  He certainly has a respect and sense of responsibility for the power and danger of government.  He regrets much of what he did, and the sincerity of his intentions is difficult to doubt.  He believes in duty and service, y'know, all those qualities our generation supposedly doesn't understand.  He related a story about how Kennedy took full responsibility for the botched Bay of Pigs operation - even though MacNamara said that every single military and civilian advisor recommended he do it.  Compare that to Bush and you get a sense of what our country has lost in the past fifty years.  Accountability flew out the window sometime during the 70s, I suspect, and it won't return.

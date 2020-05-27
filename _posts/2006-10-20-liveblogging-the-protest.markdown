@@ -1,12 +1,12 @@
 --- 
 wordpress_id: 551
 title: "The Richmond Bush Protest: Liveblogging, Reflections, Photos, and Links"
-wordpress_url: http://blog.6thdensity.net/?p=551
+wordpress_url: https://blog.6thdensity.net/?p=551
 layout: post
 ---
 <em>Note: I went back and cleaned up some of the verbiage and formatting on this post, and added reflections from the next day.  The "At the protest" section is me on my XV6700 typing in observations on the fly.  Since rain was threatening I kept the blogging to a minimum.</em>
 
-<em>Please <a href="http://digg.com/political_opinion/Thursday_s_Protest_Against_Bush_and_Allen_First_Hand_Account">digg this story</a>!</em>
+<em>Please <a href="https://digg.com/political_opinion/Thursday_s_Protest_Against_Bush_and_Allen_First_Hand_Account">digg this story</a>!</em>
 <h2>At the protest</h2>
 <ul>
 	<li>(3:05 PM) Welp, here I am... For a red state this is a bit better turnout than I expected.  Police presence isn't too bad right here, but I saw a big group of stormtroopers gathered across the street, mounted and ready to deploy.  It's actually kind of fun; these old hippies keep messing up the cheers, but they're the only one's really uping the ante around here.  I'll take some photos now!</li>
@@ -16,7 +16,7 @@ layout: post
 </ul>
 <h2>Photos</h2>
 <ul>
-	<li><a href="http://www.flickr.com/photos/jeremy6d/tags/protest/">Here's a link to my Flickr photos tagged "protest"</a>.  Also, <a href=/pics/VIDEO_00010.mp4">a video clip</a>.  I'll post some interesting ones anyway.</li>
+	<li><a href="https://www.flickr.com/photos/jeremy6d/tags/protest/">Here's a link to my Flickr photos tagged "protest"</a>.  Also, <a href=/pics/VIDEO_00010.mp4">a video clip</a>.  I'll post some interesting ones anyway.</li>
 	<li>From this picture it's pretty obvious that the cops were choosing sides, and it wasn't with the antiwar majority but the 5-person pro-Bush clique<img width="454" height="342" src='/pics/IMAGE_00007.jpg' /></li>
 	<li>As you can see, the cops and paramilitary detail clearly considered peaceful demonstrators the major threat.<img width="494" height="370" src='/pics/IMAGE_00016.jpg' /></li>
 	<li>Here's one look at the crowd, but it was hard to capture the whole thing.<img width="474" height="355" src='/pics/IMAGE_00024.jpg' /></li>
@@ -30,7 +30,7 @@ There was a small group of war/Bush supporters, about half a dozen, with big Ame
 
 I made sure the police knew I wasn't happy with them.  I yelled several times about my dismay with the police state.  But even I wasn't prepared for when the Prez arrived; these guys in fatigues carrying automatic rifles stood along the busses facing us - again, as if the electorate is the enemy!  They were pretty smug about it, but the crowd seemed to accept it so I didn't make a big deal out of it.  It's hard being a sole voice in those things.
 
-Many of the protesters there were  trying to raise awareness of the <a href="http://www.richmond.com/news/output.aspx?Article_ID=4427117&Vertical_ID=133&tier=1&position=2">recent damage to Battery Park</a>, which resulted in some school closings.  In fact, one thing that kind of wierded me out was how a whole host of issues, from jobs to education to gay rights, were being wrapped up in what I thought was an anti-war, anti-Bush protest.  I guess Allen's presence made it more locally significant than that.  But surely the war was the big focus.
+Many of the protesters there were  trying to raise awareness of the <a href="https://www.richmond.com/news/output.aspx?Article_ID=4427117&Vertical_ID=133&tier=1&position=2">recent damage to Battery Park</a>, which resulted in some school closings.  In fact, one thing that kind of wierded me out was how a whole host of issues, from jobs to education to gay rights, were being wrapped up in what I thought was an anti-war, anti-Bush protest.  I guess Allen's presence made it more locally significant than that.  But surely the war was the big focus.
 
 There were some fruities (one white lady invoked the "N" word on the loudspeaker to the dismay of everybody, though she meant no harm) but overall things were calm.  In fact, I could have stood a bit more agitation, but the collective dynamics of those things are wierd.  Only one guy really broke ranks and charged out with a sign into Broad.  The cops turned him back but returned his sign.
 
@@ -38,19 +38,19 @@ All in all, a good experience, though I wish I hadn't been alone, or at least th
 <h2>Links</h2>
 Here are some links to other sources of information about the protest... hoping I can find other bloggers in Richmond who are antiwar.  The VAWN announcement mobilized a good protest, but I hope in the future we can coordinate better, perhaps by expanding online collaboration.
 <ul>
-	<li><a href="http://www.timesdispatch.com/servlet/Satellite?pagename=RTD/MGArticle/RTD_BasicArticle&c=MGArticle&cid=1149191254750">Story in the Richmond Times-Dispatch</a> (and <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=487740&blogID=182629705">a MySpacer takes exception to the coverage</a>)</li>
-	<li><a href="http://vafederalist.blogspot.com/2006/10/three-hundred-individuals-from.html">A critique of the protest at The Virginia Federalist</a></li>
-	<li><a href="http://day-x-day.livejournal.com/20286.html">A few pictures at day x day's livejournal</a></li>
-	<li><a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=98676140&blogID=182452584">A MySpace blog</a></li>
-	<li><a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=3579417&blogID=182456098">Another MySpace blog</a> (did I mention the hipsters were in force there?  :-) )</li>
-	<li><a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=60235181&blogID=182462860">Charles Warden makes some observations with which I agree
+	<li><a href="https://www.timesdispatch.com/servlet/Satellite?pagename=RTD/MGArticle/RTD_BasicArticle&c=MGArticle&cid=1149191254750">Story in the Richmond Times-Dispatch</a> (and <a href="https://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=487740&blogID=182629705">a MySpacer takes exception to the coverage</a>)</li>
+	<li><a href="https://vafederalist.blogspot.com/2006/10/three-hundred-individuals-from.html">A critique of the protest at The Virginia Federalist</a></li>
+	<li><a href="https://day-x-day.livejournal.com/20286.html">A few pictures at day x day's livejournal</a></li>
+	<li><a href="https://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=98676140&blogID=182452584">A MySpace blog</a></li>
+	<li><a href="https://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=3579417&blogID=182456098">Another MySpace blog</a> (did I mention the hipsters were in force there?  :-) )</li>
+	<li><a href="https://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=60235181&blogID=182462860">Charles Warden makes some observations with which I agree
 </a></li>
-	<li><a href="http://westofshockoe.blogspot.com/2006/10/loud-and-angry-voicesupdate.html">West of Schockoe reflects on the protest
+	<li><a href="https://westofshockoe.blogspot.com/2006/10/loud-and-angry-voicesupdate.html">West of Schockoe reflects on the protest
 </a></li>
-	<li><a href="http://camelsback23.blogspot.com/2006/10/welcome-bush-protest-update.html">Camelsbackandforth has a good write-up as well as excellent photos</a></li>
-	<li><a href="http://unitedconservatives.blogspot.com/2006/10/president-bush-and-senator-george.html">United Conservatives of Virginia says Bush had Richmond "rockin' and rollin'"?</a></li>
-	<li><a href="http://swacgirl.blogspot.com/2006/10/president-bush-visits-rich_116139080723345859.html">SWAC girl whines about us</a></li>
-	<li><a href="http://richmond.indymedia.org/newswire/display/12245/index.php">Richmond IndyMedia coverage</a> (and more <a href="http://richmond.indymedia.org/newswire/display/12232/index.php">here</a>)</li>
-	<li><a href="http://www.raisingkaine.com/showDiary.do?diaryId=5275">RaisingKaine has a small writeup</a></li>
-	<li><a href="http://www.democracynow.org/article.pl?sid=06/10/20/1433257">Democracy Now! coverage</a></li>
+	<li><a href="https://camelsback23.blogspot.com/2006/10/welcome-bush-protest-update.html">Camelsbackandforth has a good write-up as well as excellent photos</a></li>
+	<li><a href="https://unitedconservatives.blogspot.com/2006/10/president-bush-and-senator-george.html">United Conservatives of Virginia says Bush had Richmond "rockin' and rollin'"?</a></li>
+	<li><a href="https://swacgirl.blogspot.com/2006/10/president-bush-visits-rich_116139080723345859.html">SWAC girl whines about us</a></li>
+	<li><a href="https://richmond.indymedia.org/newswire/display/12245/index.php">Richmond IndyMedia coverage</a> (and more <a href="https://richmond.indymedia.org/newswire/display/12232/index.php">here</a>)</li>
+	<li><a href="https://www.raisingkaine.com/showDiary.do?diaryId=5275">RaisingKaine has a small writeup</a></li>
+	<li><a href="https://www.democracynow.org/article.pl?sid=06/10/20/1433257">Democracy Now! coverage</a></li>
 </ul>

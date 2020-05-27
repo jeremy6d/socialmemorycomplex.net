@@ -10,7 +10,7 @@ When Tasha and I were last in the Dresden area, we seemed to encounter Soljanka 
 I doubled and translated this recipe from [here](https://www.kochbar.de/rezept/533012/Original-DDR-Soljanka.html) after trying another that had no sourness at all. The secret, I think, is just putting pickle juice in it. That kind of makes sense, and the effect of that acid cutting through the sausage is divine. Make sure you don't forget the dollop of sour cream when you serve -- for bonus points, a slice of lemon on top in addition to the cream looks wonderful. You can also squeeze some lemon juice in your serving if you wanna up the sourness, I usually do.
 
 ### Ingredients
-- 6oz bacon, diced
+- 6 oz bacon, diced
 - 2 onions, diced
 - 7 oz jagdwurst or high quality bologna, cut into strips
 - 7 oz smoked sausage, diced
@@ -18,16 +18,16 @@ I doubled and translated this recipe from [here](https://www.kochbar.de/rezept/5
 - 2 red peppers, diced
 - 2 carrots, sliced into normal-sized rounds
 - 8 kosher or polish pickles, sliced into normal-sized rounds
-- 4oz tomato paste
-- 3oz pepper paste
-- 500 ml pickle juice
-- 2 liters beef broth
-- 7oz sauerkraut
+- 4 oz tomato paste
+- 3 oz pepper paste
+- 2 cups pickle juice
+- 2 quarts beef broth
+- 7 oz sauerkraut
 - 2 tbs capers
 - 2 cloves of garlic, minced
 - 2 bay leaves
-- salt
-- black pepper
+- salt to taste
+- black pepper to taste
 - sour cream
 
 ### Directions

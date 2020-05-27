@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 242
 title: "108932441486898590"
-wordpress_url: http://blog.6thdensity.net/?p=242
+wordpress_url: https://blog.6thdensity.net/?p=242
 layout: post
 ---
 The universe is wierd.  I get turned down for one job (programming slot machines) but I get a raise and promotion at my current job.  Huh.

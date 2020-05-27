@@ -5,7 +5,7 @@ tags: law intellectual-property contracts business development
 excerpt_paragraph_count: 1
 ---
 
-Last month I attended [Wordcamp Richmond](http://wordcamprichmond.org) and saw a great presentation by [Christopher Gatewood](http://twitter.com/gatewood5000) entitled [The Seven Business Pitfalls for Wordpress and Web Professionals](http://wordcamprichmond.org/conferences/wordcamp-rva-2010/#Gatewood). The talk was informative enough that I took copious notes, and I'm publishing them in the hopes that others will benefit. I've since gotten Chris to help me draft some agreements and can tell you he's a great resource for this kind of stuff.
+Last month I attended [Wordcamp Richmond](https://wordcamprichmond.org) and saw a great presentation by [Christopher Gatewood](https://twitter.com/gatewood5000) entitled [The Seven Business Pitfalls for Wordpress and Web Professionals](https://wordcamprichmond.org/conferences/wordcamp-rva-2010/#Gatewood). The talk was informative enough that I took copious notes, and I'm publishing them in the hopes that others will benefit. I've since gotten Chris to help me draft some agreements and can tell you he's a great resource for this kind of stuff.
 
 ### The Seven Pitfalls ###
 1. Half + Half = Half

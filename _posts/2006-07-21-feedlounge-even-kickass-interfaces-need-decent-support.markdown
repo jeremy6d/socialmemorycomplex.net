@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 481
 title: "Feedlounge: Even Kickass Interfaces Need Decent Support"
-wordpress_url: http://blog.6thdensity.net/?p=481
+wordpress_url: https://blog.6thdensity.net/?p=481
 layout: post
 ---
-Readers here know that I've given <a href="http://www.feedlounge.com">Feedlounge</a> props in the past, and they were well deserved.  <a href="http://www.alexking.org/">Alex King</a> has done a fabulous job creating a feed aggregator that soars above the competition on usability.  I love tagging feeds; I love having access to an OPML on the fly; I love the snappiness of the interface.  It's clear that Alex put a hell of a lot of pride, sweat, and thought into this application, and I admire him for it.
+Readers here know that I've given <a href="https://www.feedlounge.com">Feedlounge</a> props in the past, and they were well deserved.  <a href="https://www.alexking.org/">Alex King</a> has done a fabulous job creating a feed aggregator that soars above the competition on usability.  I love tagging feeds; I love having access to an OPML on the fly; I love the snappiness of the interface.  It's clear that Alex put a hell of a lot of pride, sweat, and thought into this application, and I admire him for it.
 
 That's why it's such a shame that customer support is chasing me and others away.  It hasn't been the technical problems, though those have been many.  Rather, it is the way Alex and company choose to address them.
 

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 215
 title: "108653173870079470"
-wordpress_url: http://blog.6thdensity.net/?p=215
+wordpress_url: https://blog.6thdensity.net/?p=215
 layout: post
 ---
 Oh, yeah, and if anybody out there has any experience with software router programs, give me a holla.

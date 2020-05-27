@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 576
 title: What hath we wrought?
-wordpress_url: http://blog.6thdensity.net/?p=576
+wordpress_url: https://blog.6thdensity.net/?p=576
 layout: post
 ---
 So looks like the Democrats picked up some major street cred the other night.  Yay for them.
@@ -10,4 +10,4 @@ I'm still not entirely comfortable with the fact that I voted a straight Dem tic
 
 So don't let down your guard yet.  I'm hopeful Dems will roll back some of the more egregious offenses of the Bush Admin, but I'm not holding my breath. Such a development would fly in the face of American political history.
 
-We'll see.  In the meantime: <a href="http://mll.agorism.info">AGORA!  ANARCHY!  ACTION!</a>
+We'll see.  In the meantime: <a href="https://mll.agorism.info">AGORA!  ANARCHY!  ACTION!</a>

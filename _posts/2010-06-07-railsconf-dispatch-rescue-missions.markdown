@@ -3,7 +3,7 @@ title: RailsConf Dispatch - Rescue Missions
 subtitle: Tammer Saleh on parachuting into disaster codebases
 tags: railsconf refactoring development ruby rails
 ---
-The first tutorial class at [RailsConf](http://en.oreilly.com/rails2010) on [Rails Anti-Patterns](http://s3.amazonaws.com/tammer_saleh/production/assets/vtm_rails_antipatterns.pdf) has been phenomenal and incredibly validating given my experiences with consulting. [Tammer Saleh](http://tammersaleh.com/) gave a wonderful talk on how to handle troubled legacy codebases - what he calls "rescue missions". It's particularly relevant for me as much of my early freelance work centered on failing projects I was dumped into. 
+The first tutorial class at [RailsConf](https://en.oreilly.com/rails2010) on [Rails Anti-Patterns](https://s3.amazonaws.com/tammer_saleh/production/assets/vtm_rails_antipatterns.pdf) has been phenomenal and incredibly validating given my experiences with consulting. [Tammer Saleh](https://tammersaleh.com/) gave a wonderful talk on how to handle troubled legacy codebases - what he calls "rescue missions". It's particularly relevant for me as much of my early freelance work centered on failing projects I was dumped into. 
 
 Because of the success of Rails, there's a lot of shitty code out there for you to fix. The harder issue is figuring out why shitty code was delivered, which can be trickier to figure out than you'd think. It can be really difficult to change the course of a project when much more than merely the code is dysfunctional.
 

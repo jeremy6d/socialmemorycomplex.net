@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 312
 title: "110115017062664639"
-wordpress_url: http://blog.6thdensity.net/?p=312
+wordpress_url: https://blog.6thdensity.net/?p=312
 layout: post
 ---
-Remind me again: why do people watch this guy's show?  Oh, yeah because <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/ap/20041122/ap_en_bu/trump_casino_bankruptcy_19">he's such a successful businessman</a>:<blockquote>Trump denied the bankruptcy was a setback. 
+Remind me again: why do people watch this guy's show?  Oh, yeah because <a href="https://news.yahoo.com/news?tmpl=story&amp;u=/ap/20041122/ap_en_bu/trump_casino_bankruptcy_19">he's such a successful businessman</a>:<blockquote>Trump denied the bankruptcy was a setback. 
 
 
 "I don't think it's a failure, <b>it's a <u>success</u></b>," he said in the interview. "In this case, it was just something that worked better than other alternatives. It's really just a technical thing, but it came together." 

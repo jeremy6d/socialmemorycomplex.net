@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 314
 title: "110209705906843581"
-wordpress_url: http://blog.6thdensity.net/?p=314
+wordpress_url: https://blog.6thdensity.net/?p=314
 layout: post
 ---
 Why do conservatives not acknowledge that we've been fucking around in the Middle East for the past 50 years and maybe, just maybe, that has something to do with the animosity (not the whole "we hate freedom" thing - that is just ridiculous)?

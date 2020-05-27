@@ -1,16 +1,16 @@
 --- 
 wordpress_id: 365
 title: Whitewashing the bribers
-wordpress_url: http://blog.6thdensity.net/?p=365
+wordpress_url: https://blog.6thdensity.net/?p=365
 layout: post
 ---
-David Boaz (whom I used to really admire - I have an autographed copy of <em>Libertarianism</em>) writes his <a href="http://www.cato.org/pub_display.php?pub_id=5382">latest essay</a> advancing the old <a href="http://www.cato.org">Cato Institute</a> line that institutional analysis need only go so far as to frame up politicians, letting the other players in the politics itself go blameless:
+David Boaz (whom I used to really admire - I have an autographed copy of <em>Libertarianism</em>) writes his <a href="https://www.cato.org/pub_display.php?pub_id=5382">latest essay</a> advancing the old <a href="https://www.cato.org">Cato Institute</a> line that institutional analysis need only go so far as to frame up politicians, letting the other players in the politics itself go blameless:
 <blockquote>People invest money to make money. In a free economy they invest in building homes and factories, inventing new products, finding oil, and other economic activities. That kind of investment benefits us all -- it's a positive-sum game, as economists say. People get rich by producing what other people want.
 
 But you can also invest in Washington. You can organize an interest group, or hire a lobbyist, and try to get some taxpayers' money routed to you. That's what the farm lobbies, AARP, industry associations, and teachers unions do. And that kind of investment is zero-sum -- money is taken from some people and given to others, but no new wealth is created.
 
 If you want to drill an oil well, you hire petroleum engineers. If you want to drill for money in Washington, you hire a lobbyist. And more people have been doing that.</blockquote>
-And if you want to kill somebody, you hire a hitman.  That doesn't make it ok that people hire them, just because the service is available for purchase.  This apologism for the corporate influence in - nay, the <em>perpetuation</em> of - state capitalism is the very portrait of the <a href="http://mutualist.blogspot.com/2005/01/vulgar-libertarianism-watch-part-1.html">vulgar libertarian</a> approach.  Selling influence is bad.  But buying influence is mere economic survival.  Politicians should be more principled, but businessmen looking for a buck can be forgiven for looking at the short term gains of rigging the game.
+And if you want to kill somebody, you hire a hitman.  That doesn't make it ok that people hire them, just because the service is available for purchase.  This apologism for the corporate influence in - nay, the <em>perpetuation</em> of - state capitalism is the very portrait of the <a href="https://mutualist.blogspot.com/2005/01/vulgar-libertarianism-watch-part-1.html">vulgar libertarian</a> approach.  Selling influence is bad.  But buying influence is mere economic survival.  Politicians should be more principled, but businessmen looking for a buck can be forgiven for looking at the short term gains of rigging the game.
 
 As I see it, the left libertarian approach balances the issue.  The problem is indeed the centralized, all-powerful state; on that, I agree with Boaz.  But he's only addressing the influence supply side - what about the demand for influence?  Is this demand soley a function of undesired government regulation and meddling?  Or does big business play a vital role in the continuation of the corporate welfare state?  And if we seek to dismantle that state, how can we hope to ignore such a powerful factor in the equation?
 

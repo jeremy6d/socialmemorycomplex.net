@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 575
 title: I voted
-wordpress_url: http://blog.6thdensity.net/?p=575
+wordpress_url: https://blog.6thdensity.net/?p=575
 layout: post
 ---
 For the following reasons:

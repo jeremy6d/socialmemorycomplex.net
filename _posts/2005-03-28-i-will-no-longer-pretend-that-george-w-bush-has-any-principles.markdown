@@ -1,12 +1,12 @@
 --- 
 wordpress_id: 13
 title: I will no longer pretend that George W. Bush has any principles
-wordpress_url: http://blog.6thdensity.net/?p=13
+wordpress_url: https://blog.6thdensity.net/?p=13
 layout: post
 ---
 I used to be very comfortable talking to people who support Bush.  I could acknowledge that while I disagree with some of his positions and actions, he at least appeared to make the majority of his decisions from a foundation of principle.  The benefit of this is that you "know where he stands".  And I do think there is an argument to be made for predictability in an administration and the gov't overall - hell, if you're gonna fuck shit up at least warn people.  But I also think it's important for people to have principles on broad philosophical issues so that their policies can be informed by a coherent system of intellectual inquiry.  The alternative, of course, is doing only that which is politically convenient and expedient, which leads to inconsistent and overall unjust outcomes and policies that play off of special interests without a comprehensive understanding of the common good (or one's conception thereof).
 
-Now, Bush has advanced and / or supported some policies in the past that are inconsistent with his stated principles, such as steel tariffs and prescription drug coverage for seniors.  But <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/03/27/national/w231236S77.DTL">this takes the cake:</a>
+Now, Bush has advanced and / or supported some policies in the past that are inconsistent with his stated principles, such as steel tariffs and prescription drug coverage for seniors.  But <a href="https://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/03/27/national/w231236S77.DTL">this takes the cake:</a>
 <blockquote>The Supreme Court is considering whether Texas and other states can execute 51 Mexicans who say they were improperly denied legal help from their consulates, a dispute testing the effect of international law in U.S. death penalty cases.
 
 ...

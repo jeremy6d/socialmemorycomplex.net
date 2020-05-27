@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 501
 title: Giving Republicans a Great Name
-wordpress_url: http://blog.6thdensity.net/?p=501
+wordpress_url: https://blog.6thdensity.net/?p=501
 layout: post
 ---
-I stopped reading RTG because of stuff like <a href="http://rightthinkinggirl.com/2006/08/30/cindy-sheehan-will-dance-to-anything/">this</a> (among other reasons):
+I stopped reading RTG because of stuff like <a href="https://rightthinkinggirl.com/2006/08/30/cindy-sheehan-will-dance-to-anything/">this</a> (among other reasons):
 <blockquote>But seriously, how stupid do you have to be to hold this ridiculous ‘march on Democracy' right as the country is tensing up to commemorate 9/11?</blockquote>
 Heh.  I guess it's something that RTG says the things Republican / neoconservative types are content with merely insinuating in an ever so subtle manner:
 <ol>

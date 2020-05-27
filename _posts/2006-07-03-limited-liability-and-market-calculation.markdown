@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 458
 title: Limited Liability and Market Calculation
-wordpress_url: http://blog.6thdensity.net/?p=458
+wordpress_url: https://blog.6thdensity.net/?p=458
 layout: post
 ---
-Via the always fascinating <a href="http://mutualist.blogspot.com/2006/07/vinay-gupta-on-limited-liability.html">Kevin Carson</a>, I found <a href="http://www.worldchanging.com/archives/004518.html">a great argument</a> for viewing the state grant of <a href="http://en.wikipedia.org/wiki/Limited_liability">limited liability</a> for corporations as a subsidy.  While Vinay Gupta gets a few things technically wrong, he starts a debate we as a society sorely need to have.
+Via the always fascinating <a href="https://mutualist.blogspot.com/2006/07/vinay-gupta-on-limited-liability.html">Kevin Carson</a>, I found <a href="https://www.worldchanging.com/archives/004518.html">a great argument</a> for viewing the state grant of <a href="https://en.wikipedia.org/wiki/Limited_liability">limited liability</a> for corporations as a subsidy.  While Vinay Gupta gets a few things technically wrong, he starts a debate we as a society sorely need to have.
 <blockquote>It surprises me that I can't find an analysis of how large this subsidy to investors is!
 
 Possibly, if this question was analyzed, we would discover that limited liability protection is the largest goverment programme there is, perhaps even larger than the military. Plausible? Well, consider the total size of the stock market - the market capitalization of the entire economy. Now imagine insuring that. Limited liability moves a lot of wealth from creditors to investors in any given year, through bankruptcy proceedings - how much wealth is transferred in a given year?
@@ -24,4 +24,4 @@ Truly productive enterprises don't need gimmicks to function.  Vinay asks whethe
 
 One of the reasons entrepeneurs stand to make money in a free market is that they assume risks - this is natural and good, since it requires players to be fully interested in all the effects of their activities.  In order to have an efficient market of true comparitive advantage where everybody benefits from the calculations inherent in the market, we can't simply ignore risks just because the state says it's OK.  If we do, we should expect what some call "market failure".  However, is the market really to blame if risky, destablilizing, and hazardous behavior is subsidized from the get-go?  And how many of the uncomfortable side-effects of capitalism are really just products of a market that is constantly correcting for faulty programming?
 
-SIDE NOTE: I've been meaning to mention <a href="http://mutualist.blogspot.com/2006/04/corporate-personhood.html">a great post and comment thread on Kevin's blog about corporate personhood</a>, and this seems as good a place as any to mention it.
+SIDE NOTE: I've been meaning to mention <a href="https://mutualist.blogspot.com/2006/04/corporate-personhood.html">a great post and comment thread on Kevin's blog about corporate personhood</a>, and this seems as good a place as any to mention it.

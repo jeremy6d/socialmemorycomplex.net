@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 340
 title: "110632913094239776"
-wordpress_url: http://blog.6thdensity.net/?p=340
+wordpress_url: https://blog.6thdensity.net/?p=340
 layout: post
 ---
-I'm still working on a post about Bush's speech yesterday.  I want to get my points right, as I think everybody is underestimating what may be a telling event in the evolution of America's agenda.  Until then, check out this <a href="http://www.harrybrowne.org/articles/HusseinWasRight.htm">latest article</a> by <a href="http://www.harrybrowne.org">Harry Browne</a>:
+I'm still working on a post about Bush's speech yesterday.  I want to get my points right, as I think everybody is underestimating what may be a telling event in the evolution of America's agenda.  Until then, check out this <a href="https://www.harrybrowne.org/articles/HusseinWasRight.htm">latest article</a> by <a href="https://www.harrybrowne.org">Harry Browne</a>:
 
 >Over and over, George Bush told us that Saddam Hussein was lying, that he was dragging his feet, that Iraq had dangerous weapons, that Hussein was a threat to the whole world...
 
@@ -26,6 +26,6 @@ I'll get back to that post on the Inauguration speech, because an important poin
 
 >It's a sorry state of affairs in America when you can trust the words of Saddam Hussein more than those of your own President.
 
-UPDATE: Arthur at <a href="http://coldfury.com/reason/index.php">The Light of Reason</a> (one of my absolute favorite bloggers of all time) pretty much <a href="http://coldfury.com/reason/index.php?p=113">said what I wanted to say</a> about Bush thinking he is God.  
+UPDATE: Arthur at <a href="https://coldfury.com/reason/index.php">The Light of Reason</a> (one of my absolute favorite bloggers of all time) pretty much <a href="https://coldfury.com/reason/index.php?p=113">said what I wanted to say</a> about Bush thinking he is God.  
 
 The only thing I would add is that freedom is something that comes from within; it cannot be imposed from without.  The Iraqi people will be free when they finally cast off their petty tribal disputes and differences, see one another as (at least potentially) equals, and figure out that life is not a zero sum game.  Unfortunately, this is precisely the mindset that is provoking our occupation.  Wow, what a fucked up place, huh?

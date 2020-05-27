@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 588
 title: What is the sound of one institution campaigning?
-wordpress_url: http://blog.6thdensity.net/?p=588
+wordpress_url: https://blog.6thdensity.net/?p=588
 layout: post
 ---
-Via the Agonist, <a href="http://angrybear.blogspot.com/2007/01/campaign-contributions-free-speech.html">this post</a> by <a href="http://angrybear.blogspot.com">Angry Bear</a> brings up a good point about institutional political speech:
+Via the Agonist, <a href="https://angrybear.blogspot.com/2007/01/campaign-contributions-free-speech.html">this post</a> by <a href="https://angrybear.blogspot.com">Angry Bear</a> brings up a good point about institutional political speech:
 <blockquote>I'm no attorney, but my understanding is that political campaign donations are largely considered to be speech. If I understand correctly, the idea is that the First Amendment not only gives me the right to speak, it also gives me the right to let someone else speak for me. Since I can use my resources to publicize my own speech, I should be able to use my resources to publicize speech someone else makes in my stead.
 
 There's a problem with that… There are costs to speech. For example, I can say I think Greg Mankiw is a hack and there will likely be no consequences. However, if I outright call Greg Mankiw a hack, I can be sued for libel.

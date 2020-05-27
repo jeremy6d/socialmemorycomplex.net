@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 317
 title: "110274689573643515"
-wordpress_url: http://blog.6thdensity.net/?p=317
+wordpress_url: https://blog.6thdensity.net/?p=317
 layout: post
 ---
 You know what?  I'm tired of fighting about politics.

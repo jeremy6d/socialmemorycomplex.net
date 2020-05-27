@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 373
 title: Attention Deficit Democracy by James Bovard
-wordpress_url: http://blog.6thdensity.net/?p=373
+wordpress_url: https://blog.6thdensity.net/?p=373
 layout: post
 ---
-Go read <a href="http://www.lewrockwell.com/bovard/bovard19.html">the introduction</a> from <a href="http://jimbovard.com/blog/">Jim Bovard</a>'s new book, <a href="http://www.amazon.com/gp/product/1403971080/qid=1138632338/sr=8-1/ref=pd_bbs_1/002-1336955-3653663?n=507846&s=books&v=glance">Attention Deficit Democracy</a>, posted at <a href="http://lewrockwell.com">Lew Rockwell</a>:
+Go read <a href="https://www.lewrockwell.com/bovard/bovard19.html">the introduction</a> from <a href="https://jimbovard.com/blog/">Jim Bovard</a>'s new book, <a href="https://www.amazon.com/gp/product/1403971080/qid=1138632338/sr=8-1/ref=pd_bbs_1/002-1336955-3653663?n=507846&s=books&v=glance">Attention Deficit Democracy</a>, posted at <a href="https://lewrockwell.com">Lew Rockwell</a>:
 <blockquote>"Presidents have lied so much to us about foreign policy that they've established almost a common-law right to do so," history professor Leo Ribuffo observed in 1998. From John F. Kennedy lying about the Bay of Pigs debacle in Cuba; to Johnson lying about the Gulf of Tonkin resolution; to Richard Nixon lying about the secret bombing of Cambodia; to Jimmy Carter lying about the Shah of Iran being a progressive, enlightened ruler; to Ronald Reagan lying about terrorism and Iran-Contra; to George H. W. Bush lying about the justifications for the first Gulf War, entire generations have come of age since the ancient time when a president's power was constrained by a duty of candor to the public.
 
 ...

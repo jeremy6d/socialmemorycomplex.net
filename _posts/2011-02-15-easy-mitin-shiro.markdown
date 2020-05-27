@@ -2,7 +2,7 @@
 title: Easy Mit'in Shiro
 tags: ethiopian cooking recipe
 ---
-Tonight I advanced another step in my ethiopian cooking odyssey by finally pulling off one of my favorites: shiro wat. The big problem has always been the key ingredient: mit'in shiro, a staple powder made from roasted chickpeas, fava beans, peas, and other legumes, mixed with berbere. I ordered some from [this place](http://ethiopianspices.com), but I didn't want to wait, so I modified a recipe I'd found and just used chickpea flour. It turned out so well that I wanted to share it with anybody else who'd find it interesting.
+Tonight I advanced another step in my ethiopian cooking odyssey by finally pulling off one of my favorites: shiro wat. The big problem has always been the key ingredient: mit'in shiro, a staple powder made from roasted chickpeas, fava beans, peas, and other legumes, mixed with berbere. I ordered some from [this place](https://ethiopianspices.com), but I didn't want to wait, so I modified a recipe I'd found and just used chickpea flour. It turned out so well that I wanted to share it with anybody else who'd find it interesting.
 
 ### Easy Mit'in Shiro ###
 
@@ -46,4 +46,4 @@ Directions:
 2.	Add the water and boil
 3.	Sprinkle in the mit'in shiro a little at a time, stirring to prevent lumps, until desired consistency is achieved. I like a firmer consistency, but I've seen it served very liquid, more like a stew.
 
-Serve with injera (try [this recipe](http://www.food.com/recipe/authentic-injera-aka-ethiopian-flat-bread-96980), but be easy on yourself - it's tough to pull off). Also, [gomen wat](http://allrecipes.com//Recipe/gomen-wat/Detail.aspx) goes great with it!
+Serve with injera (try [this recipe](https://www.food.com/recipe/authentic-injera-aka-ethiopian-flat-bread-96980), but be easy on yourself - it's tough to pull off). Also, [gomen wat](https://allrecipes.com//Recipe/gomen-wat/Detail.aspx) goes great with it!

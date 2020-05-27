@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 82
 title: Americans suffering = good
-wordpress_url: http://blog.6thdensity.net/?p=82
+wordpress_url: https://blog.6thdensity.net/?p=82
 layout: post
 ---
-<a href="http://www.readjdm.com/">Sober, insightful commentary</a> on the Federal Gov't and why they want Americans to <a href="http://www.cnn.com/2005/LAW/06/06/scotus.medical.marijuana.ap/">suffer</a>:<blockquote>Why is it the American government so hates average Americans?
+<a href="https://www.readjdm.com/">Sober, insightful commentary</a> on the Federal Gov't and why they want Americans to <a href="https://www.cnn.com/2005/LAW/06/06/scotus.medical.marijuana.ap/">suffer</a>:<blockquote>Why is it the American government so hates average Americans?
 
 I'm not really being facetious here. I think a strong case can be made, based on this decision, that the government actually hates and despises ordinary people-that they, in fact, wish pain on us.
 

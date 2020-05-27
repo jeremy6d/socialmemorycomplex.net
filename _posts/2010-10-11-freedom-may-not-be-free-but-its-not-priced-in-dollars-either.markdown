@@ -4,7 +4,7 @@ category: leftlibertarian
 tags: economics subjectivism marginalism libertarianism vulgar-libertarianism
 ---
 
-I've tried to chew a bit on Bryan Caplan's [post](http://econlog.econlib.org/archives/2010/09/why_i_am_not_a_3.html) about why he is not a left libertarian before I raced off to refute it point by point. That's because I suspect no refutation is necessary; Caplan throws into rather stark relief precisely why left libertarianism has more to do with attitude and temperament than blatant differences on principle.
+I've tried to chew a bit on Bryan Caplan's [post](https://econlog.econlib.org/archives/2010/09/why_i_am_not_a_3.html) about why he is not a left libertarian before I raced off to refute it point by point. That's because I suspect no refutation is necessary; Caplan throws into rather stark relief precisely why left libertarianism has more to do with attitude and temperament than blatant differences on principle.
 
 Caplan argues over and over in his article that certain left libertarian arguments do not make sense because, if you consider the issues from an economic point of view, everything balances out. In doing so, he glosses over a key difference between his approach and that of left libertarians generally; many of us find the typical libertarian reduction of all matters of justice, culture, etc. to economic calculation totally warped and inaccurate.  More and more of us are rejecting a rigid market fundamentalism that seems to discount any issue that cannot be modeled economically. There's more to human flourishing than marginal value.
 

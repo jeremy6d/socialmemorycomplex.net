@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 253
 title: "109148471449938311"
-wordpress_url: http://blog.6thdensity.net/?p=253
+wordpress_url: https://blog.6thdensity.net/?p=253
 layout: post
 ---
 Well, this isn't the greatest week ever, but at the very least people will stop talking about that big taxpayer funded party they held up in Boston.  Christ.

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 274
 title: "109811196339541127"
-wordpress_url: http://blog.6thdensity.net/?p=274
+wordpress_url: https://blog.6thdensity.net/?p=274
 layout: post
 ---
 Whoa, another week or two's gone by.  Time to blog in a cynical, meaningless manner.

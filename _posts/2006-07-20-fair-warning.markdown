@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 480
 title: Fair warning
-wordpress_url: http://blog.6thdensity.net/?p=480
+wordpress_url: https://blog.6thdensity.net/?p=480
 layout: post
 ---
 Just started a new project at work, and it looks pretty intense.  I may not be blogging as regularly.  I'll try and write on the weekends at the very least.

@@ -5,7 +5,7 @@ category: leftlibertarian
 tags: voting anarchism statism institutions philosophy
 ---
 
-(This article was originally written for [ALLiance: A Journal of Theory and Strategy](http://alliancejournal.tumblr.com/).)
+(This article was originally written for [ALLiance: A Journal of Theory and Strategy](https://alliancejournal.tumblr.com/).)
 
 "If voting changed anything, they'd make it illegal," declared Emma Goldman in a ringing indictment of the feeble mechanism by which the state claims to be restrained and directed. Of course, in invoking this quote anarchists argue against counting upon elections to change the status quo. We aren't going to bring about the voluntary society by listening to politicians, casting votes for them, and pressuring them to abolish their own offices. The statist means and the anarchist ends are clearly opposed.
 

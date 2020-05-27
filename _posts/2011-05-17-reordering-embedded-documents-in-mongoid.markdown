@@ -3,9 +3,9 @@ title: Reordering embedded documents in Mongoid
 tags: mongodb mongoid ruby rails
 ---
 
-One of the great things about embedded documents in [MongoDB](http://mongodb.org) is that you can design your "schema" according to how you're going to use the data. Ordered lists of objects is a great use for embedded documents, as you can just shove objects in an array and read them out in order. This allows one to dispense with the unpleasantness of "acts_as_list"-style approaches where you have to juggle a "position" field and do an explicit sort.
+One of the great things about embedded documents in [MongoDB](https://mongodb.org) is that you can design your "schema" according to how you're going to use the data. Ordered lists of objects is a great use for embedded documents, as you can just shove objects in an array and read them out in order. This allows one to dispense with the unpleasantness of "acts_as_list"-style approaches where you have to juggle a "position" field and do an explicit sort.
 
-But what if you want to reorder the embedded documents? Should be simple to sort an array. Our <abbr title="Object Document Mapper">ODM</abbr> - [Mongoid](http://mongoid.org) in this case - would _never_ represent the embedded collection as an array and not let us work with it as an array, right?
+But what if you want to reorder the embedded documents? Should be simple to sort an array. Our <abbr title="Object Document Mapper">ODM</abbr> - [Mongoid](https://mongoid.org) in this case - would _never_ represent the embedded collection as an array and not let us work with it as an array, right?
 
     class Container
     	include Mongoid::Document

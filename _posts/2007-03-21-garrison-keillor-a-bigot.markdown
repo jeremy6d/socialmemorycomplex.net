@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 656
 title: Garrison Keillor a Bigot?
-wordpress_url: http://blog.6thdensity.net/?p=656
+wordpress_url: https://blog.6thdensity.net/?p=656
 layout: post
 ---
-It's possible.  But it's going to take more than <a href="http://www.salon.com/opinion/feature/2007/03/14/keillor/">one article</a> for me to make that judgment.  And it's going to have to say things that haven't been jokes a million times over on Will and Grace.  Battlepanda <a href="http://battlepanda.blogspot.com/2007/03/garrison-keillor-creep.html">losing her shit</a> over this doesn't surprise me.  Dan Savage's <a href="http://www.thestranger.com/blog/2007/03/fuck_garrison_keillor">even more over the top reaction</a> does, since he typically exhibits a thicker skin than most.
+It's possible.  But it's going to take more than <a href="https://www.salon.com/opinion/feature/2007/03/14/keillor/">one article</a> for me to make that judgment.  And it's going to have to say things that haven't been jokes a million times over on Will and Grace.  Battlepanda <a href="https://battlepanda.blogspot.com/2007/03/garrison-keillor-creep.html">losing her shit</a> over this doesn't surprise me.  Dan Savage's <a href="https://www.thestranger.com/blog/2007/03/fuck_garrison_keillor">even more over the top reaction</a> does, since he typically exhibits a thicker skin than most.
 
 Of course, everybody's entitled to their opinion, and mine must be weighed by the fact that I love A Prairie Home Companion and grew up with it.  It's not just funny and entertaining in a gentle way; it reminds me of childhood, honestly.  So bear that in mind whilst I defend Garry's honor.
 

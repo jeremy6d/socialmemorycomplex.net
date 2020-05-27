@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 332
 title: "110565091094359246"
-wordpress_url: http://blog.6thdensity.net/?p=332
+wordpress_url: https://blog.6thdensity.net/?p=332
 layout: post
 ---
 <img src='./pics/bush_hands.jpg'/>

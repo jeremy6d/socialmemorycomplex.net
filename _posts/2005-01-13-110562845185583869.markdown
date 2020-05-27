@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 329
 title: "110562845185583869"
-wordpress_url: http://blog.6thdensity.net/?p=329
+wordpress_url: https://blog.6thdensity.net/?p=329
 layout: post
 ---
 Today I am thoughtful.  I just got out of meeting at our customer's office.  And I swear that every surname on every office was a different first letter followed by "-uong".  "Luong", "Chuong", "Duong".  It's just kinda wierd.

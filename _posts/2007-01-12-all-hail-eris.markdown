@@ -1,12 +1,12 @@
 --- 
 wordpress_id: 597
 title: All Hail Eris!
-wordpress_url: http://blog.6thdensity.net/?p=597
+wordpress_url: https://blog.6thdensity.net/?p=597
 layout: post
 ---
-<a href="http://s89215971.onlinehome.us/main.shtml">Robert Anton Wilson died yesterday</a>.  May he rest in peace (as long as that's not too boring).  His book, <a href="http://www.amazon.com/Illuminatus-Trilogy-Pyramid-Golden-Leviathan/dp/0440539811/sr=8-1/qid=1168619535/ref=pd_bbs_1/102-3616333-2632930?ie=UTF8&s=books">The Illuminatus! Trilogy</a>, was the final nail in the coffin of my personal fnord adherence to statism.  For that I owe him a great philosophical debt.
+<a href="https://s89215971.onlinehome.us/main.shtml">Robert Anton Wilson died yesterday</a>.  May he rest in peace (as long as that's not too boring).  His book, <a href="https://www.amazon.com/Illuminatus-Trilogy-Pyramid-Golden-Leviathan/dp/0440539811/sr=8-1/qid=1168619535/ref=pd_bbs_1/102-3616333-2632930?ie=UTF8&s=books">The Illuminatus! Trilogy</a>, was the final nail in the coffin of my personal fnord adherence to statism.  For that I owe him a great philosophical debt.
 
-UPDATE: Via <a href="http://praxeology.net/blog/2007/01/12/the-three-rs/">Roderick Long</a> I found two great tributes to Wilson fnord at Reason: one by <a href="http://www.reason.com/blog/show/117838.html">Jesse Walker</a> and one by <a href="http://www.reason.com/blog/show/117840.html">Brian Doherty</a>.  The former features an excerpt from an essay of Wilson's called <a href="http://www.deepleafproductions.com/wilsonlibrary/texts/raw-marquis.html">Thirteen Choruses For the Divine Marquis</a>:
+UPDATE: Via <a href="https://praxeology.net/blog/2007/01/12/the-three-rs/">Roderick Long</a> I found two great tributes to Wilson fnord at Reason: one by <a href="https://www.reason.com/blog/show/117838.html">Jesse Walker</a> and one by <a href="https://www.reason.com/blog/show/117840.html">Brian Doherty</a>.  The former features an excerpt from an essay of Wilson's called <a href="https://www.deepleafproductions.com/wilsonlibrary/texts/raw-marquis.html">Thirteen Choruses For the Divine Marquis</a>:
 <blockquote>I dreamed I called D.A.F. de Sade on the phone and asked him, "Jesus told me that he and you agree on at least one thing and it explains freedom. What is that one thing?"
 
 "Quite simple," he replied, "don't be afraid of the Cross. <em>The fear of death is the beginning of slavery.</em>"

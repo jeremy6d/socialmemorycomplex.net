@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 298
 title: "110003770855394050"
-wordpress_url: http://blog.6thdensity.net/?p=298
+wordpress_url: https://blog.6thdensity.net/?p=298
 layout: post
 ---
-<a href="http://fairuse.1accesshost.com/news2/age14.htm">This is a great article with a good point:</a><blockquote>Surely we have not been reduced to arguing that we are not as bad as terrorists, writes Waleed Aly.
+<a href="https://fairuse.1accesshost.com/news2/age14.htm">This is a great article with a good point:</a><blockquote>Surely we have not been reduced to arguing that we are not as bad as terrorists, writes Waleed Aly.
 
 Too many innocent people are dying in Iraq. A recent report, in the medical journal The Lancet, estimates 100,000 Iraqi civilians have been killed since the beginning of the US-led invasion. Half of them are women and children. Almost all were killed by coalition air strikes.
 
@@ -12,7 +12,7 @@ Take a minute to think about the enormity of this human cost. Think of it as Sep
 
 Though it wildly exceeds all previous figures, The Lancet estimate is credible, and perhaps even conservative, according to independent statisticians who analysed the data and found the report's methodologically sound.
 
-But what if it is not? Even the lowest estimate, unsurprisingly that of the British Foreign Secretary, places the number of civilian deaths at 10,000. The popular website http://www.iraqbodycount.com puts the figure at a minimum of 14,000. We are still talking about four times the number of September 11 casualties. That's eight planes and eight towers.
+But what if it is not? Even the lowest estimate, unsurprisingly that of the British Foreign Secretary, places the number of civilian deaths at 10,000. The popular website https://www.iraqbodycount.com puts the figure at a minimum of 14,000. We are still talking about four times the number of September 11 casualties. That's eight planes and eight towers.
 
 Surely now, the governments that took us to this war and we, as people who are happy to re-elect them, must face up to our culpability for this carnage. We claim to hold that the lives of civilians are sacrosanct. We assert that the fabric of humanity is torn with every death of every innocent civilian. Indeed, that is why terrorism sickens us.
 

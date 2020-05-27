@@ -1,14 +1,14 @@
 --- 
 wordpress_id: 582
 title: Smarter racists, please
-wordpress_url: http://blog.6thdensity.net/?p=582
+wordpress_url: https://blog.6thdensity.net/?p=582
 layout: post
 ---
 In my attempt to cope with the retardness of RTG, I am reminded the "prayer of the true reformer" mentioned by John Stewart Mill:
 <blockquote>Lord, enlighten thou our enemies ... Sharpen their wits, give acuteness to their perceptions, and consecutiveness and clearness to their reasoning powers. We are in danger from their folly, not from their wisdom: their weakness is what fills us with apprehension, not their strength.</blockquote>
-I'm going to have to start becoming more religious, because <a href="http://rightthinkinggirl.com/2006/11/21/reforming-islam/">her latest post</a> literally made me bang my head on my table in a vain attempt to stop the dumbness from hurting me. Her reasoning makes me want to be dumber, to silence the shrill screeching of sheer airhead bigotry, to avoid comprehending the degree of careless stupefaction displayed. However, I consider it my duty to lampoon her posts, if for no other reason than to demonstrate the logical consequence of politics as a fashion statement.
+I'm going to have to start becoming more religious, because <a href="https://rightthinkinggirl.com/2006/11/21/reforming-islam/">her latest post</a> literally made me bang my head on my table in a vain attempt to stop the dumbness from hurting me. Her reasoning makes me want to be dumber, to silence the shrill screeching of sheer airhead bigotry, to avoid comprehending the degree of careless stupefaction displayed. However, I consider it my duty to lampoon her posts, if for no other reason than to demonstrate the logical consequence of politics as a fashion statement.
 
-<!--more-->Her post is concerned with Ayaan Hirsi Ali, a Dutch MP who is outspoken against extremist Islam. Note the word, "extremist". The <a href="http://www.opinionjournal.com/wsj/?id=110008951">WSJ article</a> by Bret Stephens in which Ali is quoted explains the concern that liberals have when criticizing Islam:
+<!--more-->Her post is concerned with Ayaan Hirsi Ali, a Dutch MP who is outspoken against extremist Islam. Note the word, "extremist". The <a href="https://www.opinionjournal.com/wsj/?id=110008951">WSJ article</a> by Bret Stephens in which Ali is quoted explains the concern that liberals have when criticizing Islam:
 <blockquote>Liberals especially are reluctant to criticize the content of Islam because they fear that it is tantamount to criticizing Muslims as a group, and is therefore almost a species of racism.</blockquote>
 The point being that one should take care to criticize the institution and people's participation in distasteful acts without unnecessarily condemning a whole group through guilt by association.  This is a distinction that liberals are careful to make.  Islam is only dangerous insofar as some of its adherents are violent, not because it is composed of people who may have skin darker than standard Aryan flesh tone.
 

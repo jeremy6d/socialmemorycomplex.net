@@ -5,7 +5,7 @@ tags: left-libertarian personal site-news
 category: leftlibertarian
 ---
 
-Hope everybody had a great New Years Eve! Tasha and I celebrated at an awesome performance by [Brothers Past](http://brotherspast.com). The second set consisted of all the songs from their forthcoming album, most of which are brand spanking new. So that was exciting. We also had a great experience at the gorgeous [Morris House Hotel](http://morrishousehotel.com), and we hope to stay longer the next time we're there.
+Hope everybody had a great New Years Eve! Tasha and I celebrated at an awesome performance by [Brothers Past](https://brotherspast.com). The second set consisted of all the songs from their forthcoming album, most of which are brand spanking new. So that was exciting. We also had a great experience at the gorgeous [Morris House Hotel](https://morrishousehotel.com), and we hope to stay longer the next time we're there.
 
 Just wanted to throw some news items out there. As you may have noticed, commenting is now available via Disqus. I plan on importing the old posts and comments over the next month. Let me know if you experience any problems.
 

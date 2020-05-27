@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 350
 title: "110788774495832934"
-wordpress_url: http://blog.6thdensity.net/?p=350
+wordpress_url: https://blog.6thdensity.net/?p=350
 layout: post
 ---
-After considering the consequences of <a href="http://rightthinkinggirl.typepad.com/">Right Thinking Girl's</a> ridiculous <a href="http://rightthinkinggirl.typepad.com/right_thinking_girl/2005/02/why_every_liber.html">position on treason</a>, I've decided that the current popularity of intolerant politics deserves a thoughtful and organized rebuttal. This is not an attack on any people at that blog, but rather a narrow attack upon an idea that I think is wrong on its own merits.
+After considering the consequences of <a href="https://rightthinkinggirl.typepad.com/">Right Thinking Girl's</a> ridiculous <a href="https://rightthinkinggirl.typepad.com/right_thinking_girl/2005/02/why_every_liber.html">position on treason</a>, I've decided that the current popularity of intolerant politics deserves a thoughtful and organized rebuttal. This is not an attack on any people at that blog, but rather a narrow attack upon an idea that I think is wrong on its own merits.
 
 Here is the argument that I see RTG making (you can check the above links to her post and comments to check if I'm getting this right):
 

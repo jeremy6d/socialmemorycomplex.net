@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 569
 title: Innocent bugs in voting machines?
-wordpress_url: http://blog.6thdensity.net/?p=569
+wordpress_url: https://blog.6thdensity.net/?p=569
 layout: post
 ---
-I'm starting to really enjoy Tim Lee's blogging over at the Technology Liberation Front. He <a href="http://www.techliberation.com/archives/041072.php">tackles</a> problems with electronic voting machines that have already occurred in Florida where you press the name of one candidate and the other is registered:
+I'm starting to really enjoy Tim Lee's blogging over at the Technology Liberation Front. He <a href="https://www.techliberation.com/archives/041072.php">tackles</a> problems with electronic voting machines that have already occurred in Florida where you press the name of one candidate and the other is registered:
 <blockquote>...my guess is that the touch-sensitive electronics are mis-aligned with the screen, so that the machine registers touches as being offset from their actual location.
 
 For example, suppose that the screen is mis-aligned such that each touch is registered as being one inch above its actual position on the screen. In that case, if the Republican candidate's button were an inch above the Democratic candidate's button, pressing the screen in the center of the Democrat's button would register as a press in the center of the Republican button. To vote for the Democrat, you would have to touch the screen an inch below the Democrat's button. Voter who weren't paying attention would accidentally vote for the Republican without noticing.</blockquote>

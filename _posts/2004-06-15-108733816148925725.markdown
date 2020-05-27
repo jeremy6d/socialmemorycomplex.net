@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 230
 title: Disclaimer or Digression?  You decide.
-wordpress_url: http://blog.6thdensity.net/?p=230
+wordpress_url: https://blog.6thdensity.net/?p=230
 layout: post
 ---
 Y'know, if all you want to do is bitch, then get the hell out of this country.  We don't want you here.

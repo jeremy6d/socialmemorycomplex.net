@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 231
 title: Disclosure or Digression?  You decide.
-wordpress_url: http://blog.6thdensity.net/?p=231
+wordpress_url: https://blog.6thdensity.net/?p=231
 layout: post
 ---
-Whoa, apparently Ike met with aliens, [says the Post](http://www.washingtonpost.com/ac2/wp-dyn/A53203-2004Feb18?language=printer):
+Whoa, apparently Ike met with aliens, [says the Post](https://www.washingtonpost.com/ac2/wp-dyn/A53203-2004Feb18?language=printer):
 >These aliens -- nicknamed "Nordics" in UFO circles because they resemble Scandinavian humans -- traveled to Edwards from another solar system in a flying saucer and, Salla says, they spoke to Eisenhower.
 >"There was telepathic communication," says Salla, 45, as he sits in his suburban Falls Church living room. "It's as though you're hearing a person but they're not speaking."
 >The "Nordics" offered to share their superior technology and their spiritual wisdom with Ike if he would agree to eliminate America's nuclear weapons. 

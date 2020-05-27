@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 370
 title: Quote of the day
-wordpress_url: http://blog.6thdensity.net/?p=370
+wordpress_url: https://blog.6thdensity.net/?p=370
 layout: post
 ---
-<a href="http://praxeology.net/unblog01-06.htm#33">From Roderick Long</a> (yes, I know, these quotes just keep getting longer and longer):
+<a href="https://praxeology.net/unblog01-06.htm#33">From Roderick Long</a> (yes, I know, these quotes just keep getting longer and longer):
 <blockquote>Once when I was 12 or so I went up to the checkout with six comic books I'd picked out, only to realise I had just enough money to buy four. So the clerk at the cash register started to pick two at random to put back, as though I would have no preference as to which four of the six to keep. I was amazed.
 
 When I was in high school I intended to become a novelist. One of the counselors thought this was a great idea, and advised me, "take a look at which novels are the best sellers, and try to write novels like that" -- as though I might want to be a novelist without having a preference for writing any particular sort of novels. Once again I was amazed.

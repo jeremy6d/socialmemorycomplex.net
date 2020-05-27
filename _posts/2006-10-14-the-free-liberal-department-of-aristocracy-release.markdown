@@ -1,14 +1,14 @@
 --- 
 wordpress_id: 541
 title: Libertarianism is egalitarian, if you allow it to be
-wordpress_url: http://blog.6thdensity.net/?p=541
+wordpress_url: https://blog.6thdensity.net/?p=541
 layout: post
 ---
-Via <a href="http://freedomdemocrats.org/node/904">John at Freedom Democrats</a>, Carl Milsted describes one place <a href="http://www.freeliberal.com/archives/002355.html">where the egalitarian Left went wrong:</a>
+Via <a href="https://freedomdemocrats.org/node/904">John at Freedom Democrats</a>, Carl Milsted describes one place <a href="https://www.freeliberal.com/archives/002355.html">where the egalitarian Left went wrong:</a>
 <blockquote>The modern day wealth subsidies come not from an explicit desire to help the rich, but from attempts to stimulate the economy during the Great Depression. John Maynard Keynes prescribed a set of anti-savings measures in order to stimulate the economy. The Left took his ideas to heart since they provided an excuse for welfare programs -- the poor tend to spend what they get, so taking from the rich and giving to the poor leads to increased spending.
 
 What the Left failed to realize is that the rest of Keynes' agenda consists of subsidies for the rich! If the government consumes savings, the demand for capital goes up. If you discourage workers from saving via payroll taxes and a promise of retirement income, then the supply of capital goes down. The end result is a greater return on investment for those who have money to invest.</blockquote>
-The libertarian Democrat <a href="http://freedomdemocrats.org/node/904#comment-2464">response</a> by Logan Ferree illustrates the difference between minarchism and anarchism (hint: it's one I've descibed <a href="http://blog.6thdensity.net/?p=461">before</a>):
+The libertarian Democrat <a href="https://freedomdemocrats.org/node/904#comment-2464">response</a> by Logan Ferree illustrates the difference between minarchism and anarchism (hint: it's one I've descibed <a href="https://blog.6thdensity.net/?p=461">before</a>):
 <blockquote>Ideally, if capital is so scarce it would make sense for people to try to save more. I think the biggest problem is that we're trapped in a consumer society that discourages saving not through rational appeal but emotional appeal.
 
 I can see his point that an egalitarian society would have high savings and the like, but I can't see how this could be sustained except through a culture that encouraged saving at a potentially irrational level.</blockquote>
@@ -19,6 +19,6 @@ I don't necessarily have a problem with this analysis, but I <em>do</em> think i
 	<li>Ferree argues that our consumption based economy can't handle popularly high savings rates.  So is his issue with the amount of change our society will have to endure?  Perhaps that consumption is fueled by overcentralized industrial production, made possible by subsidized capital (among other forms of welfare)?  Distributed, mutual capital markets charging competitive, lower rates could still fund new enterprises and ensure liquidity, although perhaps not at level sufficient for megacorporate ventures.  In the immortal words of Tyrone Biggums, "is that so wrong?!?!"</li>
 	<li>Savings is discouraged not simply through government policies but also through regulations that cartelize the ability to lend.  When one has to go through monopoly banks to get a return on one's money, the power balance is safely shifted away from the little guy.  Banks also have Federal Reserve privileges for ensuring far more liquidity to offset their errors than small, potentially competitive lendors.</li>
 </ol>
-I don't want to come down on Ferree too hard, because I think <a href="http://www.dailykos.com/storyonly/2006/10/10/94956/400">his heart's in the right place</a>.  However, his hesitancy to endorse an authentic, egalitarian, and democratic distribution of capital - by simply libertarian means - does make me wonder how much Democrat is in that libertarian Democrat title of his.  I'd be very interested in his response to this: is his priority a particular socioeconomic outcome and whatever policies get us there, or policies that are fairer and freer and whatever outcomes those policies result?
+I don't want to come down on Ferree too hard, because I think <a href="https://www.dailykos.com/storyonly/2006/10/10/94956/400">his heart's in the right place</a>.  However, his hesitancy to endorse an authentic, egalitarian, and democratic distribution of capital - by simply libertarian means - does make me wonder how much Democrat is in that libertarian Democrat title of his.  I'd be very interested in his response to this: is his priority a particular socioeconomic outcome and whatever policies get us there, or policies that are fairer and freer and whatever outcomes those policies result?
 
 None of this, however, is to say that I do not still owe him a beer.

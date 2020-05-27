@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 557
 title: Stupid Statist Politics
-wordpress_url: http://blog.6thdensity.net/?p=557
+wordpress_url: https://blog.6thdensity.net/?p=557
 layout: post
 ---
-Over at the Separation of Powers Blog, <a href="http://tsopb.blogspot.com/2006/10/my-own-sputtering-rage.html#comments">Sam is filled with "sputtering rage"</a> for disillusioned conservatives who  disapprove of the big government, anti-liberty Republican Party:
+Over at the Separation of Powers Blog, <a href="https://tsopb.blogspot.com/2006/10/my-own-sputtering-rage.html#comments">Sam is filled with "sputtering rage"</a> for disillusioned conservatives who  disapprove of the big government, anti-liberty Republican Party:
 <blockquote>Sitting out this election has been characterized (by me) as tantamount to taking your ball and bat and not playing because the other players would let you pitch. This is a bit of a mischaracterization however. It is more like taking your bat and beating yourself over the head to show your disappointment at not being able to pitch.</blockquote>
 Bad metaphor.  It's not a case of the other players simply not letting you pitch.  It's a case of getting benched for the entire season.  Should you support a team that does that to you?  Nobody's saying you should go sit on the other team's bench, but stop wasting your time and energy on people who have no use for you other than a benchwarmer.
 

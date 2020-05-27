@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 287
 title: "109944163589361089"
-wordpress_url: http://blog.6thdensity.net/?p=287
+wordpress_url: https://blog.6thdensity.net/?p=287
 layout: post
 ---
 <font color="#9999ff">Here's a post I did on a message board I frequent, but I thought I'd share it with you.  Names have been changed to protect the innocent.  I was responding to this:</font>

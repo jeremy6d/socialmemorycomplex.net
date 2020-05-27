@@ -4,7 +4,7 @@ subtitle: Where the Entrepreneur, the Consortium, and the Union Meet
 tags: business entrepreneurship labor unionism development
 ---
 
-I had a great time visiting my good friend [Jim](http://someguysblog.com) in Charlotte this past weekend while the wives were selling crafts at the Country Living show in Atlanta. Many hijinks ensued, but one of the most rewarding was our discussion of different approaches to co-working, as well as expansions on the concept that could redefine how we work. We come at the conversation from two different angles, and I want to give Jim the opportunity to explain his vision, so I won't go into too much detail about his particular suggestions.
+I had a great time visiting my good friend [Jim](https://someguysblog.com) in Charlotte this past weekend while the wives were selling crafts at the Country Living show in Atlanta. Many hijinks ensued, but one of the most rewarding was our discussion of different approaches to co-working, as well as expansions on the concept that could redefine how we work. We come at the conversation from two different angles, and I want to give Jim the opportunity to explain his vision, so I won't go into too much detail about his particular suggestions.
 
 It suffices to say that Jim has been co-working at a local space for some time now. Where he sees opportunity is in an organization that could take care of the administration - invoicing, taxes, space provisioning - leaving freelancers, small proprietors, and other independent developers free to pursue their business. The organization could be run on the mutual model, where all the "clients" are owners.
 

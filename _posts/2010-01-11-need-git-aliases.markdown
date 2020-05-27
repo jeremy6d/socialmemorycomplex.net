@@ -3,7 +3,7 @@ layout: post
 title: Need git aliases?
 tags: git
 ---
-I've used git on many other people's computers and they never have the shortcuts that make git nimble for me to use. Until just now, I had know idea how those aliases were set. From a cursory reading of [the docs](http://www.kernel.org/pub/software/scm/git/docs/git-config.html), I gathered that you can edit your aliases directly with `git config --global -e`. For example:
+I've used git on many other people's computers and they never have the shortcuts that make git nimble for me to use. Until just now, I had know idea how those aliases were set. From a cursory reading of [the docs](https://www.kernel.org/pub/software/scm/git/docs/git-config.html), I gathered that you can edit your aliases directly with `git config --global -e`. For example:
        
 		[merge]
 			tool = opendiff

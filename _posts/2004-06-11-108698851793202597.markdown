@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 226
 title: "108698851793202597"
-wordpress_url: http://blog.6thdensity.net/?p=226
+wordpress_url: https://blog.6thdensity.net/?p=226
 layout: post
 ---
-Who ended the Cold War?  <a href="http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040610/COMARTIN10/TPComment/TopStories">Gorbachev did</a>.
+Who ended the Cold War?  <a href="https://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040610/COMARTIN10/TPComment/TopStories">Gorbachev did</a>.
 
 So there.
 

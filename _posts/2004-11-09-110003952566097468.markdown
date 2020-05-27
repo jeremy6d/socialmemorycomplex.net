@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 299
 title: "110003952566097468"
-wordpress_url: http://blog.6thdensity.net/?p=299
+wordpress_url: https://blog.6thdensity.net/?p=299
 layout: post
 ---
 Does anybody on the Internet *not* read Andrew Sullivan?

@@ -1,10 +1,10 @@
 --- 
 wordpress_id: 279
 title: "109839427905433233"
-wordpress_url: http://blog.6thdensity.net/?p=279
+wordpress_url: https://blog.6thdensity.net/?p=279
 layout: post
 ---
-I'm sorry, I know that I come off as <a href="http://www.harrybrowne.com">Harry Browne</a>'s biggest fan, but the guy really does cut through the bullshit.  And <a href="http://www.harrybrowne.org/articles/PeaceToTheWorld.htm">his assessment of America's track record</a> is stunning:<blockquote><div align="center"><u>World War I</u></div>
+I'm sorry, I know that I come off as <a href="https://www.harrybrowne.com">Harry Browne</a>'s biggest fan, but the guy really does cut through the bullshit.  And <a href="https://www.harrybrowne.org/articles/PeaceToTheWorld.htm">his assessment of America's track record</a> is stunning:<blockquote><div align="center"><u>World War I</u></div>
 <b>Objective:</b> Bring democracy to all the countries of the world, self-determination for everyone, and a new world order that would end wars forever. 
 
 <b>Result:</b> American entry into the war prevented the two sides from negotiating a just end to the war. Instead, the Allies saw American entry as decisive, and so they rejected all peace overtures, fought the war to a bitter end, won the war, and imposed devastating, humiliating peace terms on Germany.

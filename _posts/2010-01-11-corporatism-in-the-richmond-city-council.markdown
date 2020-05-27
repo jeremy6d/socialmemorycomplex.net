@@ -6,7 +6,7 @@ category: leftlibertarian
 ---
 Apparently Richmond City Council wants to pay for the privilege of having my neighborhood hurt. Please come to the City Council meeting at 6:00 pm tonight to stop the council from using Federal stimulus dollars to pay taxes on a private developer's riverfront condo complex. It's such a good investment, the developer doesn't even want to risk all of his own money!
 
-[More at springhillrva.org](http://springhillrva.org/index.php/2010/01/urgent-development-rears-ugly-head-again/).
+[More at springhillrva.org](https://springhillrva.org/index.php/2010/01/urgent-development-rears-ugly-head-again/).
 
 There are many reasons to oppose this scheme. Governments like city council have too often used taxpayer-financed carrots to entice developers into making precisely the bad decisions that led to an oversupply and crash in the real estate market. If the project fails, will these City Council members be around to reimburse the taxpayers for either the stimulus money or the project tax revenue we lost by financing this? No, they'll be several years out of office by then, in all likelihood. Let's not insult citizen intelligence with pledges of accountability, now.
 

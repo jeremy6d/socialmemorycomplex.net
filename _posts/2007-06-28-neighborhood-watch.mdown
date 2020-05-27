@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 757
 title: Reflections on a Neighborhood Watch Meeting
-wordpress_url: http://blog.6thdensity.net/?p=757
+wordpress_url: https://blog.6thdensity.net/?p=757
 layout: post
 ---
 ![Image not found](/assets/robber-shot.jpg)Recently I have discovered a renewed interest in left libertarian and anarchist concepts of community solidarity. My interests lie in finding ways to build community relationships and institutions that devolve important decisions to the interpersonal, neighborly level - rather than counting on government bureaucrats and politicians to fix all our problems. I believe that this reliance on an outside force to manage us - a top-down, progressive-era holdover - has damaged what was once a bottom-up, dynamic consensus. This breakdown in neighborliness is partially responsible for many of our present social ills, and reflects the dark side of the centralized, managerial State that so many Americans seem to want.

@@ -5,7 +5,7 @@ tags: ruby left-libertarian
 category: leftlibertarian
 ---
 
-[leftlibertarian.org](http://leftlibertarian.org) is back! I've moved the site off WordPress, which was giving me too many problems. The site should be simple enough - there's no commenting, and the core functionality has nothing to do with _creating_ content, only publishing it. So I started thinking about why I was going out and gathering / parsing feeds when Google Reader does it perfectly well, and has an API I can access.
+[leftlibertarian.org](https://leftlibertarian.org) is back! I've moved the site off WordPress, which was giving me too many problems. The site should be simple enough - there's no commenting, and the core functionality has nothing to do with _creating_ content, only publishing it. So I started thinking about why I was going out and gathering / parsing feeds when Google Reader does it perfectly well, and has an API I can access.
 
 The new site has a Google Reader account associated with it (leftlibertarian.org). Instead of going out to a list of feeds, downloading them, databasing posts, and generating web pages on requests, I just grab a JSON encoded version of my reading list as if my site were a Google Reader user and generate pages off of that! Super fast, super lightweight, super easy (once I figured out how I wanted to go about it).
 
