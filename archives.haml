@@ -9,6 +9,6 @@ subtitle: Social Memory Complex
     - month_string = month.first.date.strftime("%B")
     %h3== #{month_string} #{year_string}
     %ul{ :id => ["ul", month_string, year_string].join("-") }
-    - for post in month
-      %li{ :class => [month_string, year_string].join(" "), :id => ["li", month_string, year_string].join("-") }
-        = link_to title_or_excerpt(post), post.url
+      - for post in month
+        %li{ :class => [month_string, year_string].join(" ") }
+          != link_to title_or_excerpt(post), post.url

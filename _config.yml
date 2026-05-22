@@ -2,14 +2,17 @@ destination: ./_site
 auto: false
 lsi: false
 server_port: 4000
-pygments: true
-markdown: rdiscount
 permalink: pretty
+markdown_ext: markdown,mkdown,mkdn,mkd,md,mdown
 site_title: Social Memory Complex
-sass: true
 haml: true
 paginate: 15
+paginate_path: "/page:num"
 tag_page_layout: tag_page
 tag_page_dir: tags
 tag_feed_layout: tag_feed
 tag_feed_dir: tags
+plugins:
+  - jekyll-paginate
+sass:
+  style: compressed

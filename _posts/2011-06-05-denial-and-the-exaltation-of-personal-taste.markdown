@@ -2,7 +2,7 @@
 title: Denial and the Exaltation of Personal Taste
 subtitle: We all fetishize our preferences, but we can do better politics than that
 category: leftlibertarian
-tags: market_fundamentalism, libertarianism, mises_institute
+tags: market-fundamentalism libertarianism mises-institute
 ---
 ### Taco Hell ###
 The Mises Institute's Jeffrey Tucker recently wrote a post entitled [Fast Food Is Beautiful](https://blog.mises.org/17177/fast-food-is-beautiful/). I know. Here's Tucker's definition of beauty as excerpted from the [Bloomberg article](https://www.businessweek.com/magazine/content/11_20/b4228064581642.htm) he was writing about:

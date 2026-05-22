@@ -6,15 +6,15 @@
     %meta{:name => 'description', :content => get_description(page) }
     %link{:href => "/smc.css", :media => "all", :rel => "stylesheet", :type => "text/css"}
     - if tag = page.fetch('tag', false)
-      %link{ :href => "http://socialmemorycomplex.net/tags/#{tag}.xml", :rel => "alternate", :title => "Social Memory Complex: #{tag}", :type => "application/atom+xml" }
+      %link{ :href => "https://www.socialmemorycomplex.net#{tag_feed_url(tag)}", :rel => "alternate", :title => "Social Memory Complex: #{tag}", :type => "application/atom+xml" }
     - else
-      %link{ :href => "http://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
-      %link{ :href => "http://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
+      %link{ :href => "https://feeds.feedburner.com/SocialMemoryComplex", :rel => "alternate", :title => "Social Memory Complex: Articles", :type => "application/atom+xml" }
+      %link{ :href => "https://feeds.feedburner.com/SMC_Linkblog", :rel => "alternate", :title => "Social Memory Complex: Linkblog", :type => "application/atom+xml" }
     %meta{ :name => "google-site-verification", :content => "yCP6NyO-2cMp1yzxWs6cN1jSSKOs5l87-R8qWbKOcUM" }
   %body
     .page
-      %h1= header(page)
-      = content
+      %h1!= header(page)
+      != content
       #footer
         - if page.fetch("bottom_nav", false)
           %ul#navigation
@@ -25,11 +25,15 @@
             - if target = page['next']
               %li= next_link(target)
         #license-area
-          %a{:rel=>"license", :href=>"http://creativecommons.org/licenses/by-nc-sa/3.0/"}
-            %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"}
+          %a{:rel=>"license", :href=>"https://creativecommons.org/licenses/by-nc-sa/3.0/"}
+            %img{:alt=>"Creative Commons License", :style=>"border-width:0", :src=>"https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"}
           %p This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
-          %p#copyright-area== Social Memory Complex (#{link_to 'http://socialmemorycomplex.net', '/'}) &copy; 2004 - #{Time.now.year} Jeremy Weiland
-        =disqus_two
+          %p#copyright-area
+            Social Memory Complex (
+            != link_to 'http://socialmemorycomplex.net', '/'
+            )
+            &copy; 2004 - #{Time.now.year} Jeremy Weiland
+
         #generation-text
           == This page was last generated #{Time.now.strftime("at %I:%M:%S %p on %A, %B %d, %Y")}.
 

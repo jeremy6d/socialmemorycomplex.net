@@ -1,6 +1,6 @@
 ---
 title: Back again
-tags: personal, ruby, jekyll
+tags: personal ruby jekyll
 ---
 
 So, it's been almost a year since I've updated this blog. There's a good reason for that. I love [Jekyll](https://jekyllrb.com) but I love [HAML](https://haml-lang.com) and [SASS](https://sass-lang.com) so much for markup that [I hacked Jekyll quite a bit](https://socialmemorycomplex.net/2010/03/14/full-disclosure/) and then never touched it again. When my computer went up in smoke (literally) last summer, and I had to reinstall everything, the old, fragile environment it ran on was gone, and I couldn't reestablish it. So I started playing with using Jekyll's plugin architecture. Finally got it working now.

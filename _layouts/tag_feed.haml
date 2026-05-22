@@ -1,0 +1,10 @@
+!!! XML
+- tag = page.fetch('tag', nil)
+- slug = tag_slug(tag)
+%feed{:xmlns => "http://www.w3.org/2005/Atom"}
+  %title== Social Memory Complex: #{tag}
+  %link{:href => "https://www.socialmemorycomplex.net/tags/#{slug}/feed.xml", :rel => "self"}/
+  %link{:href => "https://www.socialmemorycomplex.net/tags/#{slug}/"}/
+  %updated= site['time'].xmlschema
+  %id== https://www.socialmemorycomplex.net/tags/#{slug}/
+  != atom_entries_for("page.fetch('posts', [])")

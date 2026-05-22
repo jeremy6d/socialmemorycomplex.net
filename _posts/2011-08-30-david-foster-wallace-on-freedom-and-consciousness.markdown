@@ -1,6 +1,6 @@
 ---
 title: David Foster Wallace on freedom and consciousness
-tags: freedom, liberty, consciousness, responsibility
+tags: freedom liberty consciousness responsibility
 ---
 
 This quote from David Foster Wallace pretty much sums up my present thinking on the human condition and the possibilities for freedom and autonomy:
